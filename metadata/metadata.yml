@@ -1,0 +1,15 @@
+metadata_version: 1
+name: BP_Schizophrenia_Ripple
+description: |-
+  This capsule reproduces all analyses, figures, and supplementary tables
+    reported in the manuscript:
+
+      "Excessive Recruitment of Ripple-Rich States in Schizophrenia Links State Engagement to Positive Symptoms"
+
+    All results are recomputed from anonymized, derived data tables included
+    in the capsule; no raw MEG recordings are provided due to ethical and
+    institutional restrictions. Full reproduction of the computational workflow
+    is achieved by running the provided master script (run_all.py).
+corresponding_contributor:
+  name: Yuichi Takei
+  email: tyuichi@gunma-u.ac.jp

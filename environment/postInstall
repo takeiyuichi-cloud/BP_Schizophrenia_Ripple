@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -e
+
+# Python dependencies (keep minimal; add only if missing at runtime)
+pip install --upgrade pip
+pip install numpy pandas scipy statsmodels matplotlib nibabel scikit-learn openpyxl

@@ -1,0 +1,3952 @@
+site,group,subject,freq,network,n_events
+gundai,HC,NB_subject_63,120,Hippocampus,7
+gundai,HC,NB_subject_63,120,Somatomotor,1
+gundai,HC,NB_subject_63,120,Visual,4
+gundai,HC,NB_subject_63,160,Default,3
+gundai,HC,NB_subject_63,160,Frontoparietal,1
+gundai,HC,NB_subject_63,160,Hippocampus,3
+gundai,HC,NB_subject_63,160,Limbic,1
+gundai,HC,NB_subject_63,160,Unlabeled,1
+gundai,HC,NB_subject_63,160,Visual,2
+gundai,HC,NB_subject_63,200,Dorsal Attention,3
+gundai,HC,NB_subject_63,200,Frontoparietal,2
+gundai,HC,NB_subject_63,200,Hippocampus,5
+gundai,HC,NB_subject_63,200,Somatomotor,2
+gundai,HC,NB_subject_63,200,Visual,1
+gundai,HC,NB_subject_247,80,Default,3
+gundai,HC,NB_subject_247,80,Dorsal Attention,7
+gundai,HC,NB_subject_247,80,Frontoparietal,5
+gundai,HC,NB_subject_247,80,Hippocampus,4
+gundai,HC,NB_subject_247,80,Limbic,3
+gundai,HC,NB_subject_247,80,Somatomotor,7
+gundai,HC,NB_subject_247,80,Visual,14
+gundai,HC,NB_subject_247,120,Default,7
+gundai,HC,NB_subject_247,120,Dorsal Attention,6
+gundai,HC,NB_subject_247,120,Frontoparietal,4
+gundai,HC,NB_subject_247,120,Hippocampus,17
+gundai,HC,NB_subject_247,120,Somatomotor,15
+gundai,HC,NB_subject_247,120,Ventral Attention,11
+gundai,HC,NB_subject_247,120,Visual,3
+gundai,HC,NB_subject_247,160,Default,3
+gundai,HC,NB_subject_247,160,Dorsal Attention,2
+gundai,HC,NB_subject_247,160,Frontoparietal,3
+gundai,HC,NB_subject_247,160,Hippocampus,6
+gundai,HC,NB_subject_247,160,Limbic,1
+gundai,HC,NB_subject_247,160,Somatomotor,3
+gundai,HC,NB_subject_247,160,Unlabeled,1
+gundai,HC,NB_subject_247,160,Ventral Attention,3
+gundai,HC,NB_subject_247,160,Visual,9
+gundai,HC,NB_subject_247,200,Dorsal Attention,3
+gundai,HC,NB_subject_247,200,Frontoparietal,2
+gundai,HC,NB_subject_247,200,Hippocampus,4
+gundai,HC,NB_subject_247,200,Somatomotor,3
+gundai,HC,NB_subject_247,200,Ventral Attention,1
+gundai,HC,NB_subject_247,200,Visual,1
+gundai,HC,NB_subject_206,80,Default,3
+gundai,HC,NB_subject_206,80,Dorsal Attention,3
+gundai,HC,NB_subject_206,80,Frontoparietal,3
+gundai,HC,NB_subject_206,80,Hippocampus,7
+gundai,HC,NB_subject_206,80,Limbic,1
+gundai,HC,NB_subject_206,80,Somatomotor,2
+gundai,HC,NB_subject_206,80,Unlabeled,1
+gundai,HC,NB_subject_206,80,Ventral Attention,1
+gundai,HC,NB_subject_206,80,Visual,1
+gundai,HC,NB_subject_206,120,Default,5
+gundai,HC,NB_subject_206,120,Dorsal Attention,2
+gundai,HC,NB_subject_206,120,Frontoparietal,6
+gundai,HC,NB_subject_206,120,Hippocampus,11
+gundai,HC,NB_subject_206,120,Limbic,2
+gundai,HC,NB_subject_206,120,Somatomotor,11
+gundai,HC,NB_subject_206,120,Ventral Attention,1
+gundai,HC,NB_subject_206,120,Visual,5
+gundai,HC,NB_subject_206,160,Default,4
+gundai,HC,NB_subject_206,160,Dorsal Attention,2
+gundai,HC,NB_subject_206,160,Frontoparietal,3
+gundai,HC,NB_subject_206,160,Hippocampus,4
+gundai,HC,NB_subject_206,160,Somatomotor,3
+gundai,HC,NB_subject_206,160,Ventral Attention,1
+gundai,HC,NB_subject_206,160,Visual,4
+gundai,HC,NB_subject_206,200,Default,3
+gundai,HC,NB_subject_206,200,Dorsal Attention,2
+gundai,HC,NB_subject_206,200,Hippocampus,5
+gundai,HC,NB_subject_206,200,Limbic,1
+gundai,HC,NB_subject_206,200,Somatomotor,3
+gundai,HC,NB_subject_206,200,Ventral Attention,2
+gundai,HC,NB_subject_206,200,Visual,3
+gundai,SC,NB_subject_165,80,Default,5
+gundai,SC,NB_subject_165,80,Dorsal Attention,2
+gundai,SC,NB_subject_165,80,Frontoparietal,3
+gundai,SC,NB_subject_165,80,Hippocampus,19
+gundai,SC,NB_subject_165,80,Limbic,2
+gundai,SC,NB_subject_165,80,Somatomotor,8
+gundai,SC,NB_subject_165,80,Unlabeled,3
+gundai,SC,NB_subject_165,80,Ventral Attention,4
+gundai,SC,NB_subject_165,80,Visual,9
+gundai,SC,NB_subject_165,120,Default,6
+gundai,SC,NB_subject_165,120,Dorsal Attention,4
+gundai,SC,NB_subject_165,120,Frontoparietal,2
+gundai,SC,NB_subject_165,120,Hippocampus,16
+gundai,SC,NB_subject_165,120,Limbic,3
+gundai,SC,NB_subject_165,120,Somatomotor,8
+gundai,SC,NB_subject_165,120,Unlabeled,5
+gundai,SC,NB_subject_165,120,Ventral Attention,1
+gundai,SC,NB_subject_165,120,Visual,3
+gundai,SC,NB_subject_165,160,Default,3
+gundai,SC,NB_subject_165,160,Dorsal Attention,1
+gundai,SC,NB_subject_165,160,Frontoparietal,3
+gundai,SC,NB_subject_165,160,Hippocampus,10
+gundai,SC,NB_subject_165,160,Somatomotor,4
+gundai,SC,NB_subject_165,160,Unlabeled,1
+gundai,SC,NB_subject_165,160,Ventral Attention,1
+gundai,SC,NB_subject_165,160,Visual,5
+gundai,SC,NB_subject_165,200,Default,1
+gundai,SC,NB_subject_165,200,Dorsal Attention,2
+gundai,SC,NB_subject_165,200,Hippocampus,2
+gundai,SC,NB_subject_165,200,Limbic,1
+gundai,SC,NB_subject_165,200,Ventral Attention,1
+gundai,HC,NB_subject_123,80,Default,19
+gundai,HC,NB_subject_123,80,Dorsal Attention,22
+gundai,HC,NB_subject_123,80,Frontoparietal,17
+gundai,HC,NB_subject_123,80,Hippocampus,22
+gundai,HC,NB_subject_123,80,Limbic,4
+gundai,HC,NB_subject_123,80,Somatomotor,21
+gundai,HC,NB_subject_123,80,Ventral Attention,4
+gundai,HC,NB_subject_123,80,Visual,40
+gundai,HC,NB_subject_123,120,Default,34
+gundai,HC,NB_subject_123,120,Dorsal Attention,31
+gundai,HC,NB_subject_123,120,Frontoparietal,14
+gundai,HC,NB_subject_123,120,Hippocampus,36
+gundai,HC,NB_subject_123,120,Limbic,3
+gundai,HC,NB_subject_123,120,Somatomotor,21
+gundai,HC,NB_subject_123,120,Ventral Attention,12
+gundai,HC,NB_subject_123,120,Visual,44
+gundai,HC,NB_subject_123,160,Default,15
+gundai,HC,NB_subject_123,160,Dorsal Attention,10
+gundai,HC,NB_subject_123,160,Frontoparietal,11
+gundai,HC,NB_subject_123,160,Hippocampus,33
+gundai,HC,NB_subject_123,160,Limbic,2
+gundai,HC,NB_subject_123,160,Somatomotor,18
+gundai,HC,NB_subject_123,160,Unlabeled,1
+gundai,HC,NB_subject_123,160,Ventral Attention,6
+gundai,HC,NB_subject_123,160,Visual,31
+gundai,HC,NB_subject_123,200,Default,6
+gundai,HC,NB_subject_123,200,Dorsal Attention,6
+gundai,HC,NB_subject_123,200,Frontoparietal,1
+gundai,HC,NB_subject_123,200,Hippocampus,18
+gundai,HC,NB_subject_123,200,Somatomotor,7
+gundai,HC,NB_subject_123,200,Ventral Attention,3
+gundai,HC,NB_subject_123,200,Visual,6
+gundai,HC,NB_subject_123,240,Default,3
+gundai,HC,NB_subject_123,240,Frontoparietal,1
+gundai,HC,NB_subject_123,240,Hippocampus,2
+gundai,HC,NB_subject_123,240,Somatomotor,1
+gundai,HC,NB_subject_123,240,Ventral Attention,1
+gundai,HC,NB_subject_123,240,Visual,3
+gundai,HC,NB_subject_172,80,Default,5
+gundai,HC,NB_subject_172,80,Dorsal Attention,5
+gundai,HC,NB_subject_172,80,Frontoparietal,1
+gundai,HC,NB_subject_172,80,Hippocampus,10
+gundai,HC,NB_subject_172,80,Limbic,1
+gundai,HC,NB_subject_172,80,Somatomotor,5
+gundai,HC,NB_subject_172,80,Ventral Attention,2
+gundai,HC,NB_subject_172,80,Visual,5
+gundai,HC,NB_subject_172,120,Default,18
+gundai,HC,NB_subject_172,120,Dorsal Attention,11
+gundai,HC,NB_subject_172,120,Frontoparietal,13
+gundai,HC,NB_subject_172,120,Hippocampus,27
+gundai,HC,NB_subject_172,120,Limbic,2
+gundai,HC,NB_subject_172,120,Somatomotor,12
+gundai,HC,NB_subject_172,120,Unlabeled,1
+gundai,HC,NB_subject_172,120,Ventral Attention,7
+gundai,HC,NB_subject_172,120,Visual,28
+gundai,HC,NB_subject_172,160,Default,11
+gundai,HC,NB_subject_172,160,Dorsal Attention,11
+gundai,HC,NB_subject_172,160,Frontoparietal,13
+gundai,HC,NB_subject_172,160,Hippocampus,18
+gundai,HC,NB_subject_172,160,Limbic,2
+gundai,HC,NB_subject_172,160,Somatomotor,8
+gundai,HC,NB_subject_172,160,Unlabeled,1
+gundai,HC,NB_subject_172,160,Ventral Attention,7
+gundai,HC,NB_subject_172,160,Visual,15
+gundai,HC,NB_subject_172,200,Default,7
+gundai,HC,NB_subject_172,200,Dorsal Attention,2
+gundai,HC,NB_subject_172,200,Frontoparietal,7
+gundai,HC,NB_subject_172,200,Hippocampus,4
+gundai,HC,NB_subject_172,200,Limbic,2
+gundai,HC,NB_subject_172,200,Somatomotor,3
+gundai,HC,NB_subject_172,200,Unlabeled,1
+gundai,HC,NB_subject_172,200,Ventral Attention,8
+gundai,HC,NB_subject_172,200,Visual,7
+gundai,HC,NB_subject_172,240,Default,3
+gundai,HC,NB_subject_172,240,Dorsal Attention,1
+gundai,HC,NB_subject_172,240,Frontoparietal,1
+gundai,HC,NB_subject_172,240,Hippocampus,1
+gundai,HC,NB_subject_172,240,Somatomotor,1
+gundai,HC,NB_subject_172,240,Ventral Attention,3
+gundai,HC,NB_subject_187,80,Default,4
+gundai,HC,NB_subject_187,80,Dorsal Attention,4
+gundai,HC,NB_subject_187,80,Frontoparietal,1
+gundai,HC,NB_subject_187,80,Hippocampus,7
+gundai,HC,NB_subject_187,80,Limbic,2
+gundai,HC,NB_subject_187,80,Somatomotor,8
+gundai,HC,NB_subject_187,80,Unlabeled,1
+gundai,HC,NB_subject_187,80,Ventral Attention,1
+gundai,HC,NB_subject_187,80,Visual,11
+gundai,HC,NB_subject_187,120,Default,9
+gundai,HC,NB_subject_187,120,Dorsal Attention,4
+gundai,HC,NB_subject_187,120,Frontoparietal,4
+gundai,HC,NB_subject_187,120,Hippocampus,15
+gundai,HC,NB_subject_187,120,Limbic,1
+gundai,HC,NB_subject_187,120,Somatomotor,4
+gundai,HC,NB_subject_187,120,Unlabeled,1
+gundai,HC,NB_subject_187,120,Ventral Attention,4
+gundai,HC,NB_subject_187,120,Visual,8
+gundai,HC,NB_subject_187,160,Default,2
+gundai,HC,NB_subject_187,160,Dorsal Attention,6
+gundai,HC,NB_subject_187,160,Frontoparietal,5
+gundai,HC,NB_subject_187,160,Hippocampus,2
+gundai,HC,NB_subject_187,160,Somatomotor,2
+gundai,HC,NB_subject_187,160,Visual,5
+gundai,HC,NB_subject_187,200,Default,2
+gundai,HC,NB_subject_187,200,Frontoparietal,1
+gundai,HC,NB_subject_187,200,Hippocampus,6
+gundai,HC,NB_subject_187,200,Limbic,1
+gundai,HC,NB_subject_187,200,Somatomotor,4
+gundai,HC,NB_subject_187,200,Unlabeled,2
+gundai,HC,NB_subject_187,200,Ventral Attention,1
+gundai,HC,NB_subject_187,200,Visual,4
+gundai,HC,NB_subject_187,240,Default,2
+gundai,HC,NB_subject_187,240,Hippocampus,3
+gundai,HC,NB_subject_187,240,Ventral Attention,1
+gundai,HC,NB_subject_187,240,Visual,4
+gundai,HC,NB_subject_90,80,Default,1
+gundai,HC,NB_subject_90,80,Dorsal Attention,2
+gundai,HC,NB_subject_90,80,Frontoparietal,1
+gundai,HC,NB_subject_90,80,Hippocampus,1
+gundai,HC,NB_subject_90,80,Limbic,1
+gundai,HC,NB_subject_90,120,Default,7
+gundai,HC,NB_subject_90,120,Dorsal Attention,2
+gundai,HC,NB_subject_90,120,Frontoparietal,4
+gundai,HC,NB_subject_90,120,Hippocampus,7
+gundai,HC,NB_subject_90,120,Limbic,1
+gundai,HC,NB_subject_90,120,Somatomotor,2
+gundai,HC,NB_subject_90,120,Ventral Attention,5
+gundai,HC,NB_subject_90,120,Visual,10
+gundai,HC,NB_subject_90,160,Default,3
+gundai,HC,NB_subject_90,160,Dorsal Attention,1
+gundai,HC,NB_subject_90,160,Hippocampus,6
+gundai,HC,NB_subject_90,160,Limbic,1
+gundai,HC,NB_subject_90,160,Somatomotor,1
+gundai,HC,NB_subject_90,160,Unlabeled,1
+gundai,HC,NB_subject_90,160,Visual,1
+gundai,HC,NB_subject_90,200,Default,3
+gundai,HC,NB_subject_90,200,Dorsal Attention,1
+gundai,HC,NB_subject_90,200,Frontoparietal,3
+gundai,HC,NB_subject_90,200,Hippocampus,1
+gundai,HC,NB_subject_90,200,Ventral Attention,1
+gundai,HC,NB_subject_90,200,Visual,1
+gundai,HC,NB_subject_203,80,Default,25
+gundai,HC,NB_subject_203,80,Dorsal Attention,25
+gundai,HC,NB_subject_203,80,Frontoparietal,20
+gundai,HC,NB_subject_203,80,Hippocampus,14
+gundai,HC,NB_subject_203,80,Limbic,12
+gundai,HC,NB_subject_203,80,Somatomotor,25
+gundai,HC,NB_subject_203,80,Ventral Attention,11
+gundai,HC,NB_subject_203,80,Visual,55
+gundai,HC,NB_subject_203,120,Default,49
+gundai,HC,NB_subject_203,120,Dorsal Attention,41
+gundai,HC,NB_subject_203,120,Frontoparietal,40
+gundai,HC,NB_subject_203,120,Hippocampus,58
+gundai,HC,NB_subject_203,120,Limbic,23
+gundai,HC,NB_subject_203,120,Somatomotor,91
+gundai,HC,NB_subject_203,120,Unlabeled,5
+gundai,HC,NB_subject_203,120,Ventral Attention,35
+gundai,HC,NB_subject_203,120,Visual,122
+gundai,HC,NB_subject_203,160,Default,48
+gundai,HC,NB_subject_203,160,Dorsal Attention,57
+gundai,HC,NB_subject_203,160,Frontoparietal,30
+gundai,HC,NB_subject_203,160,Hippocampus,37
+gundai,HC,NB_subject_203,160,Limbic,24
+gundai,HC,NB_subject_203,160,Somatomotor,50
+gundai,HC,NB_subject_203,160,Unlabeled,16
+gundai,HC,NB_subject_203,160,Ventral Attention,20
+gundai,HC,NB_subject_203,160,Visual,75
+gundai,HC,NB_subject_203,200,Default,26
+gundai,HC,NB_subject_203,200,Dorsal Attention,20
+gundai,HC,NB_subject_203,200,Frontoparietal,25
+gundai,HC,NB_subject_203,200,Hippocampus,20
+gundai,HC,NB_subject_203,200,Limbic,10
+gundai,HC,NB_subject_203,200,Somatomotor,25
+gundai,HC,NB_subject_203,200,Unlabeled,5
+gundai,HC,NB_subject_203,200,Ventral Attention,18
+gundai,HC,NB_subject_203,200,Visual,37
+gundai,HC,NB_subject_203,240,Default,1
+gundai,HC,NB_subject_203,240,Dorsal Attention,2
+gundai,HC,NB_subject_203,240,Frontoparietal,4
+gundai,HC,NB_subject_203,240,Hippocampus,9
+gundai,HC,NB_subject_203,240,Somatomotor,4
+gundai,HC,NB_subject_203,240,Ventral Attention,3
+gundai,HC,NB_subject_203,240,Visual,2
+gundai,HC,NB_subject_173,80,Default,7
+gundai,HC,NB_subject_173,80,Dorsal Attention,9
+gundai,HC,NB_subject_173,80,Frontoparietal,10
+gundai,HC,NB_subject_173,80,Hippocampus,10
+gundai,HC,NB_subject_173,80,Somatomotor,15
+gundai,HC,NB_subject_173,80,Unlabeled,2
+gundai,HC,NB_subject_173,80,Ventral Attention,7
+gundai,HC,NB_subject_173,80,Visual,5
+gundai,HC,NB_subject_173,120,Default,10
+gundai,HC,NB_subject_173,120,Dorsal Attention,4
+gundai,HC,NB_subject_173,120,Frontoparietal,4
+gundai,HC,NB_subject_173,120,Hippocampus,20
+gundai,HC,NB_subject_173,120,Somatomotor,8
+gundai,HC,NB_subject_173,120,Unlabeled,5
+gundai,HC,NB_subject_173,120,Ventral Attention,7
+gundai,HC,NB_subject_173,120,Visual,17
+gundai,HC,NB_subject_173,160,Default,9
+gundai,HC,NB_subject_173,160,Dorsal Attention,2
+gundai,HC,NB_subject_173,160,Frontoparietal,7
+gundai,HC,NB_subject_173,160,Hippocampus,11
+gundai,HC,NB_subject_173,160,Limbic,1
+gundai,HC,NB_subject_173,160,Somatomotor,7
+gundai,HC,NB_subject_173,160,Ventral Attention,2
+gundai,HC,NB_subject_173,160,Visual,12
+gundai,HC,NB_subject_173,200,Default,5
+gundai,HC,NB_subject_173,200,Frontoparietal,2
+gundai,HC,NB_subject_173,200,Hippocampus,18
+gundai,HC,NB_subject_173,200,Limbic,3
+gundai,HC,NB_subject_173,200,Somatomotor,3
+gundai,HC,NB_subject_173,200,Unlabeled,1
+gundai,HC,NB_subject_173,200,Visual,3
+gundai,HC,NB_subject_173,240,Default,2
+gundai,HC,NB_subject_173,240,Hippocampus,2
+gundai,HC,NB_subject_173,240,Somatomotor,1
+gundai,HC,NB_subject_84,80,Default,11
+gundai,HC,NB_subject_84,80,Dorsal Attention,5
+gundai,HC,NB_subject_84,80,Frontoparietal,8
+gundai,HC,NB_subject_84,80,Hippocampus,15
+gundai,HC,NB_subject_84,80,Limbic,6
+gundai,HC,NB_subject_84,80,Somatomotor,11
+gundai,HC,NB_subject_84,80,Unlabeled,2
+gundai,HC,NB_subject_84,80,Ventral Attention,2
+gundai,HC,NB_subject_84,80,Visual,12
+gundai,HC,NB_subject_84,120,Default,10
+gundai,HC,NB_subject_84,120,Dorsal Attention,12
+gundai,HC,NB_subject_84,120,Frontoparietal,18
+gundai,HC,NB_subject_84,120,Hippocampus,23
+gundai,HC,NB_subject_84,120,Limbic,6
+gundai,HC,NB_subject_84,120,Somatomotor,14
+gundai,HC,NB_subject_84,120,Unlabeled,2
+gundai,HC,NB_subject_84,120,Ventral Attention,6
+gundai,HC,NB_subject_84,120,Visual,17
+gundai,HC,NB_subject_84,160,Default,16
+gundai,HC,NB_subject_84,160,Dorsal Attention,11
+gundai,HC,NB_subject_84,160,Frontoparietal,7
+gundai,HC,NB_subject_84,160,Hippocampus,9
+gundai,HC,NB_subject_84,160,Limbic,4
+gundai,HC,NB_subject_84,160,Somatomotor,11
+gundai,HC,NB_subject_84,160,Ventral Attention,5
+gundai,HC,NB_subject_84,160,Visual,9
+gundai,HC,NB_subject_84,200,Default,5
+gundai,HC,NB_subject_84,200,Dorsal Attention,2
+gundai,HC,NB_subject_84,200,Frontoparietal,2
+gundai,HC,NB_subject_84,200,Hippocampus,4
+gundai,HC,NB_subject_84,200,Limbic,1
+gundai,HC,NB_subject_84,200,Somatomotor,3
+gundai,HC,NB_subject_84,200,Ventral Attention,1
+gundai,HC,NB_subject_84,200,Visual,2
+gundai,SC,NB_subject_158,80,Default,24
+gundai,SC,NB_subject_158,80,Dorsal Attention,18
+gundai,SC,NB_subject_158,80,Frontoparietal,13
+gundai,SC,NB_subject_158,80,Hippocampus,52
+gundai,SC,NB_subject_158,80,Limbic,4
+gundai,SC,NB_subject_158,80,Somatomotor,28
+gundai,SC,NB_subject_158,80,Unlabeled,1
+gundai,SC,NB_subject_158,80,Ventral Attention,23
+gundai,SC,NB_subject_158,80,Visual,15
+gundai,SC,NB_subject_158,120,Default,65
+gundai,SC,NB_subject_158,120,Dorsal Attention,54
+gundai,SC,NB_subject_158,120,Frontoparietal,24
+gundai,SC,NB_subject_158,120,Hippocampus,125
+gundai,SC,NB_subject_158,120,Limbic,17
+gundai,SC,NB_subject_158,120,Somatomotor,83
+gundai,SC,NB_subject_158,120,Unlabeled,14
+gundai,SC,NB_subject_158,120,Ventral Attention,60
+gundai,SC,NB_subject_158,120,Visual,71
+gundai,SC,NB_subject_158,160,Default,77
+gundai,SC,NB_subject_158,160,Dorsal Attention,49
+gundai,SC,NB_subject_158,160,Frontoparietal,25
+gundai,SC,NB_subject_158,160,Hippocampus,157
+gundai,SC,NB_subject_158,160,Limbic,11
+gundai,SC,NB_subject_158,160,Somatomotor,114
+gundai,SC,NB_subject_158,160,Unlabeled,8
+gundai,SC,NB_subject_158,160,Ventral Attention,64
+gundai,SC,NB_subject_158,160,Visual,57
+gundai,SC,NB_subject_158,200,Default,80
+gundai,SC,NB_subject_158,200,Dorsal Attention,59
+gundai,SC,NB_subject_158,200,Frontoparietal,37
+gundai,SC,NB_subject_158,200,Hippocampus,172
+gundai,SC,NB_subject_158,200,Limbic,6
+gundai,SC,NB_subject_158,200,Somatomotor,115
+gundai,SC,NB_subject_158,200,Unlabeled,5
+gundai,SC,NB_subject_158,200,Ventral Attention,61
+gundai,SC,NB_subject_158,200,Visual,60
+gundai,SC,NB_subject_158,240,Default,16
+gundai,SC,NB_subject_158,240,Dorsal Attention,27
+gundai,SC,NB_subject_158,240,Frontoparietal,15
+gundai,SC,NB_subject_158,240,Hippocampus,76
+gundai,SC,NB_subject_158,240,Limbic,3
+gundai,SC,NB_subject_158,240,Somatomotor,47
+gundai,SC,NB_subject_158,240,Unlabeled,4
+gundai,SC,NB_subject_158,240,Ventral Attention,27
+gundai,SC,NB_subject_158,240,Visual,22
+gundai,SC,NB_subject_224,80,Default,14
+gundai,SC,NB_subject_224,80,Dorsal Attention,4
+gundai,SC,NB_subject_224,80,Frontoparietal,6
+gundai,SC,NB_subject_224,80,Hippocampus,22
+gundai,SC,NB_subject_224,80,Somatomotor,9
+gundai,SC,NB_subject_224,80,Ventral Attention,7
+gundai,SC,NB_subject_224,80,Visual,24
+gundai,SC,NB_subject_224,120,Default,16
+gundai,SC,NB_subject_224,120,Dorsal Attention,12
+gundai,SC,NB_subject_224,120,Frontoparietal,19
+gundai,SC,NB_subject_224,120,Hippocampus,33
+gundai,SC,NB_subject_224,120,Limbic,11
+gundai,SC,NB_subject_224,120,Somatomotor,25
+gundai,SC,NB_subject_224,120,Ventral Attention,6
+gundai,SC,NB_subject_224,120,Visual,26
+gundai,SC,NB_subject_224,160,Default,11
+gundai,SC,NB_subject_224,160,Dorsal Attention,5
+gundai,SC,NB_subject_224,160,Frontoparietal,7
+gundai,SC,NB_subject_224,160,Hippocampus,14
+gundai,SC,NB_subject_224,160,Limbic,2
+gundai,SC,NB_subject_224,160,Somatomotor,22
+gundai,SC,NB_subject_224,160,Ventral Attention,5
+gundai,SC,NB_subject_224,160,Visual,12
+gundai,SC,NB_subject_224,200,Default,4
+gundai,SC,NB_subject_224,200,Dorsal Attention,2
+gundai,SC,NB_subject_224,200,Frontoparietal,1
+gundai,SC,NB_subject_224,200,Hippocampus,13
+gundai,SC,NB_subject_224,200,Limbic,4
+gundai,SC,NB_subject_224,200,Somatomotor,1
+gundai,SC,NB_subject_224,200,Unlabeled,1
+gundai,SC,NB_subject_224,200,Ventral Attention,2
+gundai,SC,NB_subject_224,200,Visual,6
+gundai,SC,NB_subject_224,240,Default,1
+gundai,SC,NB_subject_224,240,Dorsal Attention,1
+gundai,SC,NB_subject_224,240,Frontoparietal,4
+gundai,SC,NB_subject_224,240,Hippocampus,2
+gundai,SC,NB_subject_224,240,Somatomotor,1
+gundai,SC,NB_subject_224,240,Ventral Attention,1
+gundai,SC,NB_subject_224,240,Visual,2
+gundai,HC,NB_subject_185,80,Default,16
+gundai,HC,NB_subject_185,80,Dorsal Attention,25
+gundai,HC,NB_subject_185,80,Frontoparietal,18
+gundai,HC,NB_subject_185,80,Hippocampus,18
+gundai,HC,NB_subject_185,80,Limbic,6
+gundai,HC,NB_subject_185,80,Somatomotor,21
+gundai,HC,NB_subject_185,80,Unlabeled,2
+gundai,HC,NB_subject_185,80,Ventral Attention,9
+gundai,HC,NB_subject_185,80,Visual,41
+gundai,HC,NB_subject_185,120,Default,21
+gundai,HC,NB_subject_185,120,Dorsal Attention,20
+gundai,HC,NB_subject_185,120,Frontoparietal,9
+gundai,HC,NB_subject_185,120,Hippocampus,19
+gundai,HC,NB_subject_185,120,Limbic,5
+gundai,HC,NB_subject_185,120,Somatomotor,18
+gundai,HC,NB_subject_185,120,Unlabeled,1
+gundai,HC,NB_subject_185,120,Ventral Attention,11
+gundai,HC,NB_subject_185,120,Visual,30
+gundai,HC,NB_subject_185,160,Default,8
+gundai,HC,NB_subject_185,160,Dorsal Attention,6
+gundai,HC,NB_subject_185,160,Frontoparietal,5
+gundai,HC,NB_subject_185,160,Hippocampus,8
+gundai,HC,NB_subject_185,160,Limbic,2
+gundai,HC,NB_subject_185,160,Somatomotor,13
+gundai,HC,NB_subject_185,160,Unlabeled,2
+gundai,HC,NB_subject_185,160,Ventral Attention,4
+gundai,HC,NB_subject_185,160,Visual,10
+gundai,HC,NB_subject_185,200,Default,2
+gundai,HC,NB_subject_185,200,Dorsal Attention,3
+gundai,HC,NB_subject_185,200,Frontoparietal,1
+gundai,HC,NB_subject_185,200,Somatomotor,2
+gundai,HC,NB_subject_185,200,Unlabeled,1
+gundai,HC,NB_subject_185,200,Ventral Attention,1
+gundai,HC,NB_subject_185,200,Visual,4
+gundai,HC,NB_subject_52,80,Frontoparietal,3
+gundai,HC,NB_subject_52,80,Somatomotor,2
+gundai,HC,NB_subject_52,80,Ventral Attention,1
+gundai,HC,NB_subject_52,120,Default,2
+gundai,HC,NB_subject_52,120,Dorsal Attention,2
+gundai,HC,NB_subject_52,120,Hippocampus,1
+gundai,HC,NB_subject_52,120,Somatomotor,4
+gundai,HC,NB_subject_52,120,Ventral Attention,1
+gundai,HC,NB_subject_52,120,Visual,4
+gundai,HC,NB_subject_199,80,Default,7
+gundai,HC,NB_subject_199,80,Dorsal Attention,7
+gundai,HC,NB_subject_199,80,Frontoparietal,4
+gundai,HC,NB_subject_199,80,Hippocampus,9
+gundai,HC,NB_subject_199,80,Somatomotor,9
+gundai,HC,NB_subject_199,80,Ventral Attention,6
+gundai,HC,NB_subject_199,80,Visual,17
+gundai,HC,NB_subject_199,120,Default,12
+gundai,HC,NB_subject_199,120,Dorsal Attention,16
+gundai,HC,NB_subject_199,120,Frontoparietal,11
+gundai,HC,NB_subject_199,120,Hippocampus,21
+gundai,HC,NB_subject_199,120,Limbic,8
+gundai,HC,NB_subject_199,120,Somatomotor,20
+gundai,HC,NB_subject_199,120,Unlabeled,5
+gundai,HC,NB_subject_199,120,Ventral Attention,13
+gundai,HC,NB_subject_199,120,Visual,12
+gundai,HC,NB_subject_199,160,Default,5
+gundai,HC,NB_subject_199,160,Dorsal Attention,6
+gundai,HC,NB_subject_199,160,Frontoparietal,7
+gundai,HC,NB_subject_199,160,Hippocampus,7
+gundai,HC,NB_subject_199,160,Limbic,1
+gundai,HC,NB_subject_199,160,Somatomotor,4
+gundai,HC,NB_subject_199,160,Ventral Attention,4
+gundai,HC,NB_subject_199,160,Visual,10
+gundai,HC,NB_subject_199,200,Default,4
+gundai,HC,NB_subject_199,200,Dorsal Attention,1
+gundai,HC,NB_subject_199,200,Frontoparietal,1
+gundai,HC,NB_subject_199,200,Hippocampus,4
+gundai,HC,NB_subject_199,200,Somatomotor,2
+gundai,HC,NB_subject_199,200,Visual,3
+gundai,HC,NB_subject_237,120,Default,1
+gundai,HC,NB_subject_237,120,Dorsal Attention,1
+gundai,HC,NB_subject_237,120,Hippocampus,2
+gundai,HC,NB_subject_237,120,Limbic,3
+gundai,HC,NB_subject_237,120,Visual,2
+gundai,HC,NB_subject_163,80,Default,3
+gundai,HC,NB_subject_163,80,Dorsal Attention,8
+gundai,HC,NB_subject_163,80,Frontoparietal,7
+gundai,HC,NB_subject_163,80,Hippocampus,6
+gundai,HC,NB_subject_163,80,Limbic,1
+gundai,HC,NB_subject_163,80,Somatomotor,2
+gundai,HC,NB_subject_163,80,Ventral Attention,4
+gundai,HC,NB_subject_163,80,Visual,4
+gundai,HC,NB_subject_163,120,Default,6
+gundai,HC,NB_subject_163,120,Dorsal Attention,10
+gundai,HC,NB_subject_163,120,Frontoparietal,15
+gundai,HC,NB_subject_163,120,Hippocampus,18
+gundai,HC,NB_subject_163,120,Limbic,5
+gundai,HC,NB_subject_163,120,Somatomotor,20
+gundai,HC,NB_subject_163,120,Ventral Attention,7
+gundai,HC,NB_subject_163,120,Visual,14
+gundai,HC,NB_subject_163,160,Default,5
+gundai,HC,NB_subject_163,160,Dorsal Attention,8
+gundai,HC,NB_subject_163,160,Frontoparietal,4
+gundai,HC,NB_subject_163,160,Hippocampus,15
+gundai,HC,NB_subject_163,160,Somatomotor,6
+gundai,HC,NB_subject_163,160,Unlabeled,2
+gundai,HC,NB_subject_163,160,Ventral Attention,2
+gundai,HC,NB_subject_163,160,Visual,9
+gundai,HC,NB_subject_163,200,Default,5
+gundai,HC,NB_subject_163,200,Dorsal Attention,2
+gundai,HC,NB_subject_163,200,Frontoparietal,5
+gundai,HC,NB_subject_163,200,Hippocampus,8
+gundai,HC,NB_subject_163,200,Limbic,4
+gundai,HC,NB_subject_163,200,Somatomotor,6
+gundai,HC,NB_subject_163,200,Unlabeled,2
+gundai,HC,NB_subject_163,200,Ventral Attention,1
+gundai,HC,NB_subject_163,200,Visual,9
+gundai,HC,NB_subject_163,240,Default,3
+gundai,HC,NB_subject_163,240,Dorsal Attention,1
+gundai,HC,NB_subject_163,240,Frontoparietal,1
+gundai,HC,NB_subject_163,240,Hippocampus,1
+gundai,HC,NB_subject_163,240,Somatomotor,2
+gundai,SC,NB_subject_93,80,Default,14
+gundai,SC,NB_subject_93,80,Dorsal Attention,5
+gundai,SC,NB_subject_93,80,Frontoparietal,12
+gundai,SC,NB_subject_93,80,Hippocampus,37
+gundai,SC,NB_subject_93,80,Limbic,9
+gundai,SC,NB_subject_93,80,Somatomotor,10
+gundai,SC,NB_subject_93,80,Unlabeled,5
+gundai,SC,NB_subject_93,80,Ventral Attention,7
+gundai,SC,NB_subject_93,80,Visual,11
+gundai,SC,NB_subject_93,120,Default,34
+gundai,SC,NB_subject_93,120,Dorsal Attention,35
+gundai,SC,NB_subject_93,120,Frontoparietal,17
+gundai,SC,NB_subject_93,120,Hippocampus,51
+gundai,SC,NB_subject_93,120,Limbic,9
+gundai,SC,NB_subject_93,120,Somatomotor,42
+gundai,SC,NB_subject_93,120,Ventral Attention,14
+gundai,SC,NB_subject_93,120,Visual,22
+gundai,SC,NB_subject_93,160,Default,12
+gundai,SC,NB_subject_93,160,Dorsal Attention,9
+gundai,SC,NB_subject_93,160,Frontoparietal,9
+gundai,SC,NB_subject_93,160,Hippocampus,40
+gundai,SC,NB_subject_93,160,Limbic,13
+gundai,SC,NB_subject_93,160,Somatomotor,23
+gundai,SC,NB_subject_93,160,Ventral Attention,9
+gundai,SC,NB_subject_93,160,Visual,11
+gundai,SC,NB_subject_93,200,Default,2
+gundai,SC,NB_subject_93,200,Dorsal Attention,5
+gundai,SC,NB_subject_93,200,Frontoparietal,3
+gundai,SC,NB_subject_93,200,Hippocampus,11
+gundai,SC,NB_subject_93,200,Limbic,1
+gundai,SC,NB_subject_93,200,Somatomotor,6
+gundai,SC,NB_subject_93,200,Ventral Attention,3
+gundai,SC,NB_subject_93,200,Visual,6
+gundai,HC,NB_subject_50,80,Hippocampus,3
+gundai,HC,NB_subject_50,80,Visual,1
+gundai,HC,NB_subject_82,80,Default,67
+gundai,HC,NB_subject_82,80,Dorsal Attention,21
+gundai,HC,NB_subject_82,80,Frontoparietal,28
+gundai,HC,NB_subject_82,80,Hippocampus,85
+gundai,HC,NB_subject_82,80,Limbic,22
+gundai,HC,NB_subject_82,80,Somatomotor,82
+gundai,HC,NB_subject_82,80,Ventral Attention,37
+gundai,HC,NB_subject_82,80,Visual,88
+gundai,HC,NB_subject_82,120,Default,133
+gundai,HC,NB_subject_82,120,Dorsal Attention,43
+gundai,HC,NB_subject_82,120,Frontoparietal,49
+gundai,HC,NB_subject_82,120,Hippocampus,205
+gundai,HC,NB_subject_82,120,Limbic,41
+gundai,HC,NB_subject_82,120,Somatomotor,136
+gundai,HC,NB_subject_82,120,Ventral Attention,46
+gundai,HC,NB_subject_82,120,Visual,103
+gundai,HC,NB_subject_82,160,Default,94
+gundai,HC,NB_subject_82,160,Dorsal Attention,37
+gundai,HC,NB_subject_82,160,Frontoparietal,43
+gundai,HC,NB_subject_82,160,Hippocampus,168
+gundai,HC,NB_subject_82,160,Limbic,35
+gundai,HC,NB_subject_82,160,Somatomotor,90
+gundai,HC,NB_subject_82,160,Ventral Attention,65
+gundai,HC,NB_subject_82,160,Visual,118
+gundai,HC,NB_subject_82,200,Default,77
+gundai,HC,NB_subject_82,200,Dorsal Attention,60
+gundai,HC,NB_subject_82,200,Frontoparietal,38
+gundai,HC,NB_subject_82,200,Hippocampus,111
+gundai,HC,NB_subject_82,200,Limbic,24
+gundai,HC,NB_subject_82,200,Somatomotor,107
+gundai,HC,NB_subject_82,200,Unlabeled,1
+gundai,HC,NB_subject_82,200,Ventral Attention,51
+gundai,HC,NB_subject_82,200,Visual,117
+gundai,HC,NB_subject_82,240,Default,25
+gundai,HC,NB_subject_82,240,Dorsal Attention,12
+gundai,HC,NB_subject_82,240,Frontoparietal,13
+gundai,HC,NB_subject_82,240,Hippocampus,28
+gundai,HC,NB_subject_82,240,Limbic,5
+gundai,HC,NB_subject_82,240,Somatomotor,21
+gundai,HC,NB_subject_82,240,Unlabeled,1
+gundai,HC,NB_subject_82,240,Ventral Attention,9
+gundai,HC,NB_subject_82,240,Visual,30
+gundai,SC,NB_subject_239,120,Default,4
+gundai,SC,NB_subject_239,120,Dorsal Attention,5
+gundai,SC,NB_subject_239,120,Frontoparietal,3
+gundai,SC,NB_subject_239,120,Hippocampus,2
+gundai,SC,NB_subject_239,120,Somatomotor,1
+gundai,SC,NB_subject_239,120,Ventral Attention,3
+gundai,SC,NB_subject_239,120,Visual,9
+gundai,SC,NB_subject_239,160,Default,5
+gundai,SC,NB_subject_239,160,Dorsal Attention,1
+gundai,SC,NB_subject_239,160,Frontoparietal,2
+gundai,SC,NB_subject_239,160,Hippocampus,2
+gundai,SC,NB_subject_239,160,Limbic,4
+gundai,SC,NB_subject_239,160,Somatomotor,1
+gundai,SC,NB_subject_239,160,Ventral Attention,2
+gundai,SC,NB_subject_239,160,Visual,4
+gundai,SC,NB_subject_239,200,Default,2
+gundai,SC,NB_subject_239,200,Frontoparietal,1
+gundai,SC,NB_subject_239,200,Hippocampus,1
+gundai,SC,NB_subject_239,200,Limbic,1
+gundai,SC,NB_subject_239,200,Unlabeled,1
+gundai,SC,NB_subject_239,200,Visual,1
+gundai,HC,NB_subject_128,80,Default,2
+gundai,HC,NB_subject_128,80,Dorsal Attention,4
+gundai,HC,NB_subject_128,80,Frontoparietal,5
+gundai,HC,NB_subject_128,80,Hippocampus,10
+gundai,HC,NB_subject_128,80,Limbic,2
+gundai,HC,NB_subject_128,80,Somatomotor,3
+gundai,HC,NB_subject_128,80,Unlabeled,1
+gundai,HC,NB_subject_128,80,Ventral Attention,1
+gundai,HC,NB_subject_128,120,Default,8
+gundai,HC,NB_subject_128,120,Dorsal Attention,6
+gundai,HC,NB_subject_128,120,Frontoparietal,5
+gundai,HC,NB_subject_128,120,Hippocampus,5
+gundai,HC,NB_subject_128,120,Somatomotor,14
+gundai,HC,NB_subject_128,120,Ventral Attention,5
+gundai,HC,NB_subject_128,120,Visual,2
+gundai,HC,NB_subject_128,160,Default,5
+gundai,HC,NB_subject_128,160,Dorsal Attention,1
+gundai,HC,NB_subject_128,160,Frontoparietal,3
+gundai,HC,NB_subject_128,160,Hippocampus,5
+gundai,HC,NB_subject_128,160,Somatomotor,4
+gundai,HC,NB_subject_128,160,Unlabeled,2
+gundai,HC,NB_subject_128,160,Ventral Attention,4
+gundai,HC,NB_subject_128,160,Visual,1
+gundai,HC,NB_subject_128,200,Default,2
+gundai,HC,NB_subject_128,200,Frontoparietal,1
+gundai,HC,NB_subject_128,200,Hippocampus,3
+gundai,HC,NB_subject_128,200,Limbic,3
+gundai,HC,NB_subject_128,200,Somatomotor,7
+gundai,HC,NB_subject_128,200,Unlabeled,1
+gundai,HC,NB_subject_170,80,Default,8
+gundai,HC,NB_subject_170,80,Dorsal Attention,22
+gundai,HC,NB_subject_170,80,Frontoparietal,6
+gundai,HC,NB_subject_170,80,Hippocampus,22
+gundai,HC,NB_subject_170,80,Limbic,5
+gundai,HC,NB_subject_170,80,Somatomotor,34
+gundai,HC,NB_subject_170,80,Unlabeled,1
+gundai,HC,NB_subject_170,80,Ventral Attention,5
+gundai,HC,NB_subject_170,80,Visual,21
+gundai,HC,NB_subject_170,120,Default,5
+gundai,HC,NB_subject_170,120,Dorsal Attention,36
+gundai,HC,NB_subject_170,120,Frontoparietal,17
+gundai,HC,NB_subject_170,120,Hippocampus,38
+gundai,HC,NB_subject_170,120,Limbic,4
+gundai,HC,NB_subject_170,120,Somatomotor,47
+gundai,HC,NB_subject_170,120,Ventral Attention,18
+gundai,HC,NB_subject_170,120,Visual,46
+gundai,HC,NB_subject_170,160,Default,7
+gundai,HC,NB_subject_170,160,Dorsal Attention,10
+gundai,HC,NB_subject_170,160,Frontoparietal,3
+gundai,HC,NB_subject_170,160,Hippocampus,22
+gundai,HC,NB_subject_170,160,Limbic,1
+gundai,HC,NB_subject_170,160,Somatomotor,16
+gundai,HC,NB_subject_170,160,Unlabeled,1
+gundai,HC,NB_subject_170,160,Ventral Attention,2
+gundai,HC,NB_subject_170,160,Visual,13
+gundai,HC,NB_subject_170,200,Default,8
+gundai,HC,NB_subject_170,200,Dorsal Attention,2
+gundai,HC,NB_subject_170,200,Frontoparietal,7
+gundai,HC,NB_subject_170,200,Hippocampus,9
+gundai,HC,NB_subject_170,200,Limbic,1
+gundai,HC,NB_subject_170,200,Somatomotor,10
+gundai,HC,NB_subject_170,200,Ventral Attention,1
+gundai,HC,NB_subject_170,200,Visual,5
+gundai,HC,NB_subject_170,240,Default,2
+gundai,HC,NB_subject_170,240,Frontoparietal,1
+gundai,HC,NB_subject_170,240,Hippocampus,4
+gundai,HC,NB_subject_170,240,Somatomotor,1
+gundai,HC,NB_subject_170,240,Unlabeled,1
+gundai,HC,NB_subject_170,240,Ventral Attention,2
+gundai,HC,NB_subject_170,240,Visual,5
+gundai,HC,NB_subject_281,80,Default,17
+gundai,HC,NB_subject_281,80,Dorsal Attention,21
+gundai,HC,NB_subject_281,80,Frontoparietal,8
+gundai,HC,NB_subject_281,80,Hippocampus,27
+gundai,HC,NB_subject_281,80,Limbic,3
+gundai,HC,NB_subject_281,80,Somatomotor,21
+gundai,HC,NB_subject_281,80,Ventral Attention,18
+gundai,HC,NB_subject_281,80,Visual,30
+gundai,HC,NB_subject_281,120,Default,17
+gundai,HC,NB_subject_281,120,Dorsal Attention,16
+gundai,HC,NB_subject_281,120,Frontoparietal,12
+gundai,HC,NB_subject_281,120,Hippocampus,58
+gundai,HC,NB_subject_281,120,Limbic,4
+gundai,HC,NB_subject_281,120,Somatomotor,26
+gundai,HC,NB_subject_281,120,Unlabeled,3
+gundai,HC,NB_subject_281,120,Ventral Attention,14
+gundai,HC,NB_subject_281,120,Visual,42
+gundai,HC,NB_subject_281,160,Default,15
+gundai,HC,NB_subject_281,160,Dorsal Attention,16
+gundai,HC,NB_subject_281,160,Frontoparietal,18
+gundai,HC,NB_subject_281,160,Hippocampus,40
+gundai,HC,NB_subject_281,160,Limbic,2
+gundai,HC,NB_subject_281,160,Somatomotor,30
+gundai,HC,NB_subject_281,160,Unlabeled,1
+gundai,HC,NB_subject_281,160,Ventral Attention,8
+gundai,HC,NB_subject_281,160,Visual,37
+gundai,HC,NB_subject_281,200,Default,6
+gundai,HC,NB_subject_281,200,Dorsal Attention,13
+gundai,HC,NB_subject_281,200,Frontoparietal,24
+gundai,HC,NB_subject_281,200,Hippocampus,35
+gundai,HC,NB_subject_281,200,Limbic,4
+gundai,HC,NB_subject_281,200,Somatomotor,12
+gundai,HC,NB_subject_281,200,Unlabeled,2
+gundai,HC,NB_subject_281,200,Ventral Attention,6
+gundai,HC,NB_subject_281,200,Visual,32
+gundai,HC,NB_subject_281,240,Default,15
+gundai,HC,NB_subject_281,240,Dorsal Attention,7
+gundai,HC,NB_subject_281,240,Frontoparietal,6
+gundai,HC,NB_subject_281,240,Hippocampus,11
+gundai,HC,NB_subject_281,240,Somatomotor,6
+gundai,HC,NB_subject_281,240,Ventral Attention,2
+gundai,HC,NB_subject_281,240,Visual,12
+gundai,HC,NB_subject_120,80,Default,7
+gundai,HC,NB_subject_120,80,Dorsal Attention,4
+gundai,HC,NB_subject_120,80,Frontoparietal,3
+gundai,HC,NB_subject_120,80,Hippocampus,12
+gundai,HC,NB_subject_120,80,Somatomotor,6
+gundai,HC,NB_subject_120,80,Unlabeled,2
+gundai,HC,NB_subject_120,80,Ventral Attention,2
+gundai,HC,NB_subject_120,80,Visual,7
+gundai,HC,NB_subject_120,120,Default,6
+gundai,HC,NB_subject_120,120,Dorsal Attention,8
+gundai,HC,NB_subject_120,120,Frontoparietal,6
+gundai,HC,NB_subject_120,120,Hippocampus,9
+gundai,HC,NB_subject_120,120,Limbic,2
+gundai,HC,NB_subject_120,120,Somatomotor,14
+gundai,HC,NB_subject_120,120,Unlabeled,2
+gundai,HC,NB_subject_120,120,Ventral Attention,7
+gundai,HC,NB_subject_120,120,Visual,5
+gundai,HC,NB_subject_120,160,Default,7
+gundai,HC,NB_subject_120,160,Dorsal Attention,6
+gundai,HC,NB_subject_120,160,Frontoparietal,4
+gundai,HC,NB_subject_120,160,Hippocampus,9
+gundai,HC,NB_subject_120,160,Limbic,1
+gundai,HC,NB_subject_120,160,Somatomotor,5
+gundai,HC,NB_subject_120,160,Unlabeled,1
+gundai,HC,NB_subject_120,160,Ventral Attention,4
+gundai,HC,NB_subject_120,160,Visual,4
+gundai,HC,NB_subject_120,200,Default,3
+gundai,HC,NB_subject_120,200,Dorsal Attention,5
+gundai,HC,NB_subject_120,200,Frontoparietal,7
+gundai,HC,NB_subject_120,200,Hippocampus,7
+gundai,HC,NB_subject_120,200,Somatomotor,5
+gundai,HC,NB_subject_120,200,Ventral Attention,5
+gundai,HC,NB_subject_120,200,Visual,5
+gundai,HC,NB_subject_116,80,Default,23
+gundai,HC,NB_subject_116,80,Dorsal Attention,24
+gundai,HC,NB_subject_116,80,Frontoparietal,5
+gundai,HC,NB_subject_116,80,Hippocampus,64
+gundai,HC,NB_subject_116,80,Limbic,10
+gundai,HC,NB_subject_116,80,Somatomotor,21
+gundai,HC,NB_subject_116,80,Unlabeled,2
+gundai,HC,NB_subject_116,80,Ventral Attention,13
+gundai,HC,NB_subject_116,80,Visual,37
+gundai,HC,NB_subject_116,120,Default,33
+gundai,HC,NB_subject_116,120,Dorsal Attention,55
+gundai,HC,NB_subject_116,120,Frontoparietal,22
+gundai,HC,NB_subject_116,120,Hippocampus,147
+gundai,HC,NB_subject_116,120,Limbic,8
+gundai,HC,NB_subject_116,120,Somatomotor,31
+gundai,HC,NB_subject_116,120,Unlabeled,1
+gundai,HC,NB_subject_116,120,Ventral Attention,16
+gundai,HC,NB_subject_116,120,Visual,55
+gundai,HC,NB_subject_116,160,Default,34
+gundai,HC,NB_subject_116,160,Dorsal Attention,37
+gundai,HC,NB_subject_116,160,Frontoparietal,13
+gundai,HC,NB_subject_116,160,Hippocampus,114
+gundai,HC,NB_subject_116,160,Limbic,7
+gundai,HC,NB_subject_116,160,Somatomotor,33
+gundai,HC,NB_subject_116,160,Unlabeled,4
+gundai,HC,NB_subject_116,160,Ventral Attention,21
+gundai,HC,NB_subject_116,160,Visual,50
+gundai,HC,NB_subject_116,200,Default,19
+gundai,HC,NB_subject_116,200,Dorsal Attention,26
+gundai,HC,NB_subject_116,200,Frontoparietal,13
+gundai,HC,NB_subject_116,200,Hippocampus,91
+gundai,HC,NB_subject_116,200,Limbic,5
+gundai,HC,NB_subject_116,200,Somatomotor,25
+gundai,HC,NB_subject_116,200,Unlabeled,3
+gundai,HC,NB_subject_116,200,Ventral Attention,6
+gundai,HC,NB_subject_116,200,Visual,53
+gundai,HC,NB_subject_116,240,Default,5
+gundai,HC,NB_subject_116,240,Dorsal Attention,13
+gundai,HC,NB_subject_116,240,Frontoparietal,4
+gundai,HC,NB_subject_116,240,Hippocampus,22
+gundai,HC,NB_subject_116,240,Limbic,1
+gundai,HC,NB_subject_116,240,Somatomotor,5
+gundai,HC,NB_subject_116,240,Unlabeled,1
+gundai,HC,NB_subject_116,240,Ventral Attention,1
+gundai,HC,NB_subject_116,240,Visual,9
+gundai,SC,NB_subject_134,80,Default,1
+gundai,SC,NB_subject_134,80,Dorsal Attention,3
+gundai,SC,NB_subject_134,80,Frontoparietal,9
+gundai,SC,NB_subject_134,80,Hippocampus,3
+gundai,SC,NB_subject_134,80,Somatomotor,9
+gundai,SC,NB_subject_134,80,Ventral Attention,4
+gundai,SC,NB_subject_134,80,Visual,7
+gundai,SC,NB_subject_134,120,Default,6
+gundai,SC,NB_subject_134,120,Dorsal Attention,4
+gundai,SC,NB_subject_134,120,Frontoparietal,2
+gundai,SC,NB_subject_134,120,Hippocampus,13
+gundai,SC,NB_subject_134,120,Limbic,2
+gundai,SC,NB_subject_134,120,Somatomotor,4
+gundai,SC,NB_subject_134,120,Ventral Attention,3
+gundai,SC,NB_subject_134,120,Visual,4
+gundai,SC,NB_subject_134,160,Default,15
+gundai,SC,NB_subject_134,160,Dorsal Attention,6
+gundai,SC,NB_subject_134,160,Frontoparietal,4
+gundai,SC,NB_subject_134,160,Hippocampus,9
+gundai,SC,NB_subject_134,160,Somatomotor,3
+gundai,SC,NB_subject_134,160,Unlabeled,1
+gundai,SC,NB_subject_134,160,Ventral Attention,6
+gundai,SC,NB_subject_134,160,Visual,5
+gundai,SC,NB_subject_134,200,Default,6
+gundai,SC,NB_subject_134,200,Dorsal Attention,2
+gundai,SC,NB_subject_134,200,Frontoparietal,3
+gundai,SC,NB_subject_134,200,Hippocampus,6
+gundai,SC,NB_subject_134,200,Somatomotor,6
+gundai,SC,NB_subject_134,200,Ventral Attention,3
+gundai,SC,NB_subject_134,200,Visual,11
+gundai,SC,NB_subject_134,240,Default,3
+gundai,SC,NB_subject_134,240,Dorsal Attention,1
+gundai,SC,NB_subject_134,240,Frontoparietal,2
+gundai,SC,NB_subject_134,240,Hippocampus,5
+gundai,SC,NB_subject_134,240,Limbic,1
+gundai,SC,NB_subject_134,240,Somatomotor,1
+gundai,SC,NB_subject_134,240,Visual,3
+gundai,SC,NB_subject_238,80,Default,28
+gundai,SC,NB_subject_238,80,Dorsal Attention,24
+gundai,SC,NB_subject_238,80,Frontoparietal,33
+gundai,SC,NB_subject_238,80,Hippocampus,26
+gundai,SC,NB_subject_238,80,Limbic,10
+gundai,SC,NB_subject_238,80,Somatomotor,40
+gundai,SC,NB_subject_238,80,Unlabeled,1
+gundai,SC,NB_subject_238,80,Ventral Attention,24
+gundai,SC,NB_subject_238,80,Visual,47
+gundai,SC,NB_subject_238,120,Default,50
+gundai,SC,NB_subject_238,120,Dorsal Attention,30
+gundai,SC,NB_subject_238,120,Frontoparietal,31
+gundai,SC,NB_subject_238,120,Hippocampus,52
+gundai,SC,NB_subject_238,120,Limbic,7
+gundai,SC,NB_subject_238,120,Somatomotor,52
+gundai,SC,NB_subject_238,120,Unlabeled,2
+gundai,SC,NB_subject_238,120,Ventral Attention,37
+gundai,SC,NB_subject_238,120,Visual,33
+gundai,SC,NB_subject_238,160,Default,31
+gundai,SC,NB_subject_238,160,Dorsal Attention,22
+gundai,SC,NB_subject_238,160,Frontoparietal,21
+gundai,SC,NB_subject_238,160,Hippocampus,29
+gundai,SC,NB_subject_238,160,Limbic,1
+gundai,SC,NB_subject_238,160,Somatomotor,27
+gundai,SC,NB_subject_238,160,Ventral Attention,14
+gundai,SC,NB_subject_238,160,Visual,30
+gundai,SC,NB_subject_238,200,Default,17
+gundai,SC,NB_subject_238,200,Dorsal Attention,15
+gundai,SC,NB_subject_238,200,Frontoparietal,6
+gundai,SC,NB_subject_238,200,Hippocampus,30
+gundai,SC,NB_subject_238,200,Limbic,4
+gundai,SC,NB_subject_238,200,Somatomotor,31
+gundai,SC,NB_subject_238,200,Ventral Attention,17
+gundai,SC,NB_subject_238,200,Visual,27
+gundai,SC,NB_subject_238,240,Default,4
+gundai,SC,NB_subject_238,240,Dorsal Attention,1
+gundai,SC,NB_subject_238,240,Frontoparietal,3
+gundai,SC,NB_subject_238,240,Hippocampus,7
+gundai,SC,NB_subject_238,240,Somatomotor,3
+gundai,SC,NB_subject_238,240,Ventral Attention,1
+gundai,SC,NB_subject_238,240,Visual,2
+gundai,HC,NB_subject_201,80,Default,21
+gundai,HC,NB_subject_201,80,Dorsal Attention,14
+gundai,HC,NB_subject_201,80,Frontoparietal,18
+gundai,HC,NB_subject_201,80,Hippocampus,8
+gundai,HC,NB_subject_201,80,Limbic,1
+gundai,HC,NB_subject_201,80,Somatomotor,19
+gundai,HC,NB_subject_201,80,Ventral Attention,6
+gundai,HC,NB_subject_201,80,Visual,20
+gundai,HC,NB_subject_201,120,Default,13
+gundai,HC,NB_subject_201,120,Dorsal Attention,12
+gundai,HC,NB_subject_201,120,Frontoparietal,8
+gundai,HC,NB_subject_201,120,Hippocampus,11
+gundai,HC,NB_subject_201,120,Somatomotor,15
+gundai,HC,NB_subject_201,120,Unlabeled,4
+gundai,HC,NB_subject_201,120,Ventral Attention,10
+gundai,HC,NB_subject_201,120,Visual,22
+gundai,HC,NB_subject_201,160,Default,3
+gundai,HC,NB_subject_201,160,Dorsal Attention,2
+gundai,HC,NB_subject_201,160,Frontoparietal,3
+gundai,HC,NB_subject_201,160,Hippocampus,6
+gundai,HC,NB_subject_201,160,Limbic,1
+gundai,HC,NB_subject_201,160,Somatomotor,2
+gundai,HC,NB_subject_201,160,Ventral Attention,1
+gundai,HC,NB_subject_201,160,Visual,8
+gundai,HC,NB_subject_201,200,Default,4
+gundai,HC,NB_subject_201,200,Dorsal Attention,1
+gundai,HC,NB_subject_201,200,Frontoparietal,1
+gundai,HC,NB_subject_201,200,Somatomotor,6
+gundai,HC,NB_subject_201,200,Visual,3
+gundai,HC,NB_subject_83,80,Default,59
+gundai,HC,NB_subject_83,80,Dorsal Attention,52
+gundai,HC,NB_subject_83,80,Frontoparietal,43
+gundai,HC,NB_subject_83,80,Hippocampus,75
+gundai,HC,NB_subject_83,80,Limbic,12
+gundai,HC,NB_subject_83,80,Somatomotor,62
+gundai,HC,NB_subject_83,80,Unlabeled,5
+gundai,HC,NB_subject_83,80,Ventral Attention,45
+gundai,HC,NB_subject_83,80,Visual,25
+gundai,HC,NB_subject_83,120,Default,54
+gundai,HC,NB_subject_83,120,Dorsal Attention,42
+gundai,HC,NB_subject_83,120,Frontoparietal,43
+gundai,HC,NB_subject_83,120,Hippocampus,91
+gundai,HC,NB_subject_83,120,Limbic,8
+gundai,HC,NB_subject_83,120,Somatomotor,52
+gundai,HC,NB_subject_83,120,Ventral Attention,39
+gundai,HC,NB_subject_83,120,Visual,17
+gundai,HC,NB_subject_83,160,Default,36
+gundai,HC,NB_subject_83,160,Dorsal Attention,37
+gundai,HC,NB_subject_83,160,Frontoparietal,23
+gundai,HC,NB_subject_83,160,Hippocampus,79
+gundai,HC,NB_subject_83,160,Limbic,10
+gundai,HC,NB_subject_83,160,Somatomotor,44
+gundai,HC,NB_subject_83,160,Unlabeled,2
+gundai,HC,NB_subject_83,160,Ventral Attention,17
+gundai,HC,NB_subject_83,160,Visual,9
+gundai,HC,NB_subject_83,200,Default,15
+gundai,HC,NB_subject_83,200,Dorsal Attention,15
+gundai,HC,NB_subject_83,200,Frontoparietal,15
+gundai,HC,NB_subject_83,200,Hippocampus,53
+gundai,HC,NB_subject_83,200,Limbic,6
+gundai,HC,NB_subject_83,200,Somatomotor,11
+gundai,HC,NB_subject_83,200,Unlabeled,1
+gundai,HC,NB_subject_83,200,Ventral Attention,9
+gundai,HC,NB_subject_83,200,Visual,8
+gundai,HC,NB_subject_83,240,Default,4
+gundai,HC,NB_subject_83,240,Dorsal Attention,1
+gundai,HC,NB_subject_83,240,Frontoparietal,2
+gundai,HC,NB_subject_83,240,Hippocampus,14
+gundai,HC,NB_subject_83,240,Limbic,2
+gundai,HC,NB_subject_83,240,Somatomotor,4
+gundai,HC,NB_subject_83,240,Visual,2
+gundai,HC,NB_subject_49,80,Default,54
+gundai,HC,NB_subject_49,80,Dorsal Attention,64
+gundai,HC,NB_subject_49,80,Frontoparietal,48
+gundai,HC,NB_subject_49,80,Hippocampus,76
+gundai,HC,NB_subject_49,80,Limbic,12
+gundai,HC,NB_subject_49,80,Somatomotor,60
+gundai,HC,NB_subject_49,80,Unlabeled,12
+gundai,HC,NB_subject_49,80,Ventral Attention,29
+gundai,HC,NB_subject_49,80,Visual,62
+gundai,HC,NB_subject_49,120,Default,27
+gundai,HC,NB_subject_49,120,Dorsal Attention,32
+gundai,HC,NB_subject_49,120,Frontoparietal,33
+gundai,HC,NB_subject_49,120,Hippocampus,36
+gundai,HC,NB_subject_49,120,Limbic,7
+gundai,HC,NB_subject_49,120,Somatomotor,69
+gundai,HC,NB_subject_49,120,Unlabeled,1
+gundai,HC,NB_subject_49,120,Ventral Attention,9
+gundai,HC,NB_subject_49,120,Visual,40
+gundai,HC,NB_subject_49,160,Default,16
+gundai,HC,NB_subject_49,160,Dorsal Attention,29
+gundai,HC,NB_subject_49,160,Frontoparietal,20
+gundai,HC,NB_subject_49,160,Hippocampus,14
+gundai,HC,NB_subject_49,160,Limbic,4
+gundai,HC,NB_subject_49,160,Somatomotor,23
+gundai,HC,NB_subject_49,160,Unlabeled,2
+gundai,HC,NB_subject_49,160,Ventral Attention,10
+gundai,HC,NB_subject_49,160,Visual,13
+gundai,HC,NB_subject_49,200,Default,13
+gundai,HC,NB_subject_49,200,Dorsal Attention,13
+gundai,HC,NB_subject_49,200,Frontoparietal,11
+gundai,HC,NB_subject_49,200,Hippocampus,20
+gundai,HC,NB_subject_49,200,Limbic,2
+gundai,HC,NB_subject_49,200,Somatomotor,14
+gundai,HC,NB_subject_49,200,Ventral Attention,12
+gundai,HC,NB_subject_49,200,Visual,17
+gundai,HC,NB_subject_49,240,Default,2
+gundai,HC,NB_subject_49,240,Dorsal Attention,3
+gundai,HC,NB_subject_49,240,Frontoparietal,1
+gundai,HC,NB_subject_49,240,Hippocampus,3
+gundai,HC,NB_subject_49,240,Somatomotor,1
+gundai,HC,NB_subject_49,240,Unlabeled,1
+gundai,HC,NB_subject_49,240,Ventral Attention,2
+gundai,HC,NB_subject_49,240,Visual,2
+gundai,HC,NB_subject_207,80,Default,99
+gundai,HC,NB_subject_207,80,Dorsal Attention,144
+gundai,HC,NB_subject_207,80,Frontoparietal,76
+gundai,HC,NB_subject_207,80,Hippocampus,149
+gundai,HC,NB_subject_207,80,Limbic,13
+gundai,HC,NB_subject_207,80,Somatomotor,161
+gundai,HC,NB_subject_207,80,Unlabeled,1
+gundai,HC,NB_subject_207,80,Ventral Attention,125
+gundai,HC,NB_subject_207,80,Visual,164
+gundai,HC,NB_subject_207,120,Default,117
+gundai,HC,NB_subject_207,120,Dorsal Attention,183
+gundai,HC,NB_subject_207,120,Frontoparietal,112
+gundai,HC,NB_subject_207,120,Hippocampus,144
+gundai,HC,NB_subject_207,120,Limbic,27
+gundai,HC,NB_subject_207,120,Somatomotor,199
+gundai,HC,NB_subject_207,120,Unlabeled,2
+gundai,HC,NB_subject_207,120,Ventral Attention,132
+gundai,HC,NB_subject_207,120,Visual,219
+gundai,HC,NB_subject_207,160,Default,57
+gundai,HC,NB_subject_207,160,Dorsal Attention,76
+gundai,HC,NB_subject_207,160,Frontoparietal,43
+gundai,HC,NB_subject_207,160,Hippocampus,105
+gundai,HC,NB_subject_207,160,Limbic,15
+gundai,HC,NB_subject_207,160,Somatomotor,97
+gundai,HC,NB_subject_207,160,Unlabeled,2
+gundai,HC,NB_subject_207,160,Ventral Attention,58
+gundai,HC,NB_subject_207,160,Visual,100
+gundai,HC,NB_subject_207,200,Default,40
+gundai,HC,NB_subject_207,200,Dorsal Attention,46
+gundai,HC,NB_subject_207,200,Frontoparietal,29
+gundai,HC,NB_subject_207,200,Hippocampus,85
+gundai,HC,NB_subject_207,200,Limbic,11
+gundai,HC,NB_subject_207,200,Somatomotor,54
+gundai,HC,NB_subject_207,200,Unlabeled,2
+gundai,HC,NB_subject_207,200,Ventral Attention,23
+gundai,HC,NB_subject_207,200,Visual,70
+gundai,HC,NB_subject_207,240,Default,16
+gundai,HC,NB_subject_207,240,Dorsal Attention,9
+gundai,HC,NB_subject_207,240,Frontoparietal,16
+gundai,HC,NB_subject_207,240,Hippocampus,20
+gundai,HC,NB_subject_207,240,Limbic,5
+gundai,HC,NB_subject_207,240,Somatomotor,12
+gundai,HC,NB_subject_207,240,Unlabeled,1
+gundai,HC,NB_subject_207,240,Ventral Attention,11
+gundai,HC,NB_subject_207,240,Visual,24
+gundai,HC,NB_subject_121,80,Default,27
+gundai,HC,NB_subject_121,80,Dorsal Attention,25
+gundai,HC,NB_subject_121,80,Frontoparietal,36
+gundai,HC,NB_subject_121,80,Hippocampus,19
+gundai,HC,NB_subject_121,80,Limbic,4
+gundai,HC,NB_subject_121,80,Somatomotor,34
+gundai,HC,NB_subject_121,80,Ventral Attention,29
+gundai,HC,NB_subject_121,80,Visual,59
+gundai,HC,NB_subject_121,120,Default,20
+gundai,HC,NB_subject_121,120,Dorsal Attention,30
+gundai,HC,NB_subject_121,120,Frontoparietal,16
+gundai,HC,NB_subject_121,120,Hippocampus,33
+gundai,HC,NB_subject_121,120,Limbic,7
+gundai,HC,NB_subject_121,120,Somatomotor,51
+gundai,HC,NB_subject_121,120,Unlabeled,4
+gundai,HC,NB_subject_121,120,Ventral Attention,25
+gundai,HC,NB_subject_121,120,Visual,53
+gundai,HC,NB_subject_121,160,Default,17
+gundai,HC,NB_subject_121,160,Dorsal Attention,15
+gundai,HC,NB_subject_121,160,Frontoparietal,18
+gundai,HC,NB_subject_121,160,Hippocampus,31
+gundai,HC,NB_subject_121,160,Limbic,8
+gundai,HC,NB_subject_121,160,Somatomotor,14
+gundai,HC,NB_subject_121,160,Unlabeled,2
+gundai,HC,NB_subject_121,160,Ventral Attention,9
+gundai,HC,NB_subject_121,160,Visual,26
+gundai,HC,NB_subject_121,200,Default,12
+gundai,HC,NB_subject_121,200,Dorsal Attention,9
+gundai,HC,NB_subject_121,200,Frontoparietal,11
+gundai,HC,NB_subject_121,200,Hippocampus,22
+gundai,HC,NB_subject_121,200,Limbic,7
+gundai,HC,NB_subject_121,200,Somatomotor,22
+gundai,HC,NB_subject_121,200,Unlabeled,1
+gundai,HC,NB_subject_121,200,Ventral Attention,9
+gundai,HC,NB_subject_121,200,Visual,17
+gundai,HC,NB_subject_121,240,Default,12
+gundai,HC,NB_subject_121,240,Dorsal Attention,2
+gundai,HC,NB_subject_121,240,Hippocampus,6
+gundai,HC,NB_subject_121,240,Limbic,1
+gundai,HC,NB_subject_121,240,Somatomotor,3
+gundai,HC,NB_subject_121,240,Unlabeled,1
+gundai,HC,NB_subject_121,240,Visual,12
+gundai,SC,NB_subject_76,80,Default,13
+gundai,SC,NB_subject_76,80,Dorsal Attention,8
+gundai,SC,NB_subject_76,80,Frontoparietal,8
+gundai,SC,NB_subject_76,80,Hippocampus,26
+gundai,SC,NB_subject_76,80,Limbic,1
+gundai,SC,NB_subject_76,80,Somatomotor,17
+gundai,SC,NB_subject_76,80,Unlabeled,1
+gundai,SC,NB_subject_76,80,Ventral Attention,11
+gundai,SC,NB_subject_76,80,Visual,6
+gundai,SC,NB_subject_76,120,Default,7
+gundai,SC,NB_subject_76,120,Dorsal Attention,10
+gundai,SC,NB_subject_76,120,Frontoparietal,9
+gundai,SC,NB_subject_76,120,Hippocampus,20
+gundai,SC,NB_subject_76,120,Limbic,2
+gundai,SC,NB_subject_76,120,Somatomotor,11
+gundai,SC,NB_subject_76,120,Ventral Attention,8
+gundai,SC,NB_subject_76,120,Visual,10
+gundai,SC,NB_subject_76,160,Default,9
+gundai,SC,NB_subject_76,160,Dorsal Attention,2
+gundai,SC,NB_subject_76,160,Frontoparietal,5
+gundai,SC,NB_subject_76,160,Hippocampus,7
+gundai,SC,NB_subject_76,160,Limbic,1
+gundai,SC,NB_subject_76,160,Somatomotor,4
+gundai,SC,NB_subject_76,160,Unlabeled,1
+gundai,SC,NB_subject_76,160,Ventral Attention,1
+gundai,SC,NB_subject_76,160,Visual,1
+gundai,SC,NB_subject_76,200,Default,7
+gundai,SC,NB_subject_76,200,Dorsal Attention,2
+gundai,SC,NB_subject_76,200,Frontoparietal,1
+gundai,SC,NB_subject_76,200,Hippocampus,14
+gundai,SC,NB_subject_76,200,Limbic,1
+gundai,SC,NB_subject_76,200,Somatomotor,4
+gundai,SC,NB_subject_76,200,Unlabeled,1
+gundai,SC,NB_subject_76,200,Ventral Attention,3
+gundai,SC,NB_subject_76,200,Visual,7
+gundai,SC,NB_subject_76,240,Dorsal Attention,2
+gundai,SC,NB_subject_76,240,Frontoparietal,2
+gundai,SC,NB_subject_76,240,Hippocampus,2
+gundai,SC,NB_subject_76,240,Limbic,1
+gundai,SC,NB_subject_76,240,Somatomotor,1
+gundai,SC,NB_subject_76,240,Ventral Attention,2
+gundai,SC,NB_subject_76,240,Visual,1
+gundai,SC,NB_subject_234,80,Default,1
+gundai,SC,NB_subject_234,80,Dorsal Attention,2
+gundai,SC,NB_subject_234,80,Frontoparietal,2
+gundai,SC,NB_subject_234,80,Hippocampus,5
+gundai,SC,NB_subject_234,80,Somatomotor,1
+gundai,SC,NB_subject_234,80,Ventral Attention,4
+gundai,SC,NB_subject_234,80,Visual,2
+gundai,SC,NB_subject_234,120,Default,6
+gundai,SC,NB_subject_234,120,Dorsal Attention,3
+gundai,SC,NB_subject_234,120,Frontoparietal,6
+gundai,SC,NB_subject_234,120,Hippocampus,5
+gundai,SC,NB_subject_234,120,Limbic,1
+gundai,SC,NB_subject_234,120,Somatomotor,2
+gundai,SC,NB_subject_234,120,Visual,3
+gundai,SC,NB_subject_234,160,Default,3
+gundai,SC,NB_subject_234,160,Dorsal Attention,1
+gundai,SC,NB_subject_234,160,Frontoparietal,1
+gundai,SC,NB_subject_234,160,Hippocampus,6
+gundai,SC,NB_subject_234,160,Limbic,2
+gundai,SC,NB_subject_234,160,Somatomotor,2
+gundai,SC,NB_subject_234,160,Ventral Attention,3
+gundai,SC,NB_subject_234,160,Visual,3
+gundai,HC,NB_subject_97,80,Default,6
+gundai,HC,NB_subject_97,80,Dorsal Attention,4
+gundai,HC,NB_subject_97,80,Frontoparietal,4
+gundai,HC,NB_subject_97,80,Hippocampus,11
+gundai,HC,NB_subject_97,80,Limbic,3
+gundai,HC,NB_subject_97,80,Somatomotor,2
+gundai,HC,NB_subject_97,80,Ventral Attention,1
+gundai,HC,NB_subject_97,80,Visual,9
+gundai,HC,NB_subject_97,120,Default,2
+gundai,HC,NB_subject_97,120,Dorsal Attention,3
+gundai,HC,NB_subject_97,120,Frontoparietal,3
+gundai,HC,NB_subject_97,120,Hippocampus,3
+gundai,HC,NB_subject_97,120,Limbic,1
+gundai,HC,NB_subject_97,120,Somatomotor,3
+gundai,HC,NB_subject_97,120,Unlabeled,2
+gundai,HC,NB_subject_97,120,Visual,4
+gundai,HC,NB_subject_97,160,Default,1
+gundai,HC,NB_subject_97,160,Dorsal Attention,4
+gundai,HC,NB_subject_97,160,Frontoparietal,2
+gundai,HC,NB_subject_97,160,Hippocampus,7
+gundai,HC,NB_subject_97,160,Somatomotor,4
+gundai,HC,NB_subject_97,160,Unlabeled,1
+gundai,HC,NB_subject_97,160,Ventral Attention,4
+gundai,HC,NB_subject_97,160,Visual,7
+gundai,HC,NB_subject_97,200,Default,9
+gundai,HC,NB_subject_97,200,Dorsal Attention,2
+gundai,HC,NB_subject_97,200,Frontoparietal,5
+gundai,HC,NB_subject_97,200,Hippocampus,12
+gundai,HC,NB_subject_97,200,Limbic,1
+gundai,HC,NB_subject_97,200,Somatomotor,6
+gundai,HC,NB_subject_97,200,Unlabeled,1
+gundai,HC,NB_subject_97,200,Visual,6
+gundai,HC,NB_subject_97,240,Default,2
+gundai,HC,NB_subject_97,240,Hippocampus,3
+gundai,HC,NB_subject_97,240,Somatomotor,1
+gundai,HC,NB_subject_97,240,Ventral Attention,1
+gundai,HC,NB_subject_97,240,Visual,1
+gundai,SC,NB_subject_103,80,Default,3
+gundai,SC,NB_subject_103,80,Dorsal Attention,7
+gundai,SC,NB_subject_103,80,Frontoparietal,6
+gundai,SC,NB_subject_103,80,Hippocampus,21
+gundai,SC,NB_subject_103,80,Limbic,2
+gundai,SC,NB_subject_103,80,Somatomotor,6
+gundai,SC,NB_subject_103,80,Unlabeled,1
+gundai,SC,NB_subject_103,80,Ventral Attention,3
+gundai,SC,NB_subject_103,80,Visual,8
+gundai,SC,NB_subject_103,120,Default,9
+gundai,SC,NB_subject_103,120,Dorsal Attention,4
+gundai,SC,NB_subject_103,120,Frontoparietal,10
+gundai,SC,NB_subject_103,120,Hippocampus,32
+gundai,SC,NB_subject_103,120,Limbic,2
+gundai,SC,NB_subject_103,120,Somatomotor,12
+gundai,SC,NB_subject_103,120,Unlabeled,2
+gundai,SC,NB_subject_103,120,Ventral Attention,5
+gundai,SC,NB_subject_103,120,Visual,9
+gundai,SC,NB_subject_103,160,Default,12
+gundai,SC,NB_subject_103,160,Dorsal Attention,5
+gundai,SC,NB_subject_103,160,Frontoparietal,8
+gundai,SC,NB_subject_103,160,Hippocampus,24
+gundai,SC,NB_subject_103,160,Limbic,4
+gundai,SC,NB_subject_103,160,Somatomotor,8
+gundai,SC,NB_subject_103,160,Unlabeled,1
+gundai,SC,NB_subject_103,160,Ventral Attention,7
+gundai,SC,NB_subject_103,160,Visual,4
+gundai,SC,NB_subject_103,200,Default,10
+gundai,SC,NB_subject_103,200,Dorsal Attention,10
+gundai,SC,NB_subject_103,200,Frontoparietal,8
+gundai,SC,NB_subject_103,200,Hippocampus,17
+gundai,SC,NB_subject_103,200,Limbic,1
+gundai,SC,NB_subject_103,200,Somatomotor,13
+gundai,SC,NB_subject_103,200,Unlabeled,1
+gundai,SC,NB_subject_103,200,Ventral Attention,5
+gundai,SC,NB_subject_103,200,Visual,8
+gundai,SC,NB_subject_103,240,Default,1
+gundai,SC,NB_subject_103,240,Hippocampus,6
+gundai,SC,NB_subject_103,240,Limbic,1
+gundai,SC,NB_subject_103,240,Somatomotor,3
+gundai,SC,NB_subject_103,240,Unlabeled,3
+gundai,SC,NB_subject_103,240,Ventral Attention,2
+gundai,SC,NB_subject_103,240,Visual,3
+gundai,HC,NB_subject_66,120,Default,3
+gundai,HC,NB_subject_66,120,Frontoparietal,3
+gundai,HC,NB_subject_66,120,Hippocampus,2
+gundai,HC,NB_subject_66,120,Limbic,1
+gundai,HC,NB_subject_66,120,Ventral Attention,1
+gundai,HC,NB_subject_66,120,Visual,1
+gundai,HC,NB_subject_66,160,Dorsal Attention,1
+gundai,HC,NB_subject_66,160,Frontoparietal,1
+gundai,HC,NB_subject_66,160,Hippocampus,2
+gundai,HC,NB_subject_66,160,Somatomotor,3
+gundai,HC,NB_subject_66,160,Ventral Attention,2
+gundai,HC,NB_subject_66,160,Visual,5
+gundai,HC,NB_subject_160,80,Default,4
+gundai,HC,NB_subject_160,80,Dorsal Attention,3
+gundai,HC,NB_subject_160,80,Frontoparietal,4
+gundai,HC,NB_subject_160,80,Hippocampus,11
+gundai,HC,NB_subject_160,80,Limbic,3
+gundai,HC,NB_subject_160,80,Somatomotor,5
+gundai,HC,NB_subject_160,80,Unlabeled,1
+gundai,HC,NB_subject_160,80,Ventral Attention,1
+gundai,HC,NB_subject_160,80,Visual,2
+gundai,HC,NB_subject_160,120,Default,2
+gundai,HC,NB_subject_160,120,Dorsal Attention,5
+gundai,HC,NB_subject_160,120,Frontoparietal,5
+gundai,HC,NB_subject_160,120,Hippocampus,10
+gundai,HC,NB_subject_160,120,Limbic,3
+gundai,HC,NB_subject_160,120,Somatomotor,5
+gundai,HC,NB_subject_160,120,Ventral Attention,5
+gundai,HC,NB_subject_160,120,Visual,1
+gundai,HC,NB_subject_160,160,Default,5
+gundai,HC,NB_subject_160,160,Dorsal Attention,1
+gundai,HC,NB_subject_160,160,Frontoparietal,7
+gundai,HC,NB_subject_160,160,Hippocampus,6
+gundai,HC,NB_subject_160,160,Limbic,1
+gundai,HC,NB_subject_160,160,Somatomotor,3
+gundai,HC,NB_subject_160,160,Ventral Attention,4
+gundai,HC,NB_subject_160,160,Visual,8
+gundai,HC,NB_subject_160,200,Default,2
+gundai,HC,NB_subject_160,200,Dorsal Attention,3
+gundai,HC,NB_subject_160,200,Frontoparietal,1
+gundai,HC,NB_subject_160,200,Hippocampus,9
+gundai,HC,NB_subject_160,200,Somatomotor,3
+gundai,HC,NB_subject_160,200,Unlabeled,2
+gundai,HC,NB_subject_160,200,Ventral Attention,2
+gundai,HC,NB_subject_160,240,Default,2
+gundai,HC,NB_subject_160,240,Frontoparietal,3
+gundai,HC,NB_subject_160,240,Hippocampus,1
+gundai,HC,NB_subject_160,240,Limbic,1
+gundai,HC,NB_subject_160,240,Somatomotor,2
+gundai,HC,NB_subject_160,240,Ventral Attention,1
+gundai,HC,NB_subject_214,80,Default,1
+gundai,HC,NB_subject_214,80,Dorsal Attention,2
+gundai,HC,NB_subject_214,80,Frontoparietal,4
+gundai,HC,NB_subject_214,80,Hippocampus,1
+gundai,HC,NB_subject_214,80,Somatomotor,1
+gundai,HC,NB_subject_214,80,Ventral Attention,1
+gundai,HC,NB_subject_214,80,Visual,1
+gundai,HC,NB_subject_214,120,Default,4
+gundai,HC,NB_subject_214,120,Dorsal Attention,3
+gundai,HC,NB_subject_214,120,Frontoparietal,6
+gundai,HC,NB_subject_214,120,Hippocampus,7
+gundai,HC,NB_subject_214,120,Somatomotor,3
+gundai,HC,NB_subject_214,120,Unlabeled,2
+gundai,HC,NB_subject_214,120,Ventral Attention,4
+gundai,HC,NB_subject_214,120,Visual,6
+gundai,SC,NB_subject_218,80,Default,57
+gundai,SC,NB_subject_218,80,Dorsal Attention,79
+gundai,SC,NB_subject_218,80,Frontoparietal,52
+gundai,SC,NB_subject_218,80,Hippocampus,40
+gundai,SC,NB_subject_218,80,Limbic,3
+gundai,SC,NB_subject_218,80,Somatomotor,43
+gundai,SC,NB_subject_218,80,Unlabeled,1
+gundai,SC,NB_subject_218,80,Ventral Attention,32
+gundai,SC,NB_subject_218,80,Visual,126
+gundai,SC,NB_subject_218,120,Default,134
+gundai,SC,NB_subject_218,120,Dorsal Attention,244
+gundai,SC,NB_subject_218,120,Frontoparietal,140
+gundai,SC,NB_subject_218,120,Hippocampus,149
+gundai,SC,NB_subject_218,120,Limbic,2
+gundai,SC,NB_subject_218,120,Somatomotor,161
+gundai,SC,NB_subject_218,120,Ventral Attention,67
+gundai,SC,NB_subject_218,120,Visual,337
+gundai,SC,NB_subject_218,160,Default,240
+gundai,SC,NB_subject_218,160,Dorsal Attention,269
+gundai,SC,NB_subject_218,160,Frontoparietal,196
+gundai,SC,NB_subject_218,160,Hippocampus,173
+gundai,SC,NB_subject_218,160,Limbic,6
+gundai,SC,NB_subject_218,160,Somatomotor,238
+gundai,SC,NB_subject_218,160,Ventral Attention,129
+gundai,SC,NB_subject_218,160,Visual,427
+gundai,SC,NB_subject_218,200,Default,196
+gundai,SC,NB_subject_218,200,Dorsal Attention,449
+gundai,SC,NB_subject_218,200,Frontoparietal,221
+gundai,SC,NB_subject_218,200,Hippocampus,254
+gundai,SC,NB_subject_218,200,Limbic,2
+gundai,SC,NB_subject_218,200,Somatomotor,321
+gundai,SC,NB_subject_218,200,Unlabeled,1
+gundai,SC,NB_subject_218,200,Ventral Attention,171
+gundai,SC,NB_subject_218,200,Visual,606
+gundai,SC,NB_subject_218,240,Default,144
+gundai,SC,NB_subject_218,240,Dorsal Attention,293
+gundai,SC,NB_subject_218,240,Frontoparietal,145
+gundai,SC,NB_subject_218,240,Hippocampus,158
+gundai,SC,NB_subject_218,240,Limbic,2
+gundai,SC,NB_subject_218,240,Somatomotor,145
+gundai,SC,NB_subject_218,240,Ventral Attention,121
+gundai,SC,NB_subject_218,240,Visual,381
+gundai,SC,NB_subject_217,80,Default,52
+gundai,SC,NB_subject_217,80,Dorsal Attention,65
+gundai,SC,NB_subject_217,80,Frontoparietal,55
+gundai,SC,NB_subject_217,80,Hippocampus,68
+gundai,SC,NB_subject_217,80,Limbic,18
+gundai,SC,NB_subject_217,80,Somatomotor,84
+gundai,SC,NB_subject_217,80,Unlabeled,1
+gundai,SC,NB_subject_217,80,Ventral Attention,34
+gundai,SC,NB_subject_217,80,Visual,94
+gundai,SC,NB_subject_217,120,Default,42
+gundai,SC,NB_subject_217,120,Dorsal Attention,82
+gundai,SC,NB_subject_217,120,Frontoparietal,66
+gundai,SC,NB_subject_217,120,Hippocampus,75
+gundai,SC,NB_subject_217,120,Limbic,20
+gundai,SC,NB_subject_217,120,Somatomotor,88
+gundai,SC,NB_subject_217,120,Ventral Attention,41
+gundai,SC,NB_subject_217,120,Visual,94
+gundai,SC,NB_subject_217,160,Default,19
+gundai,SC,NB_subject_217,160,Dorsal Attention,43
+gundai,SC,NB_subject_217,160,Frontoparietal,31
+gundai,SC,NB_subject_217,160,Hippocampus,49
+gundai,SC,NB_subject_217,160,Limbic,10
+gundai,SC,NB_subject_217,160,Somatomotor,35
+gundai,SC,NB_subject_217,160,Unlabeled,3
+gundai,SC,NB_subject_217,160,Ventral Attention,14
+gundai,SC,NB_subject_217,160,Visual,50
+gundai,SC,NB_subject_217,200,Default,26
+gundai,SC,NB_subject_217,200,Dorsal Attention,13
+gundai,SC,NB_subject_217,200,Frontoparietal,15
+gundai,SC,NB_subject_217,200,Hippocampus,38
+gundai,SC,NB_subject_217,200,Limbic,4
+gundai,SC,NB_subject_217,200,Somatomotor,28
+gundai,SC,NB_subject_217,200,Unlabeled,1
+gundai,SC,NB_subject_217,200,Ventral Attention,8
+gundai,SC,NB_subject_217,200,Visual,49
+gundai,SC,NB_subject_217,240,Default,7
+gundai,SC,NB_subject_217,240,Dorsal Attention,6
+gundai,SC,NB_subject_217,240,Frontoparietal,7
+gundai,SC,NB_subject_217,240,Hippocampus,13
+gundai,SC,NB_subject_217,240,Somatomotor,7
+gundai,SC,NB_subject_217,240,Ventral Attention,1
+gundai,SC,NB_subject_217,240,Visual,15
+gundai,SC,NB_subject_236,80,Default,3
+gundai,SC,NB_subject_236,80,Frontoparietal,2
+gundai,SC,NB_subject_236,80,Hippocampus,3
+gundai,SC,NB_subject_236,80,Somatomotor,1
+gundai,SC,NB_subject_236,80,Ventral Attention,2
+gundai,SC,NB_subject_236,80,Visual,4
+gundai,SC,NB_subject_236,120,Default,13
+gundai,SC,NB_subject_236,120,Dorsal Attention,16
+gundai,SC,NB_subject_236,120,Frontoparietal,8
+gundai,SC,NB_subject_236,120,Hippocampus,11
+gundai,SC,NB_subject_236,120,Limbic,1
+gundai,SC,NB_subject_236,120,Somatomotor,9
+gundai,SC,NB_subject_236,120,Unlabeled,5
+gundai,SC,NB_subject_236,120,Ventral Attention,13
+gundai,SC,NB_subject_236,120,Visual,15
+gundai,SC,NB_subject_236,160,Default,12
+gundai,SC,NB_subject_236,160,Dorsal Attention,8
+gundai,SC,NB_subject_236,160,Frontoparietal,5
+gundai,SC,NB_subject_236,160,Hippocampus,17
+gundai,SC,NB_subject_236,160,Limbic,5
+gundai,SC,NB_subject_236,160,Somatomotor,23
+gundai,SC,NB_subject_236,160,Unlabeled,1
+gundai,SC,NB_subject_236,160,Ventral Attention,3
+gundai,SC,NB_subject_236,160,Visual,30
+gundai,SC,NB_subject_236,200,Default,16
+gundai,SC,NB_subject_236,200,Dorsal Attention,15
+gundai,SC,NB_subject_236,200,Frontoparietal,9
+gundai,SC,NB_subject_236,200,Hippocampus,17
+gundai,SC,NB_subject_236,200,Limbic,1
+gundai,SC,NB_subject_236,200,Somatomotor,13
+gundai,SC,NB_subject_236,200,Ventral Attention,13
+gundai,SC,NB_subject_236,200,Visual,25
+gundai,SC,NB_subject_236,240,Default,2
+gundai,SC,NB_subject_236,240,Frontoparietal,2
+gundai,SC,NB_subject_236,240,Hippocampus,7
+gundai,SC,NB_subject_236,240,Limbic,3
+gundai,SC,NB_subject_236,240,Unlabeled,2
+gundai,SC,NB_subject_236,240,Ventral Attention,1
+gundai,SC,NB_subject_236,240,Visual,4
+gundai,HC,NB_subject_215,80,Default,12
+gundai,HC,NB_subject_215,80,Dorsal Attention,10
+gundai,HC,NB_subject_215,80,Frontoparietal,15
+gundai,HC,NB_subject_215,80,Hippocampus,20
+gundai,HC,NB_subject_215,80,Limbic,4
+gundai,HC,NB_subject_215,80,Somatomotor,10
+gundai,HC,NB_subject_215,80,Ventral Attention,7
+gundai,HC,NB_subject_215,80,Visual,22
+gundai,HC,NB_subject_215,120,Default,16
+gundai,HC,NB_subject_215,120,Dorsal Attention,15
+gundai,HC,NB_subject_215,120,Frontoparietal,23
+gundai,HC,NB_subject_215,120,Hippocampus,33
+gundai,HC,NB_subject_215,120,Limbic,5
+gundai,HC,NB_subject_215,120,Somatomotor,37
+gundai,HC,NB_subject_215,120,Ventral Attention,21
+gundai,HC,NB_subject_215,120,Visual,58
+gundai,HC,NB_subject_215,160,Default,13
+gundai,HC,NB_subject_215,160,Dorsal Attention,14
+gundai,HC,NB_subject_215,160,Frontoparietal,13
+gundai,HC,NB_subject_215,160,Hippocampus,30
+gundai,HC,NB_subject_215,160,Limbic,11
+gundai,HC,NB_subject_215,160,Somatomotor,28
+gundai,HC,NB_subject_215,160,Ventral Attention,12
+gundai,HC,NB_subject_215,160,Visual,25
+gundai,HC,NB_subject_215,200,Default,14
+gundai,HC,NB_subject_215,200,Dorsal Attention,7
+gundai,HC,NB_subject_215,200,Frontoparietal,20
+gundai,HC,NB_subject_215,200,Hippocampus,6
+gundai,HC,NB_subject_215,200,Limbic,5
+gundai,HC,NB_subject_215,200,Somatomotor,22
+gundai,HC,NB_subject_215,200,Ventral Attention,8
+gundai,HC,NB_subject_215,200,Visual,21
+gundai,HC,NB_subject_215,240,Default,1
+gundai,HC,NB_subject_215,240,Dorsal Attention,1
+gundai,HC,NB_subject_215,240,Hippocampus,1
+gundai,HC,NB_subject_215,240,Somatomotor,3
+gundai,HC,NB_subject_215,240,Ventral Attention,1
+gundai,HC,NB_subject_186,80,Default,4
+gundai,HC,NB_subject_186,80,Hippocampus,2
+gundai,HC,NB_subject_186,80,Limbic,1
+gundai,HC,NB_subject_186,80,Somatomotor,2
+gundai,HC,NB_subject_186,80,Unlabeled,2
+gundai,HC,NB_subject_186,80,Ventral Attention,1
+gundai,HC,NB_subject_186,80,Visual,2
+gundai,HC,NB_subject_186,200,Default,1
+gundai,HC,NB_subject_186,200,Hippocampus,2
+gundai,HC,NB_subject_186,200,Limbic,1
+gundai,HC,NB_subject_186,200,Visual,1
+gundai,HC,NB_subject_98,80,Default,6
+gundai,HC,NB_subject_98,80,Dorsal Attention,9
+gundai,HC,NB_subject_98,80,Frontoparietal,6
+gundai,HC,NB_subject_98,80,Hippocampus,6
+gundai,HC,NB_subject_98,80,Somatomotor,7
+gundai,HC,NB_subject_98,80,Unlabeled,1
+gundai,HC,NB_subject_98,80,Ventral Attention,7
+gundai,HC,NB_subject_98,80,Visual,12
+gundai,HC,NB_subject_98,120,Default,4
+gundai,HC,NB_subject_98,120,Dorsal Attention,2
+gundai,HC,NB_subject_98,120,Frontoparietal,1
+gundai,HC,NB_subject_98,120,Hippocampus,7
+gundai,HC,NB_subject_98,120,Limbic,1
+gundai,HC,NB_subject_98,120,Somatomotor,4
+gundai,HC,NB_subject_98,120,Ventral Attention,2
+gundai,HC,NB_subject_98,120,Visual,3
+gundai,HC,NB_subject_98,160,Dorsal Attention,2
+gundai,HC,NB_subject_98,160,Frontoparietal,1
+gundai,HC,NB_subject_98,160,Hippocampus,1
+gundai,HC,NB_subject_98,160,Somatomotor,2
+gundai,HC,NB_subject_98,160,Ventral Attention,4
+gundai,HC,NB_subject_98,160,Visual,3
+gundai,SC,NB_subject_115,80,Default,4
+gundai,SC,NB_subject_115,80,Dorsal Attention,3
+gundai,SC,NB_subject_115,80,Frontoparietal,2
+gundai,SC,NB_subject_115,80,Hippocampus,8
+gundai,SC,NB_subject_115,80,Limbic,1
+gundai,SC,NB_subject_115,80,Somatomotor,8
+gundai,SC,NB_subject_115,80,Unlabeled,1
+gundai,SC,NB_subject_115,80,Ventral Attention,2
+gundai,SC,NB_subject_115,80,Visual,2
+gundai,SC,NB_subject_115,120,Default,7
+gundai,SC,NB_subject_115,120,Dorsal Attention,9
+gundai,SC,NB_subject_115,120,Frontoparietal,4
+gundai,SC,NB_subject_115,120,Hippocampus,11
+gundai,SC,NB_subject_115,120,Limbic,2
+gundai,SC,NB_subject_115,120,Somatomotor,7
+gundai,SC,NB_subject_115,120,Unlabeled,3
+gundai,SC,NB_subject_115,120,Ventral Attention,2
+gundai,SC,NB_subject_115,120,Visual,8
+gundai,SC,NB_subject_115,160,Default,2
+gundai,SC,NB_subject_115,160,Frontoparietal,1
+gundai,SC,NB_subject_115,160,Hippocampus,6
+gundai,SC,NB_subject_115,160,Somatomotor,3
+gundai,SC,NB_subject_115,160,Unlabeled,2
+gundai,SC,NB_subject_115,160,Ventral Attention,1
+gundai,SC,NB_subject_115,160,Visual,3
+gundai,SC,NB_subject_115,200,Default,2
+gundai,SC,NB_subject_115,200,Dorsal Attention,4
+gundai,SC,NB_subject_115,200,Frontoparietal,1
+gundai,SC,NB_subject_115,200,Hippocampus,6
+gundai,SC,NB_subject_115,200,Somatomotor,4
+gundai,SC,NB_subject_115,200,Unlabeled,1
+gundai,SC,NB_subject_115,200,Ventral Attention,1
+gundai,SC,NB_subject_115,200,Visual,3
+gundai,HC,NB_subject_202,80,Default,41
+gundai,HC,NB_subject_202,80,Dorsal Attention,57
+gundai,HC,NB_subject_202,80,Frontoparietal,50
+gundai,HC,NB_subject_202,80,Hippocampus,47
+gundai,HC,NB_subject_202,80,Limbic,3
+gundai,HC,NB_subject_202,80,Somatomotor,58
+gundai,HC,NB_subject_202,80,Ventral Attention,29
+gundai,HC,NB_subject_202,80,Visual,104
+gundai,HC,NB_subject_202,120,Default,54
+gundai,HC,NB_subject_202,120,Dorsal Attention,66
+gundai,HC,NB_subject_202,120,Frontoparietal,70
+gundai,HC,NB_subject_202,120,Hippocampus,69
+gundai,HC,NB_subject_202,120,Limbic,10
+gundai,HC,NB_subject_202,120,Somatomotor,82
+gundai,HC,NB_subject_202,120,Ventral Attention,46
+gundai,HC,NB_subject_202,120,Visual,76
+gundai,HC,NB_subject_202,160,Default,52
+gundai,HC,NB_subject_202,160,Dorsal Attention,52
+gundai,HC,NB_subject_202,160,Frontoparietal,38
+gundai,HC,NB_subject_202,160,Hippocampus,61
+gundai,HC,NB_subject_202,160,Limbic,4
+gundai,HC,NB_subject_202,160,Somatomotor,59
+gundai,HC,NB_subject_202,160,Unlabeled,1
+gundai,HC,NB_subject_202,160,Ventral Attention,29
+gundai,HC,NB_subject_202,160,Visual,53
+gundai,HC,NB_subject_202,200,Default,31
+gundai,HC,NB_subject_202,200,Dorsal Attention,37
+gundai,HC,NB_subject_202,200,Frontoparietal,21
+gundai,HC,NB_subject_202,200,Hippocampus,28
+gundai,HC,NB_subject_202,200,Limbic,11
+gundai,HC,NB_subject_202,200,Somatomotor,46
+gundai,HC,NB_subject_202,200,Ventral Attention,25
+gundai,HC,NB_subject_202,200,Visual,64
+gundai,HC,NB_subject_202,240,Default,6
+gundai,HC,NB_subject_202,240,Dorsal Attention,4
+gundai,HC,NB_subject_202,240,Frontoparietal,8
+gundai,HC,NB_subject_202,240,Hippocampus,12
+gundai,HC,NB_subject_202,240,Limbic,3
+gundai,HC,NB_subject_202,240,Somatomotor,13
+gundai,HC,NB_subject_202,240,Unlabeled,1
+gundai,HC,NB_subject_202,240,Ventral Attention,5
+gundai,HC,NB_subject_202,240,Visual,9
+gundai,SC,NB_subject_231,80,Default,23
+gundai,SC,NB_subject_231,80,Dorsal Attention,26
+gundai,SC,NB_subject_231,80,Frontoparietal,14
+gundai,SC,NB_subject_231,80,Hippocampus,33
+gundai,SC,NB_subject_231,80,Limbic,1
+gundai,SC,NB_subject_231,80,Somatomotor,31
+gundai,SC,NB_subject_231,80,Unlabeled,2
+gundai,SC,NB_subject_231,80,Ventral Attention,9
+gundai,SC,NB_subject_231,80,Visual,32
+gundai,SC,NB_subject_231,120,Default,22
+gundai,SC,NB_subject_231,120,Dorsal Attention,26
+gundai,SC,NB_subject_231,120,Frontoparietal,18
+gundai,SC,NB_subject_231,120,Hippocampus,61
+gundai,SC,NB_subject_231,120,Limbic,8
+gundai,SC,NB_subject_231,120,Somatomotor,55
+gundai,SC,NB_subject_231,120,Unlabeled,2
+gundai,SC,NB_subject_231,120,Ventral Attention,21
+gundai,SC,NB_subject_231,120,Visual,34
+gundai,SC,NB_subject_231,160,Default,24
+gundai,SC,NB_subject_231,160,Dorsal Attention,21
+gundai,SC,NB_subject_231,160,Frontoparietal,15
+gundai,SC,NB_subject_231,160,Hippocampus,37
+gundai,SC,NB_subject_231,160,Limbic,3
+gundai,SC,NB_subject_231,160,Somatomotor,43
+gundai,SC,NB_subject_231,160,Unlabeled,1
+gundai,SC,NB_subject_231,160,Ventral Attention,26
+gundai,SC,NB_subject_231,160,Visual,31
+gundai,SC,NB_subject_231,200,Default,18
+gundai,SC,NB_subject_231,200,Dorsal Attention,16
+gundai,SC,NB_subject_231,200,Frontoparietal,10
+gundai,SC,NB_subject_231,200,Hippocampus,44
+gundai,SC,NB_subject_231,200,Limbic,3
+gundai,SC,NB_subject_231,200,Somatomotor,39
+gundai,SC,NB_subject_231,200,Unlabeled,2
+gundai,SC,NB_subject_231,200,Ventral Attention,6
+gundai,SC,NB_subject_231,200,Visual,22
+gundai,SC,NB_subject_231,240,Default,9
+gundai,SC,NB_subject_231,240,Dorsal Attention,10
+gundai,SC,NB_subject_231,240,Frontoparietal,3
+gundai,SC,NB_subject_231,240,Hippocampus,14
+gundai,SC,NB_subject_231,240,Limbic,3
+gundai,SC,NB_subject_231,240,Somatomotor,12
+gundai,SC,NB_subject_231,240,Unlabeled,1
+gundai,SC,NB_subject_231,240,Ventral Attention,5
+gundai,SC,NB_subject_231,240,Visual,8
+gundai,HC,NB_subject_222,80,Default,7
+gundai,HC,NB_subject_222,80,Dorsal Attention,11
+gundai,HC,NB_subject_222,80,Frontoparietal,14
+gundai,HC,NB_subject_222,80,Hippocampus,23
+gundai,HC,NB_subject_222,80,Limbic,5
+gundai,HC,NB_subject_222,80,Somatomotor,13
+gundai,HC,NB_subject_222,80,Unlabeled,1
+gundai,HC,NB_subject_222,80,Ventral Attention,9
+gundai,HC,NB_subject_222,80,Visual,32
+gundai,HC,NB_subject_222,120,Default,12
+gundai,HC,NB_subject_222,120,Dorsal Attention,14
+gundai,HC,NB_subject_222,120,Frontoparietal,13
+gundai,HC,NB_subject_222,120,Hippocampus,27
+gundai,HC,NB_subject_222,120,Limbic,1
+gundai,HC,NB_subject_222,120,Somatomotor,17
+gundai,HC,NB_subject_222,120,Unlabeled,5
+gundai,HC,NB_subject_222,120,Ventral Attention,7
+gundai,HC,NB_subject_222,120,Visual,31
+gundai,HC,NB_subject_222,160,Default,3
+gundai,HC,NB_subject_222,160,Dorsal Attention,7
+gundai,HC,NB_subject_222,160,Frontoparietal,7
+gundai,HC,NB_subject_222,160,Hippocampus,23
+gundai,HC,NB_subject_222,160,Limbic,4
+gundai,HC,NB_subject_222,160,Somatomotor,10
+gundai,HC,NB_subject_222,160,Unlabeled,1
+gundai,HC,NB_subject_222,160,Ventral Attention,5
+gundai,HC,NB_subject_222,160,Visual,16
+gundai,HC,NB_subject_222,200,Default,5
+gundai,HC,NB_subject_222,200,Dorsal Attention,3
+gundai,HC,NB_subject_222,200,Frontoparietal,3
+gundai,HC,NB_subject_222,200,Hippocampus,17
+gundai,HC,NB_subject_222,200,Limbic,3
+gundai,HC,NB_subject_222,200,Somatomotor,9
+gundai,HC,NB_subject_222,200,Unlabeled,2
+gundai,HC,NB_subject_222,200,Ventral Attention,4
+gundai,HC,NB_subject_222,200,Visual,17
+gundai,HC,NB_subject_222,240,Default,1
+gundai,HC,NB_subject_222,240,Dorsal Attention,3
+gundai,HC,NB_subject_222,240,Frontoparietal,2
+gundai,HC,NB_subject_222,240,Hippocampus,6
+gundai,HC,NB_subject_222,240,Somatomotor,3
+gundai,HC,NB_subject_222,240,Unlabeled,3
+gundai,HC,NB_subject_222,240,Ventral Attention,2
+gundai,HC,NB_subject_222,240,Visual,5
+gundai,HC,NB_subject_73,80,Default,2
+gundai,HC,NB_subject_73,80,Dorsal Attention,9
+gundai,HC,NB_subject_73,80,Frontoparietal,10
+gundai,HC,NB_subject_73,80,Hippocampus,33
+gundai,HC,NB_subject_73,80,Limbic,5
+gundai,HC,NB_subject_73,80,Somatomotor,15
+gundai,HC,NB_subject_73,80,Ventral Attention,4
+gundai,HC,NB_subject_73,80,Visual,7
+gundai,HC,NB_subject_73,120,Default,30
+gundai,HC,NB_subject_73,120,Dorsal Attention,10
+gundai,HC,NB_subject_73,120,Frontoparietal,12
+gundai,HC,NB_subject_73,120,Hippocampus,67
+gundai,HC,NB_subject_73,120,Limbic,8
+gundai,HC,NB_subject_73,120,Somatomotor,24
+gundai,HC,NB_subject_73,120,Ventral Attention,15
+gundai,HC,NB_subject_73,120,Visual,21
+gundai,HC,NB_subject_73,160,Default,19
+gundai,HC,NB_subject_73,160,Dorsal Attention,9
+gundai,HC,NB_subject_73,160,Frontoparietal,11
+gundai,HC,NB_subject_73,160,Hippocampus,41
+gundai,HC,NB_subject_73,160,Limbic,4
+gundai,HC,NB_subject_73,160,Somatomotor,12
+gundai,HC,NB_subject_73,160,Unlabeled,1
+gundai,HC,NB_subject_73,160,Ventral Attention,5
+gundai,HC,NB_subject_73,160,Visual,8
+gundai,HC,NB_subject_73,200,Default,11
+gundai,HC,NB_subject_73,200,Dorsal Attention,12
+gundai,HC,NB_subject_73,200,Frontoparietal,10
+gundai,HC,NB_subject_73,200,Hippocampus,27
+gundai,HC,NB_subject_73,200,Limbic,4
+gundai,HC,NB_subject_73,200,Somatomotor,12
+gundai,HC,NB_subject_73,200,Ventral Attention,3
+gundai,HC,NB_subject_73,200,Visual,13
+gundai,HC,NB_subject_73,240,Default,3
+gundai,HC,NB_subject_73,240,Dorsal Attention,2
+gundai,HC,NB_subject_73,240,Hippocampus,3
+gundai,HC,NB_subject_73,240,Limbic,1
+gundai,HC,NB_subject_73,240,Somatomotor,1
+gundai,HC,NB_subject_73,240,Visual,4
+gundai,HC,NB_subject_64,120,Default,2
+gundai,HC,NB_subject_64,120,Dorsal Attention,4
+gundai,HC,NB_subject_64,120,Frontoparietal,2
+gundai,HC,NB_subject_64,120,Somatomotor,2
+gundai,HC,NB_subject_64,120,Visual,3
+gundai,HC,NB_subject_220,120,Frontoparietal,2
+gundai,HC,NB_subject_220,120,Hippocampus,2
+gundai,HC,NB_subject_220,120,Limbic,1
+gundai,HC,NB_subject_220,120,Somatomotor,1
+gundai,HC,NB_subject_220,120,Visual,1
+gundai,HC,NB_subject_198,80,Dorsal Attention,3
+gundai,HC,NB_subject_198,80,Frontoparietal,1
+gundai,HC,NB_subject_198,80,Hippocampus,4
+gundai,HC,NB_subject_198,80,Somatomotor,1
+gundai,HC,NB_subject_198,80,Ventral Attention,2
+gundai,HC,NB_subject_198,80,Visual,2
+gundai,HC,NB_subject_71,80,Hippocampus,4
+gundai,HC,NB_subject_71,80,Limbic,2
+gundai,HC,NB_subject_71,80,Visual,2
+gundai,HC,NB_subject_71,120,Default,4
+gundai,HC,NB_subject_71,120,Dorsal Attention,2
+gundai,HC,NB_subject_71,120,Frontoparietal,4
+gundai,HC,NB_subject_71,120,Hippocampus,2
+gundai,HC,NB_subject_71,120,Unlabeled,2
+gundai,HC,NB_subject_71,120,Ventral Attention,1
+gundai,HC,NB_subject_71,120,Visual,1
+gundai,HC,NB_subject_71,160,Default,2
+gundai,HC,NB_subject_71,160,Frontoparietal,3
+gundai,HC,NB_subject_71,160,Somatomotor,1
+gundai,HC,NB_subject_71,160,Unlabeled,1
+gundai,HC,NB_subject_71,160,Ventral Attention,3
+gundai,HC,NB_subject_71,160,Visual,5
+gundai,SC,NB_subject_112,80,Default,31
+gundai,SC,NB_subject_112,80,Dorsal Attention,8
+gundai,SC,NB_subject_112,80,Frontoparietal,14
+gundai,SC,NB_subject_112,80,Hippocampus,59
+gundai,SC,NB_subject_112,80,Limbic,15
+gundai,SC,NB_subject_112,80,Somatomotor,16
+gundai,SC,NB_subject_112,80,Unlabeled,1
+gundai,SC,NB_subject_112,80,Ventral Attention,9
+gundai,SC,NB_subject_112,80,Visual,25
+gundai,SC,NB_subject_112,120,Default,28
+gundai,SC,NB_subject_112,120,Dorsal Attention,12
+gundai,SC,NB_subject_112,120,Frontoparietal,16
+gundai,SC,NB_subject_112,120,Hippocampus,105
+gundai,SC,NB_subject_112,120,Limbic,9
+gundai,SC,NB_subject_112,120,Somatomotor,36
+gundai,SC,NB_subject_112,120,Unlabeled,12
+gundai,SC,NB_subject_112,120,Ventral Attention,19
+gundai,SC,NB_subject_112,120,Visual,48
+gundai,SC,NB_subject_112,160,Default,21
+gundai,SC,NB_subject_112,160,Dorsal Attention,4
+gundai,SC,NB_subject_112,160,Frontoparietal,10
+gundai,SC,NB_subject_112,160,Hippocampus,38
+gundai,SC,NB_subject_112,160,Limbic,10
+gundai,SC,NB_subject_112,160,Somatomotor,33
+gundai,SC,NB_subject_112,160,Unlabeled,2
+gundai,SC,NB_subject_112,160,Ventral Attention,9
+gundai,SC,NB_subject_112,160,Visual,33
+gundai,SC,NB_subject_112,200,Default,4
+gundai,SC,NB_subject_112,200,Dorsal Attention,4
+gundai,SC,NB_subject_112,200,Frontoparietal,7
+gundai,SC,NB_subject_112,200,Hippocampus,21
+gundai,SC,NB_subject_112,200,Limbic,3
+gundai,SC,NB_subject_112,200,Somatomotor,8
+gundai,SC,NB_subject_112,200,Unlabeled,1
+gundai,SC,NB_subject_112,200,Ventral Attention,6
+gundai,SC,NB_subject_112,200,Visual,11
+gundai,SC,NB_subject_112,240,Dorsal Attention,1
+gundai,SC,NB_subject_112,240,Frontoparietal,2
+gundai,SC,NB_subject_112,240,Hippocampus,2
+gundai,SC,NB_subject_112,240,Somatomotor,3
+gundai,SC,NB_subject_112,240,Unlabeled,2
+gundai,SC,NB_subject_112,240,Ventral Attention,2
+gundai,SC,NB_subject_112,240,Visual,1
+gundai,HC,NB_subject_60,80,Default,10
+gundai,HC,NB_subject_60,80,Dorsal Attention,10
+gundai,HC,NB_subject_60,80,Frontoparietal,6
+gundai,HC,NB_subject_60,80,Hippocampus,13
+gundai,HC,NB_subject_60,80,Limbic,1
+gundai,HC,NB_subject_60,80,Somatomotor,15
+gundai,HC,NB_subject_60,80,Ventral Attention,8
+gundai,HC,NB_subject_60,80,Visual,19
+gundai,HC,NB_subject_60,120,Default,12
+gundai,HC,NB_subject_60,120,Dorsal Attention,4
+gundai,HC,NB_subject_60,120,Frontoparietal,13
+gundai,HC,NB_subject_60,120,Hippocampus,19
+gundai,HC,NB_subject_60,120,Limbic,3
+gundai,HC,NB_subject_60,120,Somatomotor,10
+gundai,HC,NB_subject_60,120,Ventral Attention,9
+gundai,HC,NB_subject_60,120,Visual,26
+gundai,HC,NB_subject_60,160,Default,2
+gundai,HC,NB_subject_60,160,Dorsal Attention,1
+gundai,HC,NB_subject_60,160,Frontoparietal,3
+gundai,HC,NB_subject_60,160,Hippocampus,11
+gundai,HC,NB_subject_60,160,Somatomotor,1
+gundai,HC,NB_subject_60,160,Visual,5
+gundai,HC,NB_subject_60,200,Default,1
+gundai,HC,NB_subject_60,200,Dorsal Attention,2
+gundai,HC,NB_subject_60,200,Frontoparietal,2
+gundai,HC,NB_subject_60,200,Hippocampus,3
+gundai,HC,NB_subject_60,200,Limbic,1
+gundai,HC,NB_subject_60,200,Somatomotor,1
+gundai,HC,NB_subject_60,200,Ventral Attention,2
+gundai,HC,NB_subject_60,200,Visual,2
+gundai,SC,NB_subject_145,80,Default,118
+gundai,SC,NB_subject_145,80,Dorsal Attention,126
+gundai,SC,NB_subject_145,80,Frontoparietal,140
+gundai,SC,NB_subject_145,80,Hippocampus,234
+gundai,SC,NB_subject_145,80,Limbic,41
+gundai,SC,NB_subject_145,80,Somatomotor,104
+gundai,SC,NB_subject_145,80,Unlabeled,15
+gundai,SC,NB_subject_145,80,Ventral Attention,61
+gundai,SC,NB_subject_145,80,Visual,176
+gundai,SC,NB_subject_145,120,Default,253
+gundai,SC,NB_subject_145,120,Dorsal Attention,191
+gundai,SC,NB_subject_145,120,Frontoparietal,210
+gundai,SC,NB_subject_145,120,Hippocampus,411
+gundai,SC,NB_subject_145,120,Limbic,74
+gundai,SC,NB_subject_145,120,Somatomotor,217
+gundai,SC,NB_subject_145,120,Unlabeled,13
+gundai,SC,NB_subject_145,120,Ventral Attention,165
+gundai,SC,NB_subject_145,120,Visual,162
+gundai,SC,NB_subject_145,160,Default,179
+gundai,SC,NB_subject_145,160,Dorsal Attention,104
+gundai,SC,NB_subject_145,160,Frontoparietal,195
+gundai,SC,NB_subject_145,160,Hippocampus,343
+gundai,SC,NB_subject_145,160,Limbic,70
+gundai,SC,NB_subject_145,160,Somatomotor,152
+gundai,SC,NB_subject_145,160,Unlabeled,4
+gundai,SC,NB_subject_145,160,Ventral Attention,73
+gundai,SC,NB_subject_145,160,Visual,141
+gundai,SC,NB_subject_145,200,Default,145
+gundai,SC,NB_subject_145,200,Dorsal Attention,75
+gundai,SC,NB_subject_145,200,Frontoparietal,101
+gundai,SC,NB_subject_145,200,Hippocampus,240
+gundai,SC,NB_subject_145,200,Limbic,45
+gundai,SC,NB_subject_145,200,Somatomotor,132
+gundai,SC,NB_subject_145,200,Unlabeled,13
+gundai,SC,NB_subject_145,200,Ventral Attention,51
+gundai,SC,NB_subject_145,200,Visual,127
+gundai,SC,NB_subject_145,240,Default,40
+gundai,SC,NB_subject_145,240,Dorsal Attention,32
+gundai,SC,NB_subject_145,240,Frontoparietal,35
+gundai,SC,NB_subject_145,240,Hippocampus,117
+gundai,SC,NB_subject_145,240,Limbic,6
+gundai,SC,NB_subject_145,240,Somatomotor,49
+gundai,SC,NB_subject_145,240,Unlabeled,2
+gundai,SC,NB_subject_145,240,Ventral Attention,15
+gundai,SC,NB_subject_145,240,Visual,26
+gundai,HC,NB_subject_95,80,Default,10
+gundai,HC,NB_subject_95,80,Dorsal Attention,10
+gundai,HC,NB_subject_95,80,Frontoparietal,6
+gundai,HC,NB_subject_95,80,Hippocampus,27
+gundai,HC,NB_subject_95,80,Limbic,8
+gundai,HC,NB_subject_95,80,Somatomotor,16
+gundai,HC,NB_subject_95,80,Unlabeled,1
+gundai,HC,NB_subject_95,80,Ventral Attention,12
+gundai,HC,NB_subject_95,80,Visual,16
+gundai,HC,NB_subject_95,120,Default,13
+gundai,HC,NB_subject_95,120,Dorsal Attention,7
+gundai,HC,NB_subject_95,120,Frontoparietal,16
+gundai,HC,NB_subject_95,120,Hippocampus,30
+gundai,HC,NB_subject_95,120,Limbic,3
+gundai,HC,NB_subject_95,120,Somatomotor,18
+gundai,HC,NB_subject_95,120,Ventral Attention,8
+gundai,HC,NB_subject_95,120,Visual,16
+gundai,HC,NB_subject_95,160,Default,6
+gundai,HC,NB_subject_95,160,Dorsal Attention,5
+gundai,HC,NB_subject_95,160,Frontoparietal,4
+gundai,HC,NB_subject_95,160,Hippocampus,20
+gundai,HC,NB_subject_95,160,Limbic,6
+gundai,HC,NB_subject_95,160,Somatomotor,10
+gundai,HC,NB_subject_95,160,Unlabeled,1
+gundai,HC,NB_subject_95,160,Ventral Attention,5
+gundai,HC,NB_subject_95,160,Visual,10
+gundai,HC,NB_subject_95,200,Default,4
+gundai,HC,NB_subject_95,200,Dorsal Attention,2
+gundai,HC,NB_subject_95,200,Frontoparietal,4
+gundai,HC,NB_subject_95,200,Hippocampus,4
+gundai,HC,NB_subject_95,200,Limbic,3
+gundai,HC,NB_subject_95,200,Somatomotor,5
+gundai,HC,NB_subject_95,200,Unlabeled,4
+gundai,HC,NB_subject_95,200,Ventral Attention,1
+gundai,HC,NB_subject_95,200,Visual,1
+gundai,HC,NB_subject_180,80,Default,9
+gundai,HC,NB_subject_180,80,Dorsal Attention,4
+gundai,HC,NB_subject_180,80,Frontoparietal,4
+gundai,HC,NB_subject_180,80,Hippocampus,16
+gundai,HC,NB_subject_180,80,Limbic,2
+gundai,HC,NB_subject_180,80,Somatomotor,9
+gundai,HC,NB_subject_180,80,Unlabeled,1
+gundai,HC,NB_subject_180,80,Ventral Attention,1
+gundai,HC,NB_subject_180,80,Visual,14
+gundai,HC,NB_subject_180,120,Default,5
+gundai,HC,NB_subject_180,120,Dorsal Attention,4
+gundai,HC,NB_subject_180,120,Frontoparietal,9
+gundai,HC,NB_subject_180,120,Hippocampus,14
+gundai,HC,NB_subject_180,120,Limbic,1
+gundai,HC,NB_subject_180,120,Somatomotor,13
+gundai,HC,NB_subject_180,120,Unlabeled,3
+gundai,HC,NB_subject_180,120,Ventral Attention,7
+gundai,HC,NB_subject_180,120,Visual,19
+gundai,HC,NB_subject_180,160,Default,4
+gundai,HC,NB_subject_180,160,Dorsal Attention,7
+gundai,HC,NB_subject_180,160,Frontoparietal,1
+gundai,HC,NB_subject_180,160,Hippocampus,15
+gundai,HC,NB_subject_180,160,Limbic,2
+gundai,HC,NB_subject_180,160,Somatomotor,3
+gundai,HC,NB_subject_180,160,Unlabeled,1
+gundai,HC,NB_subject_180,160,Ventral Attention,8
+gundai,HC,NB_subject_180,160,Visual,10
+gundai,HC,NB_subject_180,200,Default,9
+gundai,HC,NB_subject_180,200,Dorsal Attention,3
+gundai,HC,NB_subject_180,200,Frontoparietal,3
+gundai,HC,NB_subject_180,200,Hippocampus,14
+gundai,HC,NB_subject_180,200,Limbic,1
+gundai,HC,NB_subject_180,200,Somatomotor,4
+gundai,HC,NB_subject_180,200,Unlabeled,2
+gundai,HC,NB_subject_180,200,Ventral Attention,3
+gundai,HC,NB_subject_180,200,Visual,10
+gundai,HC,NB_subject_108,80,Default,27
+gundai,HC,NB_subject_108,80,Dorsal Attention,24
+gundai,HC,NB_subject_108,80,Frontoparietal,7
+gundai,HC,NB_subject_108,80,Hippocampus,43
+gundai,HC,NB_subject_108,80,Limbic,3
+gundai,HC,NB_subject_108,80,Somatomotor,35
+gundai,HC,NB_subject_108,80,Unlabeled,1
+gundai,HC,NB_subject_108,80,Ventral Attention,18
+gundai,HC,NB_subject_108,80,Visual,25
+gundai,HC,NB_subject_108,120,Default,39
+gundai,HC,NB_subject_108,120,Dorsal Attention,33
+gundai,HC,NB_subject_108,120,Frontoparietal,19
+gundai,HC,NB_subject_108,120,Hippocampus,56
+gundai,HC,NB_subject_108,120,Limbic,8
+gundai,HC,NB_subject_108,120,Somatomotor,43
+gundai,HC,NB_subject_108,120,Unlabeled,3
+gundai,HC,NB_subject_108,120,Ventral Attention,22
+gundai,HC,NB_subject_108,120,Visual,27
+gundai,HC,NB_subject_108,160,Default,26
+gundai,HC,NB_subject_108,160,Dorsal Attention,20
+gundai,HC,NB_subject_108,160,Frontoparietal,31
+gundai,HC,NB_subject_108,160,Hippocampus,65
+gundai,HC,NB_subject_108,160,Limbic,8
+gundai,HC,NB_subject_108,160,Somatomotor,41
+gundai,HC,NB_subject_108,160,Unlabeled,3
+gundai,HC,NB_subject_108,160,Ventral Attention,21
+gundai,HC,NB_subject_108,160,Visual,33
+gundai,HC,NB_subject_108,200,Default,9
+gundai,HC,NB_subject_108,200,Dorsal Attention,18
+gundai,HC,NB_subject_108,200,Frontoparietal,10
+gundai,HC,NB_subject_108,200,Hippocampus,37
+gundai,HC,NB_subject_108,200,Limbic,4
+gundai,HC,NB_subject_108,200,Somatomotor,13
+gundai,HC,NB_subject_108,200,Unlabeled,3
+gundai,HC,NB_subject_108,200,Ventral Attention,7
+gundai,HC,NB_subject_108,200,Visual,26
+gundai,HC,NB_subject_108,240,Default,4
+gundai,HC,NB_subject_108,240,Dorsal Attention,1
+gundai,HC,NB_subject_108,240,Frontoparietal,2
+gundai,HC,NB_subject_108,240,Hippocampus,11
+gundai,HC,NB_subject_108,240,Somatomotor,1
+gundai,HC,NB_subject_108,240,Unlabeled,3
+gundai,HC,NB_subject_108,240,Ventral Attention,4
+gundai,HC,NB_subject_108,240,Visual,5
+gundai,HC,NB_subject_192,80,Default,20
+gundai,HC,NB_subject_192,80,Dorsal Attention,18
+gundai,HC,NB_subject_192,80,Frontoparietal,10
+gundai,HC,NB_subject_192,80,Hippocampus,34
+gundai,HC,NB_subject_192,80,Limbic,4
+gundai,HC,NB_subject_192,80,Somatomotor,23
+gundai,HC,NB_subject_192,80,Ventral Attention,23
+gundai,HC,NB_subject_192,80,Visual,38
+gundai,HC,NB_subject_192,120,Default,38
+gundai,HC,NB_subject_192,120,Dorsal Attention,32
+gundai,HC,NB_subject_192,120,Frontoparietal,54
+gundai,HC,NB_subject_192,120,Hippocampus,70
+gundai,HC,NB_subject_192,120,Limbic,14
+gundai,HC,NB_subject_192,120,Somatomotor,53
+gundai,HC,NB_subject_192,120,Unlabeled,1
+gundai,HC,NB_subject_192,120,Ventral Attention,17
+gundai,HC,NB_subject_192,120,Visual,46
+gundai,HC,NB_subject_192,160,Default,27
+gundai,HC,NB_subject_192,160,Dorsal Attention,36
+gundai,HC,NB_subject_192,160,Frontoparietal,24
+gundai,HC,NB_subject_192,160,Hippocampus,50
+gundai,HC,NB_subject_192,160,Somatomotor,25
+gundai,HC,NB_subject_192,160,Ventral Attention,14
+gundai,HC,NB_subject_192,160,Visual,41
+gundai,HC,NB_subject_192,200,Default,18
+gundai,HC,NB_subject_192,200,Dorsal Attention,31
+gundai,HC,NB_subject_192,200,Frontoparietal,20
+gundai,HC,NB_subject_192,200,Hippocampus,41
+gundai,HC,NB_subject_192,200,Limbic,2
+gundai,HC,NB_subject_192,200,Somatomotor,19
+gundai,HC,NB_subject_192,200,Ventral Attention,10
+gundai,HC,NB_subject_192,200,Visual,36
+gundai,HC,NB_subject_192,240,Default,7
+gundai,HC,NB_subject_192,240,Dorsal Attention,3
+gundai,HC,NB_subject_192,240,Frontoparietal,3
+gundai,HC,NB_subject_192,240,Hippocampus,14
+gundai,HC,NB_subject_192,240,Limbic,1
+gundai,HC,NB_subject_192,240,Somatomotor,5
+gundai,HC,NB_subject_192,240,Unlabeled,1
+gundai,HC,NB_subject_192,240,Ventral Attention,1
+gundai,HC,NB_subject_192,240,Visual,7
+gundai,SC,NB_subject_226,80,Default,65
+gundai,SC,NB_subject_226,80,Dorsal Attention,71
+gundai,SC,NB_subject_226,80,Frontoparietal,42
+gundai,SC,NB_subject_226,80,Hippocampus,176
+gundai,SC,NB_subject_226,80,Limbic,9
+gundai,SC,NB_subject_226,80,Somatomotor,120
+gundai,SC,NB_subject_226,80,Unlabeled,3
+gundai,SC,NB_subject_226,80,Ventral Attention,82
+gundai,SC,NB_subject_226,80,Visual,110
+gundai,SC,NB_subject_226,120,Default,77
+gundai,SC,NB_subject_226,120,Dorsal Attention,77
+gundai,SC,NB_subject_226,120,Frontoparietal,108
+gundai,SC,NB_subject_226,120,Hippocampus,223
+gundai,SC,NB_subject_226,120,Limbic,12
+gundai,SC,NB_subject_226,120,Somatomotor,152
+gundai,SC,NB_subject_226,120,Unlabeled,2
+gundai,SC,NB_subject_226,120,Ventral Attention,127
+gundai,SC,NB_subject_226,120,Visual,130
+gundai,SC,NB_subject_226,160,Default,73
+gundai,SC,NB_subject_226,160,Dorsal Attention,74
+gundai,SC,NB_subject_226,160,Frontoparietal,65
+gundai,SC,NB_subject_226,160,Hippocampus,163
+gundai,SC,NB_subject_226,160,Limbic,4
+gundai,SC,NB_subject_226,160,Somatomotor,152
+gundai,SC,NB_subject_226,160,Unlabeled,2
+gundai,SC,NB_subject_226,160,Ventral Attention,85
+gundai,SC,NB_subject_226,160,Visual,160
+gundai,SC,NB_subject_226,200,Default,31
+gundai,SC,NB_subject_226,200,Dorsal Attention,47
+gundai,SC,NB_subject_226,200,Frontoparietal,23
+gundai,SC,NB_subject_226,200,Hippocampus,103
+gundai,SC,NB_subject_226,200,Limbic,5
+gundai,SC,NB_subject_226,200,Somatomotor,96
+gundai,SC,NB_subject_226,200,Unlabeled,1
+gundai,SC,NB_subject_226,200,Ventral Attention,67
+gundai,SC,NB_subject_226,200,Visual,80
+gundai,SC,NB_subject_226,240,Default,25
+gundai,SC,NB_subject_226,240,Dorsal Attention,28
+gundai,SC,NB_subject_226,240,Frontoparietal,19
+gundai,SC,NB_subject_226,240,Hippocampus,47
+gundai,SC,NB_subject_226,240,Limbic,2
+gundai,SC,NB_subject_226,240,Somatomotor,60
+gundai,SC,NB_subject_226,240,Unlabeled,2
+gundai,SC,NB_subject_226,240,Ventral Attention,25
+gundai,SC,NB_subject_226,240,Visual,40
+gundai,SC,NB_subject_241,80,Default,22
+gundai,SC,NB_subject_241,80,Dorsal Attention,14
+gundai,SC,NB_subject_241,80,Frontoparietal,19
+gundai,SC,NB_subject_241,80,Hippocampus,28
+gundai,SC,NB_subject_241,80,Limbic,3
+gundai,SC,NB_subject_241,80,Somatomotor,30
+gundai,SC,NB_subject_241,80,Unlabeled,8
+gundai,SC,NB_subject_241,80,Ventral Attention,15
+gundai,SC,NB_subject_241,80,Visual,16
+gundai,SC,NB_subject_241,120,Default,35
+gundai,SC,NB_subject_241,120,Dorsal Attention,25
+gundai,SC,NB_subject_241,120,Frontoparietal,19
+gundai,SC,NB_subject_241,120,Hippocampus,59
+gundai,SC,NB_subject_241,120,Limbic,5
+gundai,SC,NB_subject_241,120,Somatomotor,30
+gundai,SC,NB_subject_241,120,Unlabeled,14
+gundai,SC,NB_subject_241,120,Ventral Attention,29
+gundai,SC,NB_subject_241,120,Visual,34
+gundai,SC,NB_subject_241,160,Default,20
+gundai,SC,NB_subject_241,160,Dorsal Attention,13
+gundai,SC,NB_subject_241,160,Frontoparietal,11
+gundai,SC,NB_subject_241,160,Hippocampus,17
+gundai,SC,NB_subject_241,160,Limbic,1
+gundai,SC,NB_subject_241,160,Somatomotor,10
+gundai,SC,NB_subject_241,160,Ventral Attention,15
+gundai,SC,NB_subject_241,160,Visual,10
+gundai,SC,NB_subject_241,200,Default,15
+gundai,SC,NB_subject_241,200,Dorsal Attention,6
+gundai,SC,NB_subject_241,200,Frontoparietal,5
+gundai,SC,NB_subject_241,200,Hippocampus,16
+gundai,SC,NB_subject_241,200,Limbic,6
+gundai,SC,NB_subject_241,200,Somatomotor,6
+gundai,SC,NB_subject_241,200,Unlabeled,1
+gundai,SC,NB_subject_241,200,Ventral Attention,4
+gundai,SC,NB_subject_241,200,Visual,6
+gundai,SC,NB_subject_273,80,Default,61
+gundai,SC,NB_subject_273,80,Dorsal Attention,94
+gundai,SC,NB_subject_273,80,Frontoparietal,83
+gundai,SC,NB_subject_273,80,Hippocampus,103
+gundai,SC,NB_subject_273,80,Limbic,8
+gundai,SC,NB_subject_273,80,Somatomotor,117
+gundai,SC,NB_subject_273,80,Unlabeled,1
+gundai,SC,NB_subject_273,80,Ventral Attention,46
+gundai,SC,NB_subject_273,80,Visual,163
+gundai,SC,NB_subject_273,120,Default,88
+gundai,SC,NB_subject_273,120,Dorsal Attention,117
+gundai,SC,NB_subject_273,120,Frontoparietal,83
+gundai,SC,NB_subject_273,120,Hippocampus,80
+gundai,SC,NB_subject_273,120,Limbic,15
+gundai,SC,NB_subject_273,120,Somatomotor,129
+gundai,SC,NB_subject_273,120,Ventral Attention,54
+gundai,SC,NB_subject_273,120,Visual,137
+gundai,SC,NB_subject_273,160,Default,43
+gundai,SC,NB_subject_273,160,Dorsal Attention,38
+gundai,SC,NB_subject_273,160,Frontoparietal,51
+gundai,SC,NB_subject_273,160,Hippocampus,48
+gundai,SC,NB_subject_273,160,Limbic,6
+gundai,SC,NB_subject_273,160,Somatomotor,67
+gundai,SC,NB_subject_273,160,Ventral Attention,34
+gundai,SC,NB_subject_273,160,Visual,80
+gundai,HC,NB_subject_126,80,Default,5
+gundai,HC,NB_subject_126,80,Dorsal Attention,4
+gundai,HC,NB_subject_126,80,Frontoparietal,4
+gundai,HC,NB_subject_126,80,Hippocampus,10
+gundai,HC,NB_subject_126,80,Limbic,5
+gundai,HC,NB_subject_126,80,Somatomotor,5
+gundai,HC,NB_subject_126,80,Unlabeled,1
+gundai,HC,NB_subject_126,80,Ventral Attention,1
+gundai,HC,NB_subject_126,80,Visual,3
+gundai,HC,NB_subject_126,120,Default,9
+gundai,HC,NB_subject_126,120,Dorsal Attention,10
+gundai,HC,NB_subject_126,120,Frontoparietal,10
+gundai,HC,NB_subject_126,120,Hippocampus,18
+gundai,HC,NB_subject_126,120,Limbic,3
+gundai,HC,NB_subject_126,120,Somatomotor,13
+gundai,HC,NB_subject_126,120,Unlabeled,4
+gundai,HC,NB_subject_126,120,Ventral Attention,8
+gundai,HC,NB_subject_126,120,Visual,8
+gundai,HC,NB_subject_126,160,Hippocampus,6
+gundai,HC,NB_subject_126,160,Limbic,1
+gundai,HC,NB_subject_126,160,Somatomotor,1
+gundai,HC,NB_subject_126,200,Default,4
+gundai,HC,NB_subject_126,200,Dorsal Attention,4
+gundai,HC,NB_subject_126,200,Frontoparietal,4
+gundai,HC,NB_subject_126,200,Hippocampus,10
+gundai,HC,NB_subject_126,200,Limbic,1
+gundai,HC,NB_subject_126,200,Somatomotor,7
+gundai,HC,NB_subject_126,200,Unlabeled,3
+gundai,HC,NB_subject_126,200,Ventral Attention,2
+gundai,HC,NB_subject_126,200,Visual,2
+gundai,SC,NB_subject_216,80,Default,45
+gundai,SC,NB_subject_216,80,Dorsal Attention,52
+gundai,SC,NB_subject_216,80,Frontoparietal,36
+gundai,SC,NB_subject_216,80,Hippocampus,82
+gundai,SC,NB_subject_216,80,Limbic,13
+gundai,SC,NB_subject_216,80,Somatomotor,79
+gundai,SC,NB_subject_216,80,Unlabeled,7
+gundai,SC,NB_subject_216,80,Ventral Attention,29
+gundai,SC,NB_subject_216,80,Visual,118
+gundai,SC,NB_subject_216,120,Default,75
+gundai,SC,NB_subject_216,120,Dorsal Attention,67
+gundai,SC,NB_subject_216,120,Frontoparietal,65
+gundai,SC,NB_subject_216,120,Hippocampus,85
+gundai,SC,NB_subject_216,120,Limbic,9
+gundai,SC,NB_subject_216,120,Somatomotor,95
+gundai,SC,NB_subject_216,120,Unlabeled,1
+gundai,SC,NB_subject_216,120,Ventral Attention,45
+gundai,SC,NB_subject_216,120,Visual,90
+gundai,SC,NB_subject_216,160,Default,59
+gundai,SC,NB_subject_216,160,Dorsal Attention,48
+gundai,SC,NB_subject_216,160,Frontoparietal,30
+gundai,SC,NB_subject_216,160,Hippocampus,103
+gundai,SC,NB_subject_216,160,Limbic,11
+gundai,SC,NB_subject_216,160,Somatomotor,77
+gundai,SC,NB_subject_216,160,Unlabeled,2
+gundai,SC,NB_subject_216,160,Ventral Attention,32
+gundai,SC,NB_subject_216,160,Visual,76
+gundai,SC,NB_subject_216,200,Default,32
+gundai,SC,NB_subject_216,200,Dorsal Attention,28
+gundai,SC,NB_subject_216,200,Frontoparietal,33
+gundai,SC,NB_subject_216,200,Hippocampus,72
+gundai,SC,NB_subject_216,200,Limbic,3
+gundai,SC,NB_subject_216,200,Somatomotor,56
+gundai,SC,NB_subject_216,200,Unlabeled,3
+gundai,SC,NB_subject_216,200,Ventral Attention,20
+gundai,SC,NB_subject_216,200,Visual,61
+gundai,SC,NB_subject_216,240,Default,17
+gundai,SC,NB_subject_216,240,Dorsal Attention,6
+gundai,SC,NB_subject_216,240,Frontoparietal,9
+gundai,SC,NB_subject_216,240,Hippocampus,25
+gundai,SC,NB_subject_216,240,Limbic,2
+gundai,SC,NB_subject_216,240,Somatomotor,15
+gundai,SC,NB_subject_216,240,Unlabeled,1
+gundai,SC,NB_subject_216,240,Ventral Attention,7
+gundai,SC,NB_subject_216,240,Visual,11
+gundai,SC,NB_subject_221,80,Default,31
+gundai,SC,NB_subject_221,80,Dorsal Attention,49
+gundai,SC,NB_subject_221,80,Frontoparietal,29
+gundai,SC,NB_subject_221,80,Hippocampus,38
+gundai,SC,NB_subject_221,80,Limbic,8
+gundai,SC,NB_subject_221,80,Somatomotor,56
+gundai,SC,NB_subject_221,80,Unlabeled,2
+gundai,SC,NB_subject_221,80,Ventral Attention,33
+gundai,SC,NB_subject_221,80,Visual,67
+gundai,SC,NB_subject_221,120,Default,65
+gundai,SC,NB_subject_221,120,Dorsal Attention,55
+gundai,SC,NB_subject_221,120,Frontoparietal,55
+gundai,SC,NB_subject_221,120,Hippocampus,42
+gundai,SC,NB_subject_221,120,Limbic,18
+gundai,SC,NB_subject_221,120,Somatomotor,54
+gundai,SC,NB_subject_221,120,Ventral Attention,44
+gundai,SC,NB_subject_221,120,Visual,100
+gundai,SC,NB_subject_221,160,Default,45
+gundai,SC,NB_subject_221,160,Dorsal Attention,54
+gundai,SC,NB_subject_221,160,Frontoparietal,46
+gundai,SC,NB_subject_221,160,Hippocampus,44
+gundai,SC,NB_subject_221,160,Limbic,10
+gundai,SC,NB_subject_221,160,Somatomotor,51
+gundai,SC,NB_subject_221,160,Ventral Attention,36
+gundai,SC,NB_subject_221,160,Visual,93
+gundai,SC,NB_subject_221,200,Default,47
+gundai,SC,NB_subject_221,200,Dorsal Attention,44
+gundai,SC,NB_subject_221,200,Frontoparietal,35
+gundai,SC,NB_subject_221,200,Hippocampus,32
+gundai,SC,NB_subject_221,200,Limbic,16
+gundai,SC,NB_subject_221,200,Somatomotor,39
+gundai,SC,NB_subject_221,200,Ventral Attention,24
+gundai,SC,NB_subject_221,200,Visual,47
+gundai,SC,NB_subject_221,240,Default,9
+gundai,SC,NB_subject_221,240,Dorsal Attention,15
+gundai,SC,NB_subject_221,240,Frontoparietal,13
+gundai,SC,NB_subject_221,240,Hippocampus,24
+gundai,SC,NB_subject_221,240,Limbic,7
+gundai,SC,NB_subject_221,240,Somatomotor,29
+gundai,SC,NB_subject_221,240,Unlabeled,1
+gundai,SC,NB_subject_221,240,Ventral Attention,12
+gundai,SC,NB_subject_221,240,Visual,30
+gundai,SC,NB_subject_167,80,Default,102
+gundai,SC,NB_subject_167,80,Dorsal Attention,95
+gundai,SC,NB_subject_167,80,Frontoparietal,52
+gundai,SC,NB_subject_167,80,Hippocampus,139
+gundai,SC,NB_subject_167,80,Limbic,19
+gundai,SC,NB_subject_167,80,Somatomotor,150
+gundai,SC,NB_subject_167,80,Unlabeled,8
+gundai,SC,NB_subject_167,80,Ventral Attention,65
+gundai,SC,NB_subject_167,80,Visual,110
+gundai,SC,NB_subject_167,120,Default,117
+gundai,SC,NB_subject_167,120,Dorsal Attention,86
+gundai,SC,NB_subject_167,120,Frontoparietal,61
+gundai,SC,NB_subject_167,120,Hippocampus,140
+gundai,SC,NB_subject_167,120,Limbic,15
+gundai,SC,NB_subject_167,120,Somatomotor,158
+gundai,SC,NB_subject_167,120,Unlabeled,6
+gundai,SC,NB_subject_167,120,Ventral Attention,76
+gundai,SC,NB_subject_167,120,Visual,107
+gundai,SC,NB_subject_167,160,Default,78
+gundai,SC,NB_subject_167,160,Dorsal Attention,67
+gundai,SC,NB_subject_167,160,Frontoparietal,43
+gundai,SC,NB_subject_167,160,Hippocampus,70
+gundai,SC,NB_subject_167,160,Limbic,15
+gundai,SC,NB_subject_167,160,Somatomotor,113
+gundai,SC,NB_subject_167,160,Unlabeled,2
+gundai,SC,NB_subject_167,160,Ventral Attention,56
+gundai,SC,NB_subject_167,160,Visual,60
+gundai,SC,NB_subject_167,200,Default,45
+gundai,SC,NB_subject_167,200,Dorsal Attention,30
+gundai,SC,NB_subject_167,200,Frontoparietal,28
+gundai,SC,NB_subject_167,200,Hippocampus,44
+gundai,SC,NB_subject_167,200,Somatomotor,51
+gundai,SC,NB_subject_167,200,Ventral Attention,31
+gundai,SC,NB_subject_167,200,Visual,33
+gundai,SC,NB_subject_167,240,Default,9
+gundai,SC,NB_subject_167,240,Dorsal Attention,8
+gundai,SC,NB_subject_167,240,Frontoparietal,11
+gundai,SC,NB_subject_167,240,Hippocampus,17
+gundai,SC,NB_subject_167,240,Somatomotor,17
+gundai,SC,NB_subject_167,240,Unlabeled,1
+gundai,SC,NB_subject_167,240,Ventral Attention,8
+gundai,SC,NB_subject_167,240,Visual,11
+gundai,SC,NB_subject_213,80,Default,40
+gundai,SC,NB_subject_213,80,Dorsal Attention,45
+gundai,SC,NB_subject_213,80,Frontoparietal,28
+gundai,SC,NB_subject_213,80,Hippocampus,43
+gundai,SC,NB_subject_213,80,Somatomotor,42
+gundai,SC,NB_subject_213,80,Unlabeled,2
+gundai,SC,NB_subject_213,80,Ventral Attention,29
+gundai,SC,NB_subject_213,80,Visual,90
+gundai,SC,NB_subject_213,120,Default,42
+gundai,SC,NB_subject_213,120,Dorsal Attention,88
+gundai,SC,NB_subject_213,120,Frontoparietal,45
+gundai,SC,NB_subject_213,120,Hippocampus,84
+gundai,SC,NB_subject_213,120,Limbic,5
+gundai,SC,NB_subject_213,120,Somatomotor,82
+gundai,SC,NB_subject_213,120,Unlabeled,2
+gundai,SC,NB_subject_213,120,Ventral Attention,41
+gundai,SC,NB_subject_213,120,Visual,127
+gundai,SC,NB_subject_213,160,Default,59
+gundai,SC,NB_subject_213,160,Dorsal Attention,70
+gundai,SC,NB_subject_213,160,Frontoparietal,53
+gundai,SC,NB_subject_213,160,Hippocampus,94
+gundai,SC,NB_subject_213,160,Limbic,5
+gundai,SC,NB_subject_213,160,Somatomotor,80
+gundai,SC,NB_subject_213,160,Ventral Attention,39
+gundai,SC,NB_subject_213,160,Visual,144
+gundai,SC,NB_subject_213,200,Default,70
+gundai,SC,NB_subject_213,200,Dorsal Attention,61
+gundai,SC,NB_subject_213,200,Frontoparietal,54
+gundai,SC,NB_subject_213,200,Hippocampus,74
+gundai,SC,NB_subject_213,200,Limbic,4
+gundai,SC,NB_subject_213,200,Somatomotor,72
+gundai,SC,NB_subject_213,200,Unlabeled,1
+gundai,SC,NB_subject_213,200,Ventral Attention,30
+gundai,SC,NB_subject_213,200,Visual,158
+gundai,SC,NB_subject_213,240,Default,23
+gundai,SC,NB_subject_213,240,Dorsal Attention,24
+gundai,SC,NB_subject_213,240,Frontoparietal,15
+gundai,SC,NB_subject_213,240,Hippocampus,37
+gundai,SC,NB_subject_213,240,Limbic,1
+gundai,SC,NB_subject_213,240,Somatomotor,29
+gundai,SC,NB_subject_213,240,Ventral Attention,29
+gundai,SC,NB_subject_213,240,Visual,46
+gundai,HC,NB_subject_58,80,Default,17
+gundai,HC,NB_subject_58,80,Dorsal Attention,14
+gundai,HC,NB_subject_58,80,Frontoparietal,12
+gundai,HC,NB_subject_58,80,Hippocampus,40
+gundai,HC,NB_subject_58,80,Limbic,3
+gundai,HC,NB_subject_58,80,Somatomotor,14
+gundai,HC,NB_subject_58,80,Unlabeled,5
+gundai,HC,NB_subject_58,80,Ventral Attention,7
+gundai,HC,NB_subject_58,80,Visual,25
+gundai,HC,NB_subject_58,120,Default,3
+gundai,HC,NB_subject_58,120,Dorsal Attention,6
+gundai,HC,NB_subject_58,120,Frontoparietal,6
+gundai,HC,NB_subject_58,120,Hippocampus,19
+gundai,HC,NB_subject_58,120,Limbic,1
+gundai,HC,NB_subject_58,120,Somatomotor,7
+gundai,HC,NB_subject_58,120,Unlabeled,3
+gundai,HC,NB_subject_58,120,Ventral Attention,4
+gundai,HC,NB_subject_58,120,Visual,5
+gundai,HC,NB_subject_58,160,Default,4
+gundai,HC,NB_subject_58,160,Frontoparietal,3
+gundai,HC,NB_subject_58,160,Hippocampus,6
+gundai,HC,NB_subject_58,160,Limbic,1
+gundai,HC,NB_subject_58,160,Somatomotor,2
+gundai,HC,NB_subject_58,160,Unlabeled,1
+gundai,HC,NB_subject_58,160,Visual,2
+gundai,HC,NB_subject_58,200,Default,3
+gundai,HC,NB_subject_58,200,Frontoparietal,5
+gundai,HC,NB_subject_58,200,Hippocampus,9
+gundai,HC,NB_subject_58,200,Somatomotor,1
+gundai,HC,NB_subject_58,200,Unlabeled,1
+gundai,HC,NB_subject_58,200,Ventral Attention,3
+gundai,HC,NB_subject_58,200,Visual,5
+gundai,HC,NB_subject_161,80,Default,2
+gundai,HC,NB_subject_161,80,Hippocampus,5
+gundai,HC,NB_subject_161,80,Somatomotor,4
+gundai,HC,NB_subject_161,120,Dorsal Attention,2
+gundai,HC,NB_subject_161,120,Frontoparietal,1
+gundai,HC,NB_subject_161,120,Hippocampus,1
+gundai,HC,NB_subject_161,120,Somatomotor,1
+gundai,HC,NB_subject_161,120,Unlabeled,1
+gundai,HC,NB_subject_161,120,Visual,3
+gundai,SC,NB_subject_106,80,Default,29
+gundai,SC,NB_subject_106,80,Dorsal Attention,48
+gundai,SC,NB_subject_106,80,Frontoparietal,37
+gundai,SC,NB_subject_106,80,Hippocampus,83
+gundai,SC,NB_subject_106,80,Limbic,1
+gundai,SC,NB_subject_106,80,Somatomotor,38
+gundai,SC,NB_subject_106,80,Unlabeled,15
+gundai,SC,NB_subject_106,80,Ventral Attention,17
+gundai,SC,NB_subject_106,80,Visual,50
+gundai,SC,NB_subject_106,120,Default,28
+gundai,SC,NB_subject_106,120,Dorsal Attention,21
+gundai,SC,NB_subject_106,120,Frontoparietal,21
+gundai,SC,NB_subject_106,120,Hippocampus,88
+gundai,SC,NB_subject_106,120,Limbic,6
+gundai,SC,NB_subject_106,120,Somatomotor,34
+gundai,SC,NB_subject_106,120,Unlabeled,7
+gundai,SC,NB_subject_106,120,Ventral Attention,13
+gundai,SC,NB_subject_106,120,Visual,54
+gundai,SC,NB_subject_106,160,Default,14
+gundai,SC,NB_subject_106,160,Dorsal Attention,19
+gundai,SC,NB_subject_106,160,Frontoparietal,12
+gundai,SC,NB_subject_106,160,Hippocampus,54
+gundai,SC,NB_subject_106,160,Limbic,2
+gundai,SC,NB_subject_106,160,Somatomotor,18
+gundai,SC,NB_subject_106,160,Unlabeled,1
+gundai,SC,NB_subject_106,160,Ventral Attention,11
+gundai,SC,NB_subject_106,160,Visual,36
+gundai,SC,NB_subject_106,200,Default,8
+gundai,SC,NB_subject_106,200,Dorsal Attention,7
+gundai,SC,NB_subject_106,200,Frontoparietal,7
+gundai,SC,NB_subject_106,200,Hippocampus,27
+gundai,SC,NB_subject_106,200,Limbic,1
+gundai,SC,NB_subject_106,200,Somatomotor,12
+gundai,SC,NB_subject_106,200,Ventral Attention,6
+gundai,SC,NB_subject_106,200,Visual,7
+gundai,SC,NB_subject_106,240,Default,5
+gundai,SC,NB_subject_106,240,Hippocampus,4
+gundai,SC,NB_subject_106,240,Somatomotor,4
+gundai,SC,NB_subject_106,240,Ventral Attention,1
+gundai,SC,NB_subject_106,240,Visual,1
+gundai,SC,NB_subject_77,80,Default,135
+gundai,SC,NB_subject_77,80,Dorsal Attention,113
+gundai,SC,NB_subject_77,80,Frontoparietal,98
+gundai,SC,NB_subject_77,80,Hippocampus,123
+gundai,SC,NB_subject_77,80,Limbic,11
+gundai,SC,NB_subject_77,80,Somatomotor,192
+gundai,SC,NB_subject_77,80,Unlabeled,5
+gundai,SC,NB_subject_77,80,Ventral Attention,102
+gundai,SC,NB_subject_77,80,Visual,256
+gundai,SC,NB_subject_77,120,Default,182
+gundai,SC,NB_subject_77,120,Dorsal Attention,191
+gundai,SC,NB_subject_77,120,Frontoparietal,161
+gundai,SC,NB_subject_77,120,Hippocampus,155
+gundai,SC,NB_subject_77,120,Limbic,38
+gundai,SC,NB_subject_77,120,Somatomotor,270
+gundai,SC,NB_subject_77,120,Unlabeled,13
+gundai,SC,NB_subject_77,120,Ventral Attention,180
+gundai,SC,NB_subject_77,120,Visual,279
+gundai,SC,NB_subject_77,160,Default,143
+gundai,SC,NB_subject_77,160,Dorsal Attention,163
+gundai,SC,NB_subject_77,160,Frontoparietal,90
+gundai,SC,NB_subject_77,160,Hippocampus,168
+gundai,SC,NB_subject_77,160,Limbic,15
+gundai,SC,NB_subject_77,160,Somatomotor,195
+gundai,SC,NB_subject_77,160,Unlabeled,11
+gundai,SC,NB_subject_77,160,Ventral Attention,97
+gundai,SC,NB_subject_77,160,Visual,241
+gundai,SC,NB_subject_77,200,Default,104
+gundai,SC,NB_subject_77,200,Dorsal Attention,117
+gundai,SC,NB_subject_77,200,Frontoparietal,63
+gundai,SC,NB_subject_77,200,Hippocampus,100
+gundai,SC,NB_subject_77,200,Limbic,18
+gundai,SC,NB_subject_77,200,Somatomotor,166
+gundai,SC,NB_subject_77,200,Unlabeled,6
+gundai,SC,NB_subject_77,200,Ventral Attention,76
+gundai,SC,NB_subject_77,200,Visual,205
+gundai,SC,NB_subject_77,240,Default,37
+gundai,SC,NB_subject_77,240,Dorsal Attention,36
+gundai,SC,NB_subject_77,240,Frontoparietal,14
+gundai,SC,NB_subject_77,240,Hippocampus,41
+gundai,SC,NB_subject_77,240,Limbic,5
+gundai,SC,NB_subject_77,240,Somatomotor,63
+gundai,SC,NB_subject_77,240,Unlabeled,1
+gundai,SC,NB_subject_77,240,Ventral Attention,18
+gundai,SC,NB_subject_77,240,Visual,55
+gundai,HC,NB_subject_266,120,Dorsal Attention,3
+gundai,HC,NB_subject_266,120,Frontoparietal,1
+gundai,HC,NB_subject_266,120,Hippocampus,3
+gundai,HC,NB_subject_266,120,Somatomotor,2
+gundai,HC,NB_subject_266,120,Unlabeled,1
+gundai,HC,NB_subject_266,120,Ventral Attention,1
+gundai,HC,NB_subject_266,120,Visual,1
+gundai,HC,NB_subject_266,160,Default,1
+gundai,HC,NB_subject_266,160,Dorsal Attention,1
+gundai,HC,NB_subject_266,160,Frontoparietal,2
+gundai,HC,NB_subject_266,160,Hippocampus,2
+gundai,HC,NB_subject_266,160,Somatomotor,1
+gundai,HC,NB_subject_266,160,Visual,2
+gundai,HC,NB_subject_111,80,Hippocampus,1
+gundai,HC,NB_subject_111,80,Somatomotor,1
+gundai,HC,NB_subject_111,80,Ventral Attention,4
+gundai,HC,NB_subject_111,80,Visual,4
+gundai,HC,NB_subject_111,120,Default,1
+gundai,HC,NB_subject_111,120,Dorsal Attention,2
+gundai,HC,NB_subject_111,120,Frontoparietal,2
+gundai,HC,NB_subject_111,120,Hippocampus,2
+gundai,HC,NB_subject_111,120,Limbic,1
+gundai,HC,NB_subject_111,120,Somatomotor,7
+gundai,HC,NB_subject_111,120,Unlabeled,4
+gundai,HC,NB_subject_111,120,Ventral Attention,1
+gundai,HC,NB_subject_111,120,Visual,1
+gundai,HC,NB_subject_111,160,Default,2
+gundai,HC,NB_subject_111,160,Dorsal Attention,1
+gundai,HC,NB_subject_111,160,Frontoparietal,1
+gundai,HC,NB_subject_111,160,Hippocampus,4
+gundai,HC,NB_subject_111,160,Limbic,2
+gundai,HC,NB_subject_111,160,Somatomotor,1
+gundai,HC,NB_subject_111,160,Unlabeled,1
+gundai,HC,NB_subject_111,160,Visual,4
+gundai,HC,NB_subject_111,200,Default,1
+gundai,HC,NB_subject_111,200,Hippocampus,5
+gundai,HC,NB_subject_111,200,Visual,3
+gundai,HC,NB_subject_110,80,Default,12
+gundai,HC,NB_subject_110,80,Dorsal Attention,8
+gundai,HC,NB_subject_110,80,Frontoparietal,12
+gundai,HC,NB_subject_110,80,Hippocampus,21
+gundai,HC,NB_subject_110,80,Limbic,4
+gundai,HC,NB_subject_110,80,Somatomotor,18
+gundai,HC,NB_subject_110,80,Ventral Attention,9
+gundai,HC,NB_subject_110,80,Visual,3
+gundai,HC,NB_subject_110,120,Default,14
+gundai,HC,NB_subject_110,120,Dorsal Attention,2
+gundai,HC,NB_subject_110,120,Frontoparietal,3
+gundai,HC,NB_subject_110,120,Hippocampus,22
+gundai,HC,NB_subject_110,120,Limbic,2
+gundai,HC,NB_subject_110,120,Somatomotor,6
+gundai,HC,NB_subject_110,120,Unlabeled,1
+gundai,HC,NB_subject_110,120,Ventral Attention,2
+gundai,HC,NB_subject_110,120,Visual,7
+gundai,HC,NB_subject_110,160,Default,4
+gundai,HC,NB_subject_110,160,Dorsal Attention,1
+gundai,HC,NB_subject_110,160,Hippocampus,3
+gundai,HC,NB_subject_110,160,Somatomotor,3
+gundai,HC,NB_subject_110,160,Visual,1
+gundai,HC,NB_subject_110,200,Hippocampus,1
+gundai,HC,NB_subject_110,200,Limbic,1
+gundai,HC,NB_subject_110,200,Ventral Attention,1
+gundai,HC,NB_subject_110,200,Visual,2
+gundai,HC,NB_subject_228,80,Default,62
+gundai,HC,NB_subject_228,80,Dorsal Attention,43
+gundai,HC,NB_subject_228,80,Frontoparietal,40
+gundai,HC,NB_subject_228,80,Hippocampus,82
+gundai,HC,NB_subject_228,80,Limbic,16
+gundai,HC,NB_subject_228,80,Somatomotor,55
+gundai,HC,NB_subject_228,80,Ventral Attention,27
+gundai,HC,NB_subject_228,80,Visual,96
+gundai,HC,NB_subject_228,120,Default,79
+gundai,HC,NB_subject_228,120,Dorsal Attention,66
+gundai,HC,NB_subject_228,120,Frontoparietal,46
+gundai,HC,NB_subject_228,120,Hippocampus,89
+gundai,HC,NB_subject_228,120,Limbic,36
+gundai,HC,NB_subject_228,120,Somatomotor,89
+gundai,HC,NB_subject_228,120,Unlabeled,5
+gundai,HC,NB_subject_228,120,Ventral Attention,78
+gundai,HC,NB_subject_228,120,Visual,100
+gundai,HC,NB_subject_228,160,Default,32
+gundai,HC,NB_subject_228,160,Dorsal Attention,44
+gundai,HC,NB_subject_228,160,Frontoparietal,46
+gundai,HC,NB_subject_228,160,Hippocampus,73
+gundai,HC,NB_subject_228,160,Limbic,24
+gundai,HC,NB_subject_228,160,Somatomotor,32
+gundai,HC,NB_subject_228,160,Unlabeled,6
+gundai,HC,NB_subject_228,160,Ventral Attention,23
+gundai,HC,NB_subject_228,160,Visual,81
+gundai,HC,NB_subject_228,200,Default,16
+gundai,HC,NB_subject_228,200,Dorsal Attention,18
+gundai,HC,NB_subject_228,200,Frontoparietal,16
+gundai,HC,NB_subject_228,200,Hippocampus,42
+gundai,HC,NB_subject_228,200,Limbic,15
+gundai,HC,NB_subject_228,200,Somatomotor,27
+gundai,HC,NB_subject_228,200,Unlabeled,3
+gundai,HC,NB_subject_228,200,Ventral Attention,15
+gundai,HC,NB_subject_228,200,Visual,50
+gundai,HC,NB_subject_228,240,Default,14
+gundai,HC,NB_subject_228,240,Dorsal Attention,4
+gundai,HC,NB_subject_228,240,Frontoparietal,4
+gundai,HC,NB_subject_228,240,Hippocampus,6
+gundai,HC,NB_subject_228,240,Limbic,1
+gundai,HC,NB_subject_228,240,Somatomotor,7
+gundai,HC,NB_subject_228,240,Unlabeled,1
+gundai,HC,NB_subject_228,240,Ventral Attention,1
+gundai,HC,NB_subject_228,240,Visual,7
+gundai,SC,NB_subject_227,120,Default,4
+gundai,SC,NB_subject_227,120,Dorsal Attention,1
+gundai,SC,NB_subject_227,120,Frontoparietal,2
+gundai,SC,NB_subject_227,120,Hippocampus,5
+gundai,SC,NB_subject_227,120,Limbic,2
+gundai,SC,NB_subject_227,120,Somatomotor,7
+gundai,SC,NB_subject_227,120,Unlabeled,1
+gundai,SC,NB_subject_227,120,Ventral Attention,4
+gundai,SC,NB_subject_227,120,Visual,4
+gundai,SC,NB_subject_227,200,Default,3
+gundai,SC,NB_subject_227,200,Dorsal Attention,2
+gundai,SC,NB_subject_227,200,Hippocampus,1
+gundai,SC,NB_subject_227,200,Somatomotor,1
+gundai,SC,NB_subject_227,200,Unlabeled,1
+gundai,SC,NB_subject_227,200,Visual,1
+kumasou,SC,NB_subject_336,80,Default,68
+kumasou,SC,NB_subject_336,80,Dorsal Attention,47
+kumasou,SC,NB_subject_336,80,Frontoparietal,50
+kumasou,SC,NB_subject_336,80,Hippocampus,3
+kumasou,SC,NB_subject_336,80,Limbic,15
+kumasou,SC,NB_subject_336,80,Somatomotor,46
+kumasou,SC,NB_subject_336,80,Unlabeled,3
+kumasou,SC,NB_subject_336,80,Ventral Attention,31
+kumasou,SC,NB_subject_336,80,Visual,65
+kumasou,SC,NB_subject_336,120,Default,51
+kumasou,SC,NB_subject_336,120,Dorsal Attention,39
+kumasou,SC,NB_subject_336,120,Frontoparietal,37
+kumasou,SC,NB_subject_336,120,Hippocampus,5
+kumasou,SC,NB_subject_336,120,Limbic,8
+kumasou,SC,NB_subject_336,120,Somatomotor,36
+kumasou,SC,NB_subject_336,120,Unlabeled,1
+kumasou,SC,NB_subject_336,120,Ventral Attention,29
+kumasou,SC,NB_subject_336,120,Visual,53
+kumasou,SC,NB_subject_336,160,Default,30
+kumasou,SC,NB_subject_336,160,Dorsal Attention,13
+kumasou,SC,NB_subject_336,160,Frontoparietal,22
+kumasou,SC,NB_subject_336,160,Hippocampus,4
+kumasou,SC,NB_subject_336,160,Limbic,13
+kumasou,SC,NB_subject_336,160,Somatomotor,23
+kumasou,SC,NB_subject_336,160,Unlabeled,1
+kumasou,SC,NB_subject_336,160,Ventral Attention,17
+kumasou,SC,NB_subject_336,160,Visual,28
+kumasou,SC,NB_subject_336,200,Default,6
+kumasou,SC,NB_subject_336,200,Dorsal Attention,9
+kumasou,SC,NB_subject_336,200,Frontoparietal,11
+kumasou,SC,NB_subject_336,200,Hippocampus,4
+kumasou,SC,NB_subject_336,200,Limbic,1
+kumasou,SC,NB_subject_336,200,Somatomotor,12
+kumasou,SC,NB_subject_336,200,Unlabeled,4
+kumasou,SC,NB_subject_336,200,Ventral Attention,9
+kumasou,SC,NB_subject_336,200,Visual,14
+kumasou,SC,NB_subject_336,240,Default,9
+kumasou,SC,NB_subject_336,240,Dorsal Attention,3
+kumasou,SC,NB_subject_336,240,Frontoparietal,5
+kumasou,SC,NB_subject_336,240,Hippocampus,2
+kumasou,SC,NB_subject_336,240,Limbic,6
+kumasou,SC,NB_subject_336,240,Somatomotor,5
+kumasou,SC,NB_subject_336,240,Ventral Attention,5
+kumasou,SC,NB_subject_336,240,Visual,2
+kumasou,HC,NB_subject_309,80,Default,50
+kumasou,HC,NB_subject_309,80,Dorsal Attention,33
+kumasou,HC,NB_subject_309,80,Frontoparietal,26
+kumasou,HC,NB_subject_309,80,Hippocampus,2
+kumasou,HC,NB_subject_309,80,Limbic,10
+kumasou,HC,NB_subject_309,80,Somatomotor,40
+kumasou,HC,NB_subject_309,80,Unlabeled,2
+kumasou,HC,NB_subject_309,80,Ventral Attention,27
+kumasou,HC,NB_subject_309,80,Visual,28
+kumasou,HC,NB_subject_309,120,Default,51
+kumasou,HC,NB_subject_309,120,Dorsal Attention,31
+kumasou,HC,NB_subject_309,120,Frontoparietal,44
+kumasou,HC,NB_subject_309,120,Hippocampus,4
+kumasou,HC,NB_subject_309,120,Limbic,11
+kumasou,HC,NB_subject_309,120,Somatomotor,60
+kumasou,HC,NB_subject_309,120,Unlabeled,5
+kumasou,HC,NB_subject_309,120,Ventral Attention,27
+kumasou,HC,NB_subject_309,120,Visual,38
+kumasou,HC,NB_subject_309,160,Default,28
+kumasou,HC,NB_subject_309,160,Dorsal Attention,20
+kumasou,HC,NB_subject_309,160,Frontoparietal,14
+kumasou,HC,NB_subject_309,160,Hippocampus,4
+kumasou,HC,NB_subject_309,160,Limbic,8
+kumasou,HC,NB_subject_309,160,Somatomotor,26
+kumasou,HC,NB_subject_309,160,Unlabeled,3
+kumasou,HC,NB_subject_309,160,Ventral Attention,9
+kumasou,HC,NB_subject_309,160,Visual,24
+kumasou,HC,NB_subject_309,200,Default,9
+kumasou,HC,NB_subject_309,200,Dorsal Attention,14
+kumasou,HC,NB_subject_309,200,Frontoparietal,11
+kumasou,HC,NB_subject_309,200,Hippocampus,6
+kumasou,HC,NB_subject_309,200,Limbic,4
+kumasou,HC,NB_subject_309,200,Somatomotor,10
+kumasou,HC,NB_subject_309,200,Unlabeled,2
+kumasou,HC,NB_subject_309,200,Ventral Attention,5
+kumasou,HC,NB_subject_309,200,Visual,9
+kumasou,HC,NB_subject_309,240,Default,6
+kumasou,HC,NB_subject_309,240,Dorsal Attention,1
+kumasou,HC,NB_subject_309,240,Frontoparietal,5
+kumasou,HC,NB_subject_309,240,Hippocampus,5
+kumasou,HC,NB_subject_309,240,Somatomotor,7
+kumasou,HC,NB_subject_309,240,Visual,2
+kumasou,SC,NB_subject_334,80,Default,201
+kumasou,SC,NB_subject_334,80,Dorsal Attention,162
+kumasou,SC,NB_subject_334,80,Frontoparietal,170
+kumasou,SC,NB_subject_334,80,Hippocampus,7
+kumasou,SC,NB_subject_334,80,Limbic,57
+kumasou,SC,NB_subject_334,80,Somatomotor,176
+kumasou,SC,NB_subject_334,80,Unlabeled,26
+kumasou,SC,NB_subject_334,80,Ventral Attention,129
+kumasou,SC,NB_subject_334,80,Visual,204
+kumasou,SC,NB_subject_334,120,Default,242
+kumasou,SC,NB_subject_334,120,Dorsal Attention,158
+kumasou,SC,NB_subject_334,120,Frontoparietal,215
+kumasou,SC,NB_subject_334,120,Hippocampus,6
+kumasou,SC,NB_subject_334,120,Limbic,77
+kumasou,SC,NB_subject_334,120,Somatomotor,234
+kumasou,SC,NB_subject_334,120,Unlabeled,20
+kumasou,SC,NB_subject_334,120,Ventral Attention,155
+kumasou,SC,NB_subject_334,120,Visual,269
+kumasou,SC,NB_subject_334,160,Default,241
+kumasou,SC,NB_subject_334,160,Dorsal Attention,181
+kumasou,SC,NB_subject_334,160,Frontoparietal,214
+kumasou,SC,NB_subject_334,160,Hippocampus,6
+kumasou,SC,NB_subject_334,160,Limbic,93
+kumasou,SC,NB_subject_334,160,Somatomotor,181
+kumasou,SC,NB_subject_334,160,Unlabeled,15
+kumasou,SC,NB_subject_334,160,Ventral Attention,125
+kumasou,SC,NB_subject_334,160,Visual,254
+kumasou,SC,NB_subject_334,200,Default,148
+kumasou,SC,NB_subject_334,200,Dorsal Attention,103
+kumasou,SC,NB_subject_334,200,Frontoparietal,123
+kumasou,SC,NB_subject_334,200,Hippocampus,5
+kumasou,SC,NB_subject_334,200,Limbic,57
+kumasou,SC,NB_subject_334,200,Somatomotor,154
+kumasou,SC,NB_subject_334,200,Unlabeled,8
+kumasou,SC,NB_subject_334,200,Ventral Attention,102
+kumasou,SC,NB_subject_334,200,Visual,158
+kumasou,SC,NB_subject_334,240,Default,69
+kumasou,SC,NB_subject_334,240,Dorsal Attention,36
+kumasou,SC,NB_subject_334,240,Frontoparietal,69
+kumasou,SC,NB_subject_334,240,Hippocampus,5
+kumasou,SC,NB_subject_334,240,Limbic,23
+kumasou,SC,NB_subject_334,240,Somatomotor,57
+kumasou,SC,NB_subject_334,240,Unlabeled,9
+kumasou,SC,NB_subject_334,240,Ventral Attention,42
+kumasou,SC,NB_subject_334,240,Visual,106
+kumasou,HC,NB_subject_306,80,Default,11
+kumasou,HC,NB_subject_306,80,Dorsal Attention,5
+kumasou,HC,NB_subject_306,80,Frontoparietal,7
+kumasou,HC,NB_subject_306,80,Hippocampus,2
+kumasou,HC,NB_subject_306,80,Limbic,4
+kumasou,HC,NB_subject_306,80,Somatomotor,10
+kumasou,HC,NB_subject_306,80,Ventral Attention,2
+kumasou,HC,NB_subject_306,80,Visual,2
+kumasou,HC,NB_subject_306,120,Default,6
+kumasou,HC,NB_subject_306,120,Dorsal Attention,2
+kumasou,HC,NB_subject_306,120,Frontoparietal,15
+kumasou,HC,NB_subject_306,120,Hippocampus,1
+kumasou,HC,NB_subject_306,120,Somatomotor,11
+kumasou,HC,NB_subject_306,120,Unlabeled,1
+kumasou,HC,NB_subject_306,120,Ventral Attention,4
+kumasou,HC,NB_subject_306,120,Visual,9
+kumasou,HC,NB_subject_306,160,Default,4
+kumasou,HC,NB_subject_306,160,Dorsal Attention,6
+kumasou,HC,NB_subject_306,160,Frontoparietal,1
+kumasou,HC,NB_subject_306,160,Hippocampus,1
+kumasou,HC,NB_subject_306,160,Limbic,1
+kumasou,HC,NB_subject_306,160,Somatomotor,5
+kumasou,HC,NB_subject_306,160,Unlabeled,1
+kumasou,HC,NB_subject_306,160,Ventral Attention,2
+kumasou,HC,NB_subject_306,200,Default,5
+kumasou,HC,NB_subject_306,200,Dorsal Attention,3
+kumasou,HC,NB_subject_306,200,Frontoparietal,10
+kumasou,HC,NB_subject_306,200,Hippocampus,2
+kumasou,HC,NB_subject_306,200,Limbic,1
+kumasou,HC,NB_subject_306,200,Somatomotor,4
+kumasou,HC,NB_subject_306,200,Ventral Attention,3
+kumasou,HC,NB_subject_306,200,Visual,6
+kumasou,HC,NB_subject_306,240,Default,2
+kumasou,HC,NB_subject_306,240,Frontoparietal,3
+kumasou,HC,NB_subject_306,240,Hippocampus,1
+kumasou,HC,NB_subject_306,240,Limbic,2
+kumasou,HC,NB_subject_306,240,Ventral Attention,1
+kumasou,HC,NB_subject_306,240,Visual,3
+kumasou,SC,NB_subject_338,80,Default,39
+kumasou,SC,NB_subject_338,80,Dorsal Attention,25
+kumasou,SC,NB_subject_338,80,Frontoparietal,46
+kumasou,SC,NB_subject_338,80,Somatomotor,71
+kumasou,SC,NB_subject_338,80,Unlabeled,6
+kumasou,SC,NB_subject_338,80,Ventral Attention,7
+kumasou,SC,NB_subject_338,80,Visual,162
+kumasou,SC,NB_subject_338,120,Default,121
+kumasou,SC,NB_subject_338,120,Dorsal Attention,89
+kumasou,SC,NB_subject_338,120,Frontoparietal,120
+kumasou,SC,NB_subject_338,120,Hippocampus,5
+kumasou,SC,NB_subject_338,120,Limbic,31
+kumasou,SC,NB_subject_338,120,Somatomotor,92
+kumasou,SC,NB_subject_338,120,Unlabeled,2
+kumasou,SC,NB_subject_338,120,Ventral Attention,81
+kumasou,SC,NB_subject_338,120,Visual,148
+kumasou,SC,NB_subject_338,160,Default,16
+kumasou,SC,NB_subject_338,160,Dorsal Attention,8
+kumasou,SC,NB_subject_338,160,Frontoparietal,10
+kumasou,SC,NB_subject_338,160,Somatomotor,39
+kumasou,SC,NB_subject_338,160,Unlabeled,2
+kumasou,SC,NB_subject_338,160,Ventral Attention,6
+kumasou,SC,NB_subject_338,160,Visual,160
+kumasou,SC,NB_subject_338,200,Default,11
+kumasou,SC,NB_subject_338,200,Dorsal Attention,5
+kumasou,SC,NB_subject_338,200,Frontoparietal,4
+kumasou,SC,NB_subject_338,200,Limbic,1
+kumasou,SC,NB_subject_338,200,Somatomotor,12
+kumasou,SC,NB_subject_338,200,Unlabeled,12
+kumasou,SC,NB_subject_338,200,Ventral Attention,2
+kumasou,SC,NB_subject_338,200,Visual,140
+kumasou,SC,NB_subject_338,240,Default,5
+kumasou,SC,NB_subject_338,240,Dorsal Attention,2
+kumasou,SC,NB_subject_338,240,Frontoparietal,3
+kumasou,SC,NB_subject_338,240,Unlabeled,1
+kumasou,SC,NB_subject_338,240,Ventral Attention,2
+kumasou,SC,NB_subject_338,240,Visual,108
+kumasou,HC,NB_subject_308,80,Default,5
+kumasou,HC,NB_subject_308,80,Frontoparietal,9
+kumasou,HC,NB_subject_308,80,Somatomotor,2
+kumasou,HC,NB_subject_308,80,Ventral Attention,1
+kumasou,HC,NB_subject_308,80,Visual,2
+kumasou,HC,NB_subject_308,120,Default,1
+kumasou,HC,NB_subject_308,120,Dorsal Attention,2
+kumasou,HC,NB_subject_308,120,Limbic,1
+kumasou,HC,NB_subject_308,120,Somatomotor,1
+kumasou,HC,NB_subject_308,120,Ventral Attention,2
+kumasou,HC,NB_subject_308,120,Visual,1
+kumasou,HC,NB_subject_304,80,Default,11
+kumasou,HC,NB_subject_304,80,Dorsal Attention,7
+kumasou,HC,NB_subject_304,80,Frontoparietal,9
+kumasou,HC,NB_subject_304,80,Hippocampus,1
+kumasou,HC,NB_subject_304,80,Limbic,6
+kumasou,HC,NB_subject_304,80,Somatomotor,8
+kumasou,HC,NB_subject_304,80,Unlabeled,2
+kumasou,HC,NB_subject_304,80,Ventral Attention,6
+kumasou,HC,NB_subject_304,80,Visual,6
+kumasou,HC,NB_subject_304,120,Default,21
+kumasou,HC,NB_subject_304,120,Dorsal Attention,11
+kumasou,HC,NB_subject_304,120,Frontoparietal,7
+kumasou,HC,NB_subject_304,120,Hippocampus,1
+kumasou,HC,NB_subject_304,120,Limbic,7
+kumasou,HC,NB_subject_304,120,Somatomotor,7
+kumasou,HC,NB_subject_304,120,Ventral Attention,3
+kumasou,HC,NB_subject_304,120,Visual,15
+kumasou,HC,NB_subject_304,160,Default,4
+kumasou,HC,NB_subject_304,160,Dorsal Attention,1
+kumasou,HC,NB_subject_304,160,Frontoparietal,2
+kumasou,HC,NB_subject_304,160,Hippocampus,1
+kumasou,HC,NB_subject_304,160,Somatomotor,3
+kumasou,HC,NB_subject_304,160,Ventral Attention,1
+kumasou,HC,NB_subject_304,200,Default,2
+kumasou,HC,NB_subject_304,200,Frontoparietal,3
+kumasou,HC,NB_subject_304,200,Hippocampus,1
+kumasou,HC,NB_subject_304,200,Limbic,1
+kumasou,HC,NB_subject_304,200,Somatomotor,2
+kumasou,HC,NB_subject_304,200,Unlabeled,1
+kumasou,HC,NB_subject_304,200,Ventral Attention,1
+kumasou,HC,NB_subject_304,200,Visual,3
+kumasou,HC,NB_subject_304,240,Default,3
+kumasou,HC,NB_subject_304,240,Dorsal Attention,2
+kumasou,HC,NB_subject_304,240,Frontoparietal,2
+kumasou,HC,NB_subject_304,240,Hippocampus,2
+kumasou,HC,NB_subject_304,240,Limbic,1
+kumasou,HC,NB_subject_304,240,Somatomotor,1
+kumasou,HC,NB_subject_304,240,Ventral Attention,3
+kumasou,HC,NB_subject_304,240,Visual,1
+kumasou,HC,NB_subject_315,80,Default,41
+kumasou,HC,NB_subject_315,80,Dorsal Attention,10
+kumasou,HC,NB_subject_315,80,Frontoparietal,23
+kumasou,HC,NB_subject_315,80,Hippocampus,6
+kumasou,HC,NB_subject_315,80,Limbic,8
+kumasou,HC,NB_subject_315,80,Somatomotor,17
+kumasou,HC,NB_subject_315,80,Unlabeled,3
+kumasou,HC,NB_subject_315,80,Ventral Attention,12
+kumasou,HC,NB_subject_315,80,Visual,20
+kumasou,HC,NB_subject_315,120,Default,44
+kumasou,HC,NB_subject_315,120,Dorsal Attention,14
+kumasou,HC,NB_subject_315,120,Frontoparietal,31
+kumasou,HC,NB_subject_315,120,Hippocampus,2
+kumasou,HC,NB_subject_315,120,Limbic,6
+kumasou,HC,NB_subject_315,120,Somatomotor,27
+kumasou,HC,NB_subject_315,120,Unlabeled,4
+kumasou,HC,NB_subject_315,120,Ventral Attention,16
+kumasou,HC,NB_subject_315,120,Visual,39
+kumasou,HC,NB_subject_315,160,Default,19
+kumasou,HC,NB_subject_315,160,Dorsal Attention,17
+kumasou,HC,NB_subject_315,160,Frontoparietal,21
+kumasou,HC,NB_subject_315,160,Hippocampus,2
+kumasou,HC,NB_subject_315,160,Limbic,9
+kumasou,HC,NB_subject_315,160,Somatomotor,23
+kumasou,HC,NB_subject_315,160,Ventral Attention,9
+kumasou,HC,NB_subject_315,160,Visual,24
+kumasou,HC,NB_subject_315,200,Default,20
+kumasou,HC,NB_subject_315,200,Dorsal Attention,4
+kumasou,HC,NB_subject_315,200,Frontoparietal,10
+kumasou,HC,NB_subject_315,200,Hippocampus,2
+kumasou,HC,NB_subject_315,200,Limbic,4
+kumasou,HC,NB_subject_315,200,Somatomotor,6
+kumasou,HC,NB_subject_315,200,Unlabeled,2
+kumasou,HC,NB_subject_315,200,Ventral Attention,6
+kumasou,HC,NB_subject_315,200,Visual,23
+kumasou,HC,NB_subject_315,240,Default,9
+kumasou,HC,NB_subject_315,240,Dorsal Attention,4
+kumasou,HC,NB_subject_315,240,Frontoparietal,6
+kumasou,HC,NB_subject_315,240,Hippocampus,4
+kumasou,HC,NB_subject_315,240,Limbic,6
+kumasou,HC,NB_subject_315,240,Somatomotor,7
+kumasou,HC,NB_subject_315,240,Ventral Attention,1
+kumasou,HC,NB_subject_315,240,Visual,9
+kumasou,SC,NB_subject_316,80,Default,160
+kumasou,SC,NB_subject_316,80,Dorsal Attention,85
+kumasou,SC,NB_subject_316,80,Frontoparietal,140
+kumasou,SC,NB_subject_316,80,Hippocampus,7
+kumasou,SC,NB_subject_316,80,Limbic,30
+kumasou,SC,NB_subject_316,80,Somatomotor,173
+kumasou,SC,NB_subject_316,80,Unlabeled,5
+kumasou,SC,NB_subject_316,80,Ventral Attention,71
+kumasou,SC,NB_subject_316,80,Visual,182
+kumasou,SC,NB_subject_316,120,Default,114
+kumasou,SC,NB_subject_316,120,Dorsal Attention,90
+kumasou,SC,NB_subject_316,120,Frontoparietal,118
+kumasou,SC,NB_subject_316,120,Hippocampus,4
+kumasou,SC,NB_subject_316,120,Limbic,33
+kumasou,SC,NB_subject_316,120,Somatomotor,95
+kumasou,SC,NB_subject_316,120,Unlabeled,10
+kumasou,SC,NB_subject_316,120,Ventral Attention,80
+kumasou,SC,NB_subject_316,120,Visual,194
+kumasou,SC,NB_subject_316,160,Default,118
+kumasou,SC,NB_subject_316,160,Dorsal Attention,87
+kumasou,SC,NB_subject_316,160,Frontoparietal,125
+kumasou,SC,NB_subject_316,160,Hippocampus,3
+kumasou,SC,NB_subject_316,160,Limbic,29
+kumasou,SC,NB_subject_316,160,Somatomotor,128
+kumasou,SC,NB_subject_316,160,Unlabeled,10
+kumasou,SC,NB_subject_316,160,Ventral Attention,82
+kumasou,SC,NB_subject_316,160,Visual,200
+kumasou,SC,NB_subject_316,200,Default,85
+kumasou,SC,NB_subject_316,200,Dorsal Attention,64
+kumasou,SC,NB_subject_316,200,Frontoparietal,88
+kumasou,SC,NB_subject_316,200,Hippocampus,6
+kumasou,SC,NB_subject_316,200,Limbic,5
+kumasou,SC,NB_subject_316,200,Somatomotor,70
+kumasou,SC,NB_subject_316,200,Unlabeled,8
+kumasou,SC,NB_subject_316,200,Ventral Attention,46
+kumasou,SC,NB_subject_316,200,Visual,122
+kumasou,SC,NB_subject_316,240,Default,42
+kumasou,SC,NB_subject_316,240,Dorsal Attention,29
+kumasou,SC,NB_subject_316,240,Frontoparietal,53
+kumasou,SC,NB_subject_316,240,Hippocampus,4
+kumasou,SC,NB_subject_316,240,Limbic,7
+kumasou,SC,NB_subject_316,240,Somatomotor,43
+kumasou,SC,NB_subject_316,240,Unlabeled,3
+kumasou,SC,NB_subject_316,240,Ventral Attention,27
+kumasou,SC,NB_subject_316,240,Visual,58
+kumasou,HC,NB_subject_307,80,Default,87
+kumasou,HC,NB_subject_307,80,Dorsal Attention,70
+kumasou,HC,NB_subject_307,80,Frontoparietal,70
+kumasou,HC,NB_subject_307,80,Hippocampus,12
+kumasou,HC,NB_subject_307,80,Limbic,18
+kumasou,HC,NB_subject_307,80,Somatomotor,88
+kumasou,HC,NB_subject_307,80,Unlabeled,5
+kumasou,HC,NB_subject_307,80,Ventral Attention,50
+kumasou,HC,NB_subject_307,80,Visual,60
+kumasou,HC,NB_subject_307,120,Default,95
+kumasou,HC,NB_subject_307,120,Dorsal Attention,46
+kumasou,HC,NB_subject_307,120,Frontoparietal,53
+kumasou,HC,NB_subject_307,120,Hippocampus,9
+kumasou,HC,NB_subject_307,120,Limbic,27
+kumasou,HC,NB_subject_307,120,Somatomotor,66
+kumasou,HC,NB_subject_307,120,Unlabeled,3
+kumasou,HC,NB_subject_307,120,Ventral Attention,49
+kumasou,HC,NB_subject_307,120,Visual,61
+kumasou,HC,NB_subject_307,160,Default,71
+kumasou,HC,NB_subject_307,160,Dorsal Attention,30
+kumasou,HC,NB_subject_307,160,Frontoparietal,45
+kumasou,HC,NB_subject_307,160,Hippocampus,11
+kumasou,HC,NB_subject_307,160,Limbic,19
+kumasou,HC,NB_subject_307,160,Somatomotor,57
+kumasou,HC,NB_subject_307,160,Unlabeled,5
+kumasou,HC,NB_subject_307,160,Ventral Attention,39
+kumasou,HC,NB_subject_307,160,Visual,79
+kumasou,HC,NB_subject_307,200,Default,66
+kumasou,HC,NB_subject_307,200,Dorsal Attention,32
+kumasou,HC,NB_subject_307,200,Frontoparietal,40
+kumasou,HC,NB_subject_307,200,Hippocampus,7
+kumasou,HC,NB_subject_307,200,Limbic,16
+kumasou,HC,NB_subject_307,200,Somatomotor,38
+kumasou,HC,NB_subject_307,200,Unlabeled,2
+kumasou,HC,NB_subject_307,200,Ventral Attention,20
+kumasou,HC,NB_subject_307,200,Visual,42
+kumasou,HC,NB_subject_307,240,Default,24
+kumasou,HC,NB_subject_307,240,Dorsal Attention,26
+kumasou,HC,NB_subject_307,240,Frontoparietal,24
+kumasou,HC,NB_subject_307,240,Hippocampus,8
+kumasou,HC,NB_subject_307,240,Limbic,8
+kumasou,HC,NB_subject_307,240,Somatomotor,31
+kumasou,HC,NB_subject_307,240,Unlabeled,5
+kumasou,HC,NB_subject_307,240,Ventral Attention,14
+kumasou,HC,NB_subject_307,240,Visual,41
+kumasou,SC,NB_subject_332,80,Default,189
+kumasou,SC,NB_subject_332,80,Dorsal Attention,165
+kumasou,SC,NB_subject_332,80,Frontoparietal,163
+kumasou,SC,NB_subject_332,80,Hippocampus,16
+kumasou,SC,NB_subject_332,80,Limbic,50
+kumasou,SC,NB_subject_332,80,Somatomotor,254
+kumasou,SC,NB_subject_332,80,Unlabeled,15
+kumasou,SC,NB_subject_332,80,Ventral Attention,89
+kumasou,SC,NB_subject_332,80,Visual,284
+kumasou,SC,NB_subject_332,120,Default,268
+kumasou,SC,NB_subject_332,120,Dorsal Attention,181
+kumasou,SC,NB_subject_332,120,Frontoparietal,185
+kumasou,SC,NB_subject_332,120,Hippocampus,20
+kumasou,SC,NB_subject_332,120,Limbic,44
+kumasou,SC,NB_subject_332,120,Somatomotor,289
+kumasou,SC,NB_subject_332,120,Unlabeled,26
+kumasou,SC,NB_subject_332,120,Ventral Attention,103
+kumasou,SC,NB_subject_332,120,Visual,301
+kumasou,SC,NB_subject_332,160,Default,183
+kumasou,SC,NB_subject_332,160,Dorsal Attention,149
+kumasou,SC,NB_subject_332,160,Frontoparietal,154
+kumasou,SC,NB_subject_332,160,Hippocampus,12
+kumasou,SC,NB_subject_332,160,Limbic,86
+kumasou,SC,NB_subject_332,160,Somatomotor,213
+kumasou,SC,NB_subject_332,160,Unlabeled,33
+kumasou,SC,NB_subject_332,160,Ventral Attention,106
+kumasou,SC,NB_subject_332,160,Visual,260
+kumasou,SC,NB_subject_332,200,Default,142
+kumasou,SC,NB_subject_332,200,Dorsal Attention,102
+kumasou,SC,NB_subject_332,200,Frontoparietal,119
+kumasou,SC,NB_subject_332,200,Hippocampus,14
+kumasou,SC,NB_subject_332,200,Limbic,39
+kumasou,SC,NB_subject_332,200,Somatomotor,150
+kumasou,SC,NB_subject_332,200,Unlabeled,13
+kumasou,SC,NB_subject_332,200,Ventral Attention,77
+kumasou,SC,NB_subject_332,200,Visual,203
+kumasou,SC,NB_subject_332,240,Default,103
+kumasou,SC,NB_subject_332,240,Dorsal Attention,79
+kumasou,SC,NB_subject_332,240,Frontoparietal,82
+kumasou,SC,NB_subject_332,240,Hippocampus,11
+kumasou,SC,NB_subject_332,240,Limbic,35
+kumasou,SC,NB_subject_332,240,Somatomotor,91
+kumasou,SC,NB_subject_332,240,Unlabeled,10
+kumasou,SC,NB_subject_332,240,Ventral Attention,38
+kumasou,SC,NB_subject_332,240,Visual,115
+kumasou,HC,NB_subject_311,80,Default,16
+kumasou,HC,NB_subject_311,80,Dorsal Attention,4
+kumasou,HC,NB_subject_311,80,Frontoparietal,6
+kumasou,HC,NB_subject_311,80,Hippocampus,1
+kumasou,HC,NB_subject_311,80,Limbic,5
+kumasou,HC,NB_subject_311,80,Somatomotor,7
+kumasou,HC,NB_subject_311,80,Ventral Attention,7
+kumasou,HC,NB_subject_311,80,Visual,13
+kumasou,HC,NB_subject_311,120,Default,9
+kumasou,HC,NB_subject_311,120,Dorsal Attention,5
+kumasou,HC,NB_subject_311,120,Frontoparietal,7
+kumasou,HC,NB_subject_311,120,Hippocampus,2
+kumasou,HC,NB_subject_311,120,Limbic,1
+kumasou,HC,NB_subject_311,120,Somatomotor,9
+kumasou,HC,NB_subject_311,120,Unlabeled,2
+kumasou,HC,NB_subject_311,120,Ventral Attention,5
+kumasou,HC,NB_subject_311,120,Visual,10
+kumasou,HC,NB_subject_311,160,Default,6
+kumasou,HC,NB_subject_311,160,Dorsal Attention,3
+kumasou,HC,NB_subject_311,160,Frontoparietal,3
+kumasou,HC,NB_subject_311,160,Hippocampus,1
+kumasou,HC,NB_subject_311,160,Limbic,1
+kumasou,HC,NB_subject_311,160,Somatomotor,2
+kumasou,HC,NB_subject_311,160,Ventral Attention,1
+kumasou,HC,NB_subject_311,160,Visual,6
+kumasou,HC,NB_subject_311,200,Default,8
+kumasou,HC,NB_subject_311,200,Dorsal Attention,2
+kumasou,HC,NB_subject_311,200,Frontoparietal,5
+kumasou,HC,NB_subject_311,200,Hippocampus,2
+kumasou,HC,NB_subject_311,200,Limbic,1
+kumasou,HC,NB_subject_311,200,Somatomotor,7
+kumasou,HC,NB_subject_311,200,Ventral Attention,1
+kumasou,HC,NB_subject_311,200,Visual,8
+kumasou,HC,NB_subject_311,240,Default,3
+kumasou,HC,NB_subject_311,240,Dorsal Attention,4
+kumasou,HC,NB_subject_311,240,Frontoparietal,5
+kumasou,HC,NB_subject_311,240,Limbic,2
+kumasou,HC,NB_subject_311,240,Somatomotor,3
+kumasou,HC,NB_subject_311,240,Ventral Attention,3
+kumasou,HC,NB_subject_311,240,Visual,3
+kumasou,SC,NB_subject_340,80,Default,24
+kumasou,SC,NB_subject_340,80,Frontoparietal,15
+kumasou,SC,NB_subject_340,80,Visual,2
+kumasou,SC,NB_subject_340,120,Default,5
+kumasou,SC,NB_subject_340,120,Dorsal Attention,1
+kumasou,SC,NB_subject_340,120,Frontoparietal,1
+kumasou,SC,NB_subject_340,120,Hippocampus,2
+kumasou,SC,NB_subject_340,120,Limbic,2
+kumasou,SC,NB_subject_340,120,Somatomotor,2
+kumasou,SC,NB_subject_340,120,Ventral Attention,4
+kumasou,SC,NB_subject_340,120,Visual,2
+kumasou,SC,NB_subject_340,160,Default,8
+kumasou,SC,NB_subject_340,160,Dorsal Attention,12
+kumasou,SC,NB_subject_340,160,Frontoparietal,2
+kumasou,SC,NB_subject_340,160,Ventral Attention,2
+kumasou,SC,NB_subject_340,160,Visual,5
+kumasou,HC,NB_subject_313,80,Default,9
+kumasou,HC,NB_subject_313,80,Dorsal Attention,8
+kumasou,HC,NB_subject_313,80,Frontoparietal,13
+kumasou,HC,NB_subject_313,80,Hippocampus,8
+kumasou,HC,NB_subject_313,80,Limbic,9
+kumasou,HC,NB_subject_313,80,Somatomotor,11
+kumasou,HC,NB_subject_313,80,Unlabeled,2
+kumasou,HC,NB_subject_313,80,Ventral Attention,9
+kumasou,HC,NB_subject_313,80,Visual,19
+kumasou,HC,NB_subject_313,120,Default,28
+kumasou,HC,NB_subject_313,120,Dorsal Attention,15
+kumasou,HC,NB_subject_313,120,Frontoparietal,15
+kumasou,HC,NB_subject_313,120,Hippocampus,9
+kumasou,HC,NB_subject_313,120,Limbic,6
+kumasou,HC,NB_subject_313,120,Somatomotor,26
+kumasou,HC,NB_subject_313,120,Unlabeled,2
+kumasou,HC,NB_subject_313,120,Ventral Attention,19
+kumasou,HC,NB_subject_313,120,Visual,54
+kumasou,HC,NB_subject_313,160,Default,8
+kumasou,HC,NB_subject_313,160,Dorsal Attention,5
+kumasou,HC,NB_subject_313,160,Frontoparietal,4
+kumasou,HC,NB_subject_313,160,Hippocampus,6
+kumasou,HC,NB_subject_313,160,Limbic,3
+kumasou,HC,NB_subject_313,160,Somatomotor,7
+kumasou,HC,NB_subject_313,160,Unlabeled,2
+kumasou,HC,NB_subject_313,160,Ventral Attention,3
+kumasou,HC,NB_subject_313,160,Visual,9
+kumasou,HC,NB_subject_313,200,Default,8
+kumasou,HC,NB_subject_313,200,Dorsal Attention,2
+kumasou,HC,NB_subject_313,200,Frontoparietal,6
+kumasou,HC,NB_subject_313,200,Hippocampus,3
+kumasou,HC,NB_subject_313,200,Limbic,2
+kumasou,HC,NB_subject_313,200,Somatomotor,5
+kumasou,HC,NB_subject_313,200,Ventral Attention,1
+kumasou,HC,NB_subject_313,200,Visual,6
+kumasou,SC,NB_subject_337,80,Default,153
+kumasou,SC,NB_subject_337,80,Dorsal Attention,47
+kumasou,SC,NB_subject_337,80,Frontoparietal,90
+kumasou,SC,NB_subject_337,80,Hippocampus,11
+kumasou,SC,NB_subject_337,80,Limbic,14
+kumasou,SC,NB_subject_337,80,Somatomotor,67
+kumasou,SC,NB_subject_337,80,Unlabeled,7
+kumasou,SC,NB_subject_337,80,Ventral Attention,65
+kumasou,SC,NB_subject_337,80,Visual,102
+kumasou,SC,NB_subject_337,120,Default,192
+kumasou,SC,NB_subject_337,120,Dorsal Attention,123
+kumasou,SC,NB_subject_337,120,Frontoparietal,146
+kumasou,SC,NB_subject_337,120,Hippocampus,15
+kumasou,SC,NB_subject_337,120,Limbic,32
+kumasou,SC,NB_subject_337,120,Somatomotor,118
+kumasou,SC,NB_subject_337,120,Unlabeled,2
+kumasou,SC,NB_subject_337,120,Ventral Attention,115
+kumasou,SC,NB_subject_337,120,Visual,191
+kumasou,SC,NB_subject_337,160,Default,162
+kumasou,SC,NB_subject_337,160,Dorsal Attention,81
+kumasou,SC,NB_subject_337,160,Frontoparietal,118
+kumasou,SC,NB_subject_337,160,Hippocampus,6
+kumasou,SC,NB_subject_337,160,Limbic,39
+kumasou,SC,NB_subject_337,160,Somatomotor,103
+kumasou,SC,NB_subject_337,160,Unlabeled,5
+kumasou,SC,NB_subject_337,160,Ventral Attention,85
+kumasou,SC,NB_subject_337,160,Visual,204
+kumasou,SC,NB_subject_337,200,Default,213
+kumasou,SC,NB_subject_337,200,Dorsal Attention,83
+kumasou,SC,NB_subject_337,200,Frontoparietal,126
+kumasou,SC,NB_subject_337,200,Hippocampus,17
+kumasou,SC,NB_subject_337,200,Limbic,21
+kumasou,SC,NB_subject_337,200,Somatomotor,98
+kumasou,SC,NB_subject_337,200,Unlabeled,3
+kumasou,SC,NB_subject_337,200,Ventral Attention,84
+kumasou,SC,NB_subject_337,200,Visual,155
+kumasou,SC,NB_subject_337,240,Default,123
+kumasou,SC,NB_subject_337,240,Dorsal Attention,54
+kumasou,SC,NB_subject_337,240,Frontoparietal,90
+kumasou,SC,NB_subject_337,240,Hippocampus,8
+kumasou,SC,NB_subject_337,240,Limbic,24
+kumasou,SC,NB_subject_337,240,Somatomotor,63
+kumasou,SC,NB_subject_337,240,Ventral Attention,65
+kumasou,SC,NB_subject_337,240,Visual,95
+kumasou,SC,NB_subject_328,80,Default,8
+kumasou,SC,NB_subject_328,80,Dorsal Attention,10
+kumasou,SC,NB_subject_328,80,Frontoparietal,10
+kumasou,SC,NB_subject_328,80,Hippocampus,2
+kumasou,SC,NB_subject_328,80,Somatomotor,14
+kumasou,SC,NB_subject_328,80,Unlabeled,1
+kumasou,SC,NB_subject_328,80,Ventral Attention,10
+kumasou,SC,NB_subject_328,80,Visual,19
+kumasou,SC,NB_subject_328,120,Default,13
+kumasou,SC,NB_subject_328,120,Dorsal Attention,4
+kumasou,SC,NB_subject_328,120,Frontoparietal,7
+kumasou,SC,NB_subject_328,120,Hippocampus,2
+kumasou,SC,NB_subject_328,120,Limbic,1
+kumasou,SC,NB_subject_328,120,Somatomotor,8
+kumasou,SC,NB_subject_328,120,Ventral Attention,3
+kumasou,SC,NB_subject_328,120,Visual,12
+kumasou,SC,NB_subject_328,160,Default,6
+kumasou,SC,NB_subject_328,160,Dorsal Attention,3
+kumasou,SC,NB_subject_328,160,Frontoparietal,2
+kumasou,SC,NB_subject_328,160,Hippocampus,2
+kumasou,SC,NB_subject_328,160,Limbic,1
+kumasou,SC,NB_subject_328,160,Somatomotor,1
+kumasou,SC,NB_subject_328,160,Ventral Attention,2
+kumasou,SC,NB_subject_328,160,Visual,3
+kumasou,SC,NB_subject_328,200,Default,3
+kumasou,SC,NB_subject_328,200,Dorsal Attention,2
+kumasou,SC,NB_subject_328,200,Hippocampus,1
+kumasou,SC,NB_subject_328,200,Somatomotor,3
+kumasou,SC,NB_subject_328,200,Ventral Attention,1
+kumasou,SC,NB_subject_328,200,Visual,2
+kumasou,SC,NB_subject_328,240,Default,1
+kumasou,SC,NB_subject_328,240,Frontoparietal,1
+kumasou,SC,NB_subject_328,240,Hippocampus,1
+kumasou,SC,NB_subject_328,240,Somatomotor,1
+kumasou,SC,NB_subject_328,240,Unlabeled,1
+kumasou,SC,NB_subject_328,240,Ventral Attention,2
+kumasou,SC,NB_subject_328,240,Visual,7
+kumasou,HC,NB_subject_322,80,Default,29
+kumasou,HC,NB_subject_322,80,Dorsal Attention,10
+kumasou,HC,NB_subject_322,80,Frontoparietal,18
+kumasou,HC,NB_subject_322,80,Hippocampus,3
+kumasou,HC,NB_subject_322,80,Limbic,4
+kumasou,HC,NB_subject_322,80,Somatomotor,17
+kumasou,HC,NB_subject_322,80,Ventral Attention,10
+kumasou,HC,NB_subject_322,80,Visual,17
+kumasou,HC,NB_subject_322,120,Default,15
+kumasou,HC,NB_subject_322,120,Dorsal Attention,4
+kumasou,HC,NB_subject_322,120,Frontoparietal,12
+kumasou,HC,NB_subject_322,120,Limbic,3
+kumasou,HC,NB_subject_322,120,Somatomotor,10
+kumasou,HC,NB_subject_322,120,Ventral Attention,5
+kumasou,HC,NB_subject_322,120,Visual,8
+kumasou,HC,NB_subject_322,160,Default,12
+kumasou,HC,NB_subject_322,160,Dorsal Attention,4
+kumasou,HC,NB_subject_322,160,Frontoparietal,7
+kumasou,HC,NB_subject_322,160,Hippocampus,2
+kumasou,HC,NB_subject_322,160,Limbic,5
+kumasou,HC,NB_subject_322,160,Somatomotor,4
+kumasou,HC,NB_subject_322,160,Visual,10
+kumasou,HC,NB_subject_322,200,Default,3
+kumasou,HC,NB_subject_322,200,Dorsal Attention,4
+kumasou,HC,NB_subject_322,200,Frontoparietal,1
+kumasou,HC,NB_subject_322,200,Hippocampus,3
+kumasou,HC,NB_subject_322,200,Limbic,2
+kumasou,HC,NB_subject_322,200,Somatomotor,1
+kumasou,HC,NB_subject_322,200,Visual,6
+kumasou,SC,NB_subject_343,80,Default,142
+kumasou,SC,NB_subject_343,80,Dorsal Attention,85
+kumasou,SC,NB_subject_343,80,Frontoparietal,101
+kumasou,SC,NB_subject_343,80,Hippocampus,3
+kumasou,SC,NB_subject_343,80,Limbic,42
+kumasou,SC,NB_subject_343,80,Somatomotor,114
+kumasou,SC,NB_subject_343,80,Unlabeled,8
+kumasou,SC,NB_subject_343,80,Ventral Attention,79
+kumasou,SC,NB_subject_343,80,Visual,154
+kumasou,SC,NB_subject_343,120,Default,189
+kumasou,SC,NB_subject_343,120,Dorsal Attention,119
+kumasou,SC,NB_subject_343,120,Frontoparietal,165
+kumasou,SC,NB_subject_343,120,Hippocampus,4
+kumasou,SC,NB_subject_343,120,Limbic,50
+kumasou,SC,NB_subject_343,120,Somatomotor,147
+kumasou,SC,NB_subject_343,120,Unlabeled,7
+kumasou,SC,NB_subject_343,120,Ventral Attention,118
+kumasou,SC,NB_subject_343,120,Visual,144
+kumasou,SC,NB_subject_343,160,Default,144
+kumasou,SC,NB_subject_343,160,Dorsal Attention,64
+kumasou,SC,NB_subject_343,160,Frontoparietal,107
+kumasou,SC,NB_subject_343,160,Hippocampus,7
+kumasou,SC,NB_subject_343,160,Limbic,61
+kumasou,SC,NB_subject_343,160,Somatomotor,102
+kumasou,SC,NB_subject_343,160,Unlabeled,10
+kumasou,SC,NB_subject_343,160,Ventral Attention,49
+kumasou,SC,NB_subject_343,160,Visual,143
+kumasou,SC,NB_subject_343,200,Default,94
+kumasou,SC,NB_subject_343,200,Dorsal Attention,53
+kumasou,SC,NB_subject_343,200,Frontoparietal,77
+kumasou,SC,NB_subject_343,200,Hippocampus,3
+kumasou,SC,NB_subject_343,200,Limbic,39
+kumasou,SC,NB_subject_343,200,Somatomotor,76
+kumasou,SC,NB_subject_343,200,Unlabeled,5
+kumasou,SC,NB_subject_343,200,Ventral Attention,40
+kumasou,SC,NB_subject_343,200,Visual,91
+kumasou,SC,NB_subject_343,240,Default,42
+kumasou,SC,NB_subject_343,240,Dorsal Attention,35
+kumasou,SC,NB_subject_343,240,Frontoparietal,37
+kumasou,SC,NB_subject_343,240,Hippocampus,4
+kumasou,SC,NB_subject_343,240,Limbic,10
+kumasou,SC,NB_subject_343,240,Somatomotor,24
+kumasou,SC,NB_subject_343,240,Unlabeled,3
+kumasou,SC,NB_subject_343,240,Ventral Attention,16
+kumasou,SC,NB_subject_343,240,Visual,52
+kumasou,SC,NB_subject_320,80,Default,32
+kumasou,SC,NB_subject_320,80,Dorsal Attention,27
+kumasou,SC,NB_subject_320,80,Frontoparietal,37
+kumasou,SC,NB_subject_320,80,Hippocampus,2
+kumasou,SC,NB_subject_320,80,Limbic,8
+kumasou,SC,NB_subject_320,80,Somatomotor,26
+kumasou,SC,NB_subject_320,80,Unlabeled,1
+kumasou,SC,NB_subject_320,80,Ventral Attention,19
+kumasou,SC,NB_subject_320,80,Visual,41
+kumasou,SC,NB_subject_320,120,Default,39
+kumasou,SC,NB_subject_320,120,Dorsal Attention,19
+kumasou,SC,NB_subject_320,120,Frontoparietal,37
+kumasou,SC,NB_subject_320,120,Hippocampus,1
+kumasou,SC,NB_subject_320,120,Limbic,19
+kumasou,SC,NB_subject_320,120,Somatomotor,32
+kumasou,SC,NB_subject_320,120,Unlabeled,1
+kumasou,SC,NB_subject_320,120,Ventral Attention,21
+kumasou,SC,NB_subject_320,120,Visual,42
+kumasou,SC,NB_subject_320,160,Default,27
+kumasou,SC,NB_subject_320,160,Dorsal Attention,17
+kumasou,SC,NB_subject_320,160,Frontoparietal,21
+kumasou,SC,NB_subject_320,160,Hippocampus,3
+kumasou,SC,NB_subject_320,160,Limbic,10
+kumasou,SC,NB_subject_320,160,Somatomotor,19
+kumasou,SC,NB_subject_320,160,Unlabeled,1
+kumasou,SC,NB_subject_320,160,Ventral Attention,10
+kumasou,SC,NB_subject_320,160,Visual,29
+kumasou,SC,NB_subject_320,200,Default,21
+kumasou,SC,NB_subject_320,200,Dorsal Attention,13
+kumasou,SC,NB_subject_320,200,Frontoparietal,19
+kumasou,SC,NB_subject_320,200,Hippocampus,2
+kumasou,SC,NB_subject_320,200,Limbic,3
+kumasou,SC,NB_subject_320,200,Somatomotor,14
+kumasou,SC,NB_subject_320,200,Ventral Attention,9
+kumasou,SC,NB_subject_320,200,Visual,38
+kumasou,SC,NB_subject_320,240,Default,10
+kumasou,SC,NB_subject_320,240,Dorsal Attention,2
+kumasou,SC,NB_subject_320,240,Frontoparietal,8
+kumasou,SC,NB_subject_320,240,Hippocampus,3
+kumasou,SC,NB_subject_320,240,Limbic,2
+kumasou,SC,NB_subject_320,240,Somatomotor,8
+kumasou,SC,NB_subject_320,240,Ventral Attention,2
+kumasou,SC,NB_subject_320,240,Visual,6
+kumasou,HC,NB_subject_321,80,Default,27
+kumasou,HC,NB_subject_321,80,Dorsal Attention,17
+kumasou,HC,NB_subject_321,80,Frontoparietal,21
+kumasou,HC,NB_subject_321,80,Hippocampus,6
+kumasou,HC,NB_subject_321,80,Limbic,5
+kumasou,HC,NB_subject_321,80,Somatomotor,18
+kumasou,HC,NB_subject_321,80,Unlabeled,2
+kumasou,HC,NB_subject_321,80,Ventral Attention,3
+kumasou,HC,NB_subject_321,80,Visual,19
+kumasou,HC,NB_subject_321,120,Default,29
+kumasou,HC,NB_subject_321,120,Dorsal Attention,10
+kumasou,HC,NB_subject_321,120,Frontoparietal,11
+kumasou,HC,NB_subject_321,120,Hippocampus,3
+kumasou,HC,NB_subject_321,120,Limbic,5
+kumasou,HC,NB_subject_321,120,Somatomotor,19
+kumasou,HC,NB_subject_321,120,Unlabeled,3
+kumasou,HC,NB_subject_321,120,Ventral Attention,6
+kumasou,HC,NB_subject_321,120,Visual,24
+kumasou,HC,NB_subject_321,160,Default,9
+kumasou,HC,NB_subject_321,160,Dorsal Attention,3
+kumasou,HC,NB_subject_321,160,Frontoparietal,9
+kumasou,HC,NB_subject_321,160,Hippocampus,3
+kumasou,HC,NB_subject_321,160,Limbic,2
+kumasou,HC,NB_subject_321,160,Somatomotor,8
+kumasou,HC,NB_subject_321,160,Unlabeled,1
+kumasou,HC,NB_subject_321,160,Ventral Attention,6
+kumasou,HC,NB_subject_321,160,Visual,15
+kumasou,HC,NB_subject_321,200,Default,9
+kumasou,HC,NB_subject_321,200,Dorsal Attention,6
+kumasou,HC,NB_subject_321,200,Frontoparietal,6
+kumasou,HC,NB_subject_321,200,Hippocampus,3
+kumasou,HC,NB_subject_321,200,Limbic,3
+kumasou,HC,NB_subject_321,200,Somatomotor,10
+kumasou,HC,NB_subject_321,200,Ventral Attention,4
+kumasou,HC,NB_subject_321,200,Visual,10
+kumasou,HC,NB_subject_321,240,Default,5
+kumasou,HC,NB_subject_321,240,Dorsal Attention,6
+kumasou,HC,NB_subject_321,240,Frontoparietal,2
+kumasou,HC,NB_subject_321,240,Hippocampus,1
+kumasou,HC,NB_subject_321,240,Limbic,1
+kumasou,HC,NB_subject_321,240,Somatomotor,3
+kumasou,HC,NB_subject_321,240,Unlabeled,1
+kumasou,HC,NB_subject_321,240,Ventral Attention,1
+kumasou,HC,NB_subject_321,240,Visual,5
+kumasou,HC,NB_subject_314,80,Default,34
+kumasou,HC,NB_subject_314,80,Dorsal Attention,11
+kumasou,HC,NB_subject_314,80,Frontoparietal,31
+kumasou,HC,NB_subject_314,80,Hippocampus,2
+kumasou,HC,NB_subject_314,80,Limbic,8
+kumasou,HC,NB_subject_314,80,Somatomotor,25
+kumasou,HC,NB_subject_314,80,Ventral Attention,15
+kumasou,HC,NB_subject_314,80,Visual,25
+kumasou,HC,NB_subject_314,120,Default,28
+kumasou,HC,NB_subject_314,120,Dorsal Attention,13
+kumasou,HC,NB_subject_314,120,Frontoparietal,20
+kumasou,HC,NB_subject_314,120,Hippocampus,2
+kumasou,HC,NB_subject_314,120,Limbic,8
+kumasou,HC,NB_subject_314,120,Somatomotor,22
+kumasou,HC,NB_subject_314,120,Unlabeled,1
+kumasou,HC,NB_subject_314,120,Ventral Attention,9
+kumasou,HC,NB_subject_314,120,Visual,13
+kumasou,HC,NB_subject_314,160,Default,19
+kumasou,HC,NB_subject_314,160,Dorsal Attention,8
+kumasou,HC,NB_subject_314,160,Frontoparietal,7
+kumasou,HC,NB_subject_314,160,Hippocampus,2
+kumasou,HC,NB_subject_314,160,Limbic,3
+kumasou,HC,NB_subject_314,160,Somatomotor,18
+kumasou,HC,NB_subject_314,160,Ventral Attention,9
+kumasou,HC,NB_subject_314,160,Visual,17
+kumasou,HC,NB_subject_314,200,Default,8
+kumasou,HC,NB_subject_314,200,Dorsal Attention,4
+kumasou,HC,NB_subject_314,200,Frontoparietal,5
+kumasou,HC,NB_subject_314,200,Limbic,2
+kumasou,HC,NB_subject_314,200,Somatomotor,10
+kumasou,HC,NB_subject_314,200,Ventral Attention,1
+kumasou,HC,NB_subject_314,200,Visual,11
+kumasou,HC,NB_subject_314,240,Default,2
+kumasou,HC,NB_subject_314,240,Dorsal Attention,2
+kumasou,HC,NB_subject_314,240,Frontoparietal,3
+kumasou,HC,NB_subject_314,240,Hippocampus,1
+kumasou,HC,NB_subject_314,240,Limbic,1
+kumasou,HC,NB_subject_314,240,Ventral Attention,1
+kumasou,HC,NB_subject_314,240,Visual,5
+kumasou,HC,NB_subject_318,80,Frontoparietal,6
+kumasou,HC,NB_subject_318,80,Hippocampus,1
+kumasou,HC,NB_subject_318,80,Somatomotor,3
+kumasou,HC,NB_subject_318,80,Ventral Attention,3
+kumasou,HC,NB_subject_318,80,Visual,2
+kumasou,SC,NB_subject_327,80,Default,280
+kumasou,SC,NB_subject_327,80,Dorsal Attention,281
+kumasou,SC,NB_subject_327,80,Frontoparietal,226
+kumasou,SC,NB_subject_327,80,Hippocampus,9
+kumasou,SC,NB_subject_327,80,Limbic,76
+kumasou,SC,NB_subject_327,80,Somatomotor,354
+kumasou,SC,NB_subject_327,80,Unlabeled,62
+kumasou,SC,NB_subject_327,80,Ventral Attention,224
+kumasou,SC,NB_subject_327,80,Visual,445
+kumasou,SC,NB_subject_327,120,Default,307
+kumasou,SC,NB_subject_327,120,Dorsal Attention,322
+kumasou,SC,NB_subject_327,120,Frontoparietal,240
+kumasou,SC,NB_subject_327,120,Hippocampus,12
+kumasou,SC,NB_subject_327,120,Limbic,93
+kumasou,SC,NB_subject_327,120,Somatomotor,460
+kumasou,SC,NB_subject_327,120,Unlabeled,72
+kumasou,SC,NB_subject_327,120,Ventral Attention,266
+kumasou,SC,NB_subject_327,120,Visual,493
+kumasou,SC,NB_subject_327,160,Default,270
+kumasou,SC,NB_subject_327,160,Dorsal Attention,278
+kumasou,SC,NB_subject_327,160,Frontoparietal,231
+kumasou,SC,NB_subject_327,160,Hippocampus,16
+kumasou,SC,NB_subject_327,160,Limbic,55
+kumasou,SC,NB_subject_327,160,Somatomotor,348
+kumasou,SC,NB_subject_327,160,Unlabeled,25
+kumasou,SC,NB_subject_327,160,Ventral Attention,195
+kumasou,SC,NB_subject_327,160,Visual,447
+kumasou,SC,NB_subject_327,200,Default,162
+kumasou,SC,NB_subject_327,200,Dorsal Attention,165
+kumasou,SC,NB_subject_327,200,Frontoparietal,114
+kumasou,SC,NB_subject_327,200,Hippocampus,11
+kumasou,SC,NB_subject_327,200,Limbic,43
+kumasou,SC,NB_subject_327,200,Somatomotor,237
+kumasou,SC,NB_subject_327,200,Unlabeled,57
+kumasou,SC,NB_subject_327,200,Ventral Attention,99
+kumasou,SC,NB_subject_327,200,Visual,283
+kumasou,SC,NB_subject_327,240,Default,96
+kumasou,SC,NB_subject_327,240,Dorsal Attention,68
+kumasou,SC,NB_subject_327,240,Frontoparietal,73
+kumasou,SC,NB_subject_327,240,Hippocampus,6
+kumasou,SC,NB_subject_327,240,Limbic,26
+kumasou,SC,NB_subject_327,240,Somatomotor,109
+kumasou,SC,NB_subject_327,240,Unlabeled,22
+kumasou,SC,NB_subject_327,240,Ventral Attention,52
+kumasou,SC,NB_subject_327,240,Visual,179
+kumasou,HC,NB_subject_310,80,Default,24
+kumasou,HC,NB_subject_310,80,Dorsal Attention,14
+kumasou,HC,NB_subject_310,80,Frontoparietal,22
+kumasou,HC,NB_subject_310,80,Hippocampus,2
+kumasou,HC,NB_subject_310,80,Limbic,18
+kumasou,HC,NB_subject_310,80,Somatomotor,21
+kumasou,HC,NB_subject_310,80,Unlabeled,4
+kumasou,HC,NB_subject_310,80,Ventral Attention,18
+kumasou,HC,NB_subject_310,80,Visual,25
+kumasou,HC,NB_subject_310,120,Default,27
+kumasou,HC,NB_subject_310,120,Dorsal Attention,12
+kumasou,HC,NB_subject_310,120,Frontoparietal,22
+kumasou,HC,NB_subject_310,120,Limbic,7
+kumasou,HC,NB_subject_310,120,Somatomotor,17
+kumasou,HC,NB_subject_310,120,Unlabeled,2
+kumasou,HC,NB_subject_310,120,Ventral Attention,13
+kumasou,HC,NB_subject_310,120,Visual,28
+kumasou,HC,NB_subject_310,160,Default,24
+kumasou,HC,NB_subject_310,160,Dorsal Attention,11
+kumasou,HC,NB_subject_310,160,Frontoparietal,15
+kumasou,HC,NB_subject_310,160,Hippocampus,3
+kumasou,HC,NB_subject_310,160,Limbic,9
+kumasou,HC,NB_subject_310,160,Somatomotor,20
+kumasou,HC,NB_subject_310,160,Unlabeled,3
+kumasou,HC,NB_subject_310,160,Ventral Attention,12
+kumasou,HC,NB_subject_310,160,Visual,20
+kumasou,HC,NB_subject_310,200,Default,8
+kumasou,HC,NB_subject_310,200,Dorsal Attention,3
+kumasou,HC,NB_subject_310,200,Frontoparietal,5
+kumasou,HC,NB_subject_310,200,Hippocampus,1
+kumasou,HC,NB_subject_310,200,Limbic,2
+kumasou,HC,NB_subject_310,200,Somatomotor,9
+kumasou,HC,NB_subject_310,200,Ventral Attention,3
+kumasou,HC,NB_subject_310,200,Visual,7
+kumasou,HC,NB_subject_310,240,Default,2
+kumasou,HC,NB_subject_310,240,Dorsal Attention,2
+kumasou,HC,NB_subject_310,240,Frontoparietal,3
+kumasou,HC,NB_subject_310,240,Hippocampus,1
+kumasou,HC,NB_subject_310,240,Limbic,1
+kumasou,HC,NB_subject_310,240,Somatomotor,5
+kumasou,HC,NB_subject_310,240,Ventral Attention,3
+kumasou,HC,NB_subject_310,240,Visual,6
+kumasou,SC,NB_subject_333,80,Default,71
+kumasou,SC,NB_subject_333,80,Dorsal Attention,47
+kumasou,SC,NB_subject_333,80,Frontoparietal,83
+kumasou,SC,NB_subject_333,80,Hippocampus,9
+kumasou,SC,NB_subject_333,80,Limbic,20
+kumasou,SC,NB_subject_333,80,Somatomotor,83
+kumasou,SC,NB_subject_333,80,Unlabeled,5
+kumasou,SC,NB_subject_333,80,Ventral Attention,56
+kumasou,SC,NB_subject_333,80,Visual,97
+kumasou,SC,NB_subject_333,120,Default,63
+kumasou,SC,NB_subject_333,120,Dorsal Attention,34
+kumasou,SC,NB_subject_333,120,Frontoparietal,33
+kumasou,SC,NB_subject_333,120,Hippocampus,11
+kumasou,SC,NB_subject_333,120,Limbic,29
+kumasou,SC,NB_subject_333,120,Somatomotor,47
+kumasou,SC,NB_subject_333,120,Unlabeled,10
+kumasou,SC,NB_subject_333,120,Ventral Attention,32
+kumasou,SC,NB_subject_333,120,Visual,69
+kumasou,SC,NB_subject_333,160,Default,46
+kumasou,SC,NB_subject_333,160,Dorsal Attention,30
+kumasou,SC,NB_subject_333,160,Frontoparietal,28
+kumasou,SC,NB_subject_333,160,Hippocampus,18
+kumasou,SC,NB_subject_333,160,Limbic,18
+kumasou,SC,NB_subject_333,160,Somatomotor,32
+kumasou,SC,NB_subject_333,160,Unlabeled,3
+kumasou,SC,NB_subject_333,160,Ventral Attention,32
+kumasou,SC,NB_subject_333,160,Visual,49
+kumasou,SC,NB_subject_333,200,Default,39
+kumasou,SC,NB_subject_333,200,Dorsal Attention,14
+kumasou,SC,NB_subject_333,200,Frontoparietal,35
+kumasou,SC,NB_subject_333,200,Hippocampus,14
+kumasou,SC,NB_subject_333,200,Limbic,9
+kumasou,SC,NB_subject_333,200,Somatomotor,25
+kumasou,SC,NB_subject_333,200,Unlabeled,4
+kumasou,SC,NB_subject_333,200,Ventral Attention,16
+kumasou,SC,NB_subject_333,200,Visual,45
+kumasou,SC,NB_subject_333,240,Default,18
+kumasou,SC,NB_subject_333,240,Dorsal Attention,12
+kumasou,SC,NB_subject_333,240,Frontoparietal,24
+kumasou,SC,NB_subject_333,240,Hippocampus,11
+kumasou,SC,NB_subject_333,240,Limbic,11
+kumasou,SC,NB_subject_333,240,Somatomotor,18
+kumasou,SC,NB_subject_333,240,Unlabeled,2
+kumasou,SC,NB_subject_333,240,Ventral Attention,10
+kumasou,SC,NB_subject_333,240,Visual,19
+kumasou,HC,NB_subject_324,80,Default,17
+kumasou,HC,NB_subject_324,80,Dorsal Attention,14
+kumasou,HC,NB_subject_324,80,Frontoparietal,15
+kumasou,HC,NB_subject_324,80,Hippocampus,7
+kumasou,HC,NB_subject_324,80,Limbic,11
+kumasou,HC,NB_subject_324,80,Somatomotor,24
+kumasou,HC,NB_subject_324,80,Ventral Attention,12
+kumasou,HC,NB_subject_324,80,Visual,36
+kumasou,HC,NB_subject_324,120,Default,16
+kumasou,HC,NB_subject_324,120,Dorsal Attention,14
+kumasou,HC,NB_subject_324,120,Frontoparietal,18
+kumasou,HC,NB_subject_324,120,Hippocampus,2
+kumasou,HC,NB_subject_324,120,Limbic,5
+kumasou,HC,NB_subject_324,120,Somatomotor,17
+kumasou,HC,NB_subject_324,120,Ventral Attention,6
+kumasou,HC,NB_subject_324,120,Visual,26
+kumasou,HC,NB_subject_324,160,Default,8
+kumasou,HC,NB_subject_324,160,Dorsal Attention,10
+kumasou,HC,NB_subject_324,160,Frontoparietal,9
+kumasou,HC,NB_subject_324,160,Hippocampus,9
+kumasou,HC,NB_subject_324,160,Limbic,5
+kumasou,HC,NB_subject_324,160,Somatomotor,8
+kumasou,HC,NB_subject_324,160,Ventral Attention,7
+kumasou,HC,NB_subject_324,160,Visual,19
+kumasou,HC,NB_subject_324,200,Default,15
+kumasou,HC,NB_subject_324,200,Dorsal Attention,8
+kumasou,HC,NB_subject_324,200,Frontoparietal,13
+kumasou,HC,NB_subject_324,200,Hippocampus,2
+kumasou,HC,NB_subject_324,200,Limbic,7
+kumasou,HC,NB_subject_324,200,Somatomotor,11
+kumasou,HC,NB_subject_324,200,Unlabeled,1
+kumasou,HC,NB_subject_324,200,Ventral Attention,6
+kumasou,HC,NB_subject_324,200,Visual,16
+kumasou,HC,NB_subject_324,240,Default,7
+kumasou,HC,NB_subject_324,240,Dorsal Attention,7
+kumasou,HC,NB_subject_324,240,Frontoparietal,7
+kumasou,HC,NB_subject_324,240,Hippocampus,3
+kumasou,HC,NB_subject_324,240,Limbic,1
+kumasou,HC,NB_subject_324,240,Somatomotor,6
+kumasou,HC,NB_subject_324,240,Unlabeled,1
+kumasou,HC,NB_subject_324,240,Ventral Attention,6
+kumasou,HC,NB_subject_324,240,Visual,10
+kumasou,HC,NB_subject_312,80,Default,140
+kumasou,HC,NB_subject_312,80,Dorsal Attention,82
+kumasou,HC,NB_subject_312,80,Frontoparietal,102
+kumasou,HC,NB_subject_312,80,Hippocampus,7
+kumasou,HC,NB_subject_312,80,Limbic,41
+kumasou,HC,NB_subject_312,80,Somatomotor,110
+kumasou,HC,NB_subject_312,80,Unlabeled,11
+kumasou,HC,NB_subject_312,80,Ventral Attention,76
+kumasou,HC,NB_subject_312,80,Visual,140
+kumasou,HC,NB_subject_312,120,Default,174
+kumasou,HC,NB_subject_312,120,Dorsal Attention,102
+kumasou,HC,NB_subject_312,120,Frontoparietal,96
+kumasou,HC,NB_subject_312,120,Hippocampus,5
+kumasou,HC,NB_subject_312,120,Limbic,42
+kumasou,HC,NB_subject_312,120,Somatomotor,124
+kumasou,HC,NB_subject_312,120,Unlabeled,15
+kumasou,HC,NB_subject_312,120,Ventral Attention,82
+kumasou,HC,NB_subject_312,120,Visual,146
+kumasou,HC,NB_subject_312,160,Default,106
+kumasou,HC,NB_subject_312,160,Dorsal Attention,80
+kumasou,HC,NB_subject_312,160,Frontoparietal,84
+kumasou,HC,NB_subject_312,160,Hippocampus,8
+kumasou,HC,NB_subject_312,160,Limbic,33
+kumasou,HC,NB_subject_312,160,Somatomotor,87
+kumasou,HC,NB_subject_312,160,Unlabeled,17
+kumasou,HC,NB_subject_312,160,Ventral Attention,50
+kumasou,HC,NB_subject_312,160,Visual,92
+kumasou,HC,NB_subject_312,200,Default,79
+kumasou,HC,NB_subject_312,200,Dorsal Attention,41
+kumasou,HC,NB_subject_312,200,Frontoparietal,47
+kumasou,HC,NB_subject_312,200,Hippocampus,6
+kumasou,HC,NB_subject_312,200,Limbic,34
+kumasou,HC,NB_subject_312,200,Somatomotor,66
+kumasou,HC,NB_subject_312,200,Unlabeled,12
+kumasou,HC,NB_subject_312,200,Ventral Attention,43
+kumasou,HC,NB_subject_312,200,Visual,51
+kumasou,HC,NB_subject_312,240,Default,52
+kumasou,HC,NB_subject_312,240,Dorsal Attention,23
+kumasou,HC,NB_subject_312,240,Frontoparietal,33
+kumasou,HC,NB_subject_312,240,Hippocampus,7
+kumasou,HC,NB_subject_312,240,Limbic,27
+kumasou,HC,NB_subject_312,240,Somatomotor,31
+kumasou,HC,NB_subject_312,240,Unlabeled,1
+kumasou,HC,NB_subject_312,240,Ventral Attention,19
+kumasou,HC,NB_subject_312,240,Visual,42
+kumasou,SC,NB_subject_345,80,Default,146
+kumasou,SC,NB_subject_345,80,Dorsal Attention,107
+kumasou,SC,NB_subject_345,80,Frontoparietal,135
+kumasou,SC,NB_subject_345,80,Hippocampus,3
+kumasou,SC,NB_subject_345,80,Limbic,38
+kumasou,SC,NB_subject_345,80,Somatomotor,107
+kumasou,SC,NB_subject_345,80,Unlabeled,6
+kumasou,SC,NB_subject_345,80,Ventral Attention,78
+kumasou,SC,NB_subject_345,80,Visual,160
+kumasou,SC,NB_subject_345,120,Default,133
+kumasou,SC,NB_subject_345,120,Dorsal Attention,86
+kumasou,SC,NB_subject_345,120,Frontoparietal,127
+kumasou,SC,NB_subject_345,120,Hippocampus,5
+kumasou,SC,NB_subject_345,120,Limbic,47
+kumasou,SC,NB_subject_345,120,Somatomotor,98
+kumasou,SC,NB_subject_345,120,Unlabeled,3
+kumasou,SC,NB_subject_345,120,Ventral Attention,74
+kumasou,SC,NB_subject_345,120,Visual,135
+kumasou,SC,NB_subject_345,160,Default,99
+kumasou,SC,NB_subject_345,160,Dorsal Attention,45
+kumasou,SC,NB_subject_345,160,Frontoparietal,97
+kumasou,SC,NB_subject_345,160,Hippocampus,4
+kumasou,SC,NB_subject_345,160,Limbic,33
+kumasou,SC,NB_subject_345,160,Somatomotor,84
+kumasou,SC,NB_subject_345,160,Unlabeled,2
+kumasou,SC,NB_subject_345,160,Ventral Attention,34
+kumasou,SC,NB_subject_345,160,Visual,119
+kumasou,SC,NB_subject_345,200,Default,92
+kumasou,SC,NB_subject_345,200,Dorsal Attention,64
+kumasou,SC,NB_subject_345,200,Frontoparietal,77
+kumasou,SC,NB_subject_345,200,Hippocampus,4
+kumasou,SC,NB_subject_345,200,Limbic,7
+kumasou,SC,NB_subject_345,200,Somatomotor,72
+kumasou,SC,NB_subject_345,200,Unlabeled,3
+kumasou,SC,NB_subject_345,200,Ventral Attention,38
+kumasou,SC,NB_subject_345,200,Visual,88
+kumasou,SC,NB_subject_345,240,Default,30
+kumasou,SC,NB_subject_345,240,Dorsal Attention,22
+kumasou,SC,NB_subject_345,240,Frontoparietal,27
+kumasou,SC,NB_subject_345,240,Hippocampus,2
+kumasou,SC,NB_subject_345,240,Limbic,13
+kumasou,SC,NB_subject_345,240,Somatomotor,31
+kumasou,SC,NB_subject_345,240,Unlabeled,2
+kumasou,SC,NB_subject_345,240,Ventral Attention,9
+kumasou,SC,NB_subject_345,240,Visual,44
+kumasou,SC,NB_subject_342,80,Default,8
+kumasou,SC,NB_subject_342,80,Frontoparietal,4
+kumasou,SC,NB_subject_342,80,Hippocampus,2
+kumasou,SC,NB_subject_342,80,Somatomotor,5
+kumasou,SC,NB_subject_342,80,Ventral Attention,1
+kumasou,SC,NB_subject_342,80,Visual,10
+kumasou,SC,NB_subject_342,120,Default,3
+kumasou,SC,NB_subject_342,120,Dorsal Attention,1
+kumasou,SC,NB_subject_342,120,Frontoparietal,5
+kumasou,SC,NB_subject_342,120,Hippocampus,2
+kumasou,SC,NB_subject_342,120,Limbic,2
+kumasou,SC,NB_subject_342,120,Somatomotor,3
+kumasou,SC,NB_subject_342,120,Ventral Attention,1
+kumasou,SC,NB_subject_342,120,Visual,6
+kumasou,SC,NB_subject_342,160,Default,2
+kumasou,SC,NB_subject_342,160,Dorsal Attention,3
+kumasou,SC,NB_subject_342,160,Frontoparietal,4
+kumasou,SC,NB_subject_342,160,Hippocampus,1
+kumasou,SC,NB_subject_342,160,Limbic,3
+kumasou,SC,NB_subject_342,160,Somatomotor,2
+kumasou,SC,NB_subject_342,160,Ventral Attention,2
+kumasou,SC,NB_subject_342,200,Default,7
+kumasou,SC,NB_subject_342,200,Hippocampus,1
+kumasou,SC,NB_subject_342,200,Limbic,2
+kumasou,SC,NB_subject_342,200,Somatomotor,1
+kumasou,SC,NB_subject_342,200,Ventral Attention,2
+kumasou,SC,NB_subject_342,200,Visual,4
+kumasou,HC,NB_subject_341,80,Default,90
+kumasou,HC,NB_subject_341,80,Dorsal Attention,49
+kumasou,HC,NB_subject_341,80,Frontoparietal,60
+kumasou,HC,NB_subject_341,80,Hippocampus,4
+kumasou,HC,NB_subject_341,80,Limbic,20
+kumasou,HC,NB_subject_341,80,Somatomotor,63
+kumasou,HC,NB_subject_341,80,Unlabeled,5
+kumasou,HC,NB_subject_341,80,Ventral Attention,40
+kumasou,HC,NB_subject_341,80,Visual,87
+kumasou,HC,NB_subject_341,120,Default,107
+kumasou,HC,NB_subject_341,120,Dorsal Attention,70
+kumasou,HC,NB_subject_341,120,Frontoparietal,84
+kumasou,HC,NB_subject_341,120,Hippocampus,4
+kumasou,HC,NB_subject_341,120,Limbic,48
+kumasou,HC,NB_subject_341,120,Somatomotor,95
+kumasou,HC,NB_subject_341,120,Unlabeled,9
+kumasou,HC,NB_subject_341,120,Ventral Attention,51
+kumasou,HC,NB_subject_341,120,Visual,95
+kumasou,HC,NB_subject_341,160,Default,69
+kumasou,HC,NB_subject_341,160,Dorsal Attention,50
+kumasou,HC,NB_subject_341,160,Frontoparietal,63
+kumasou,HC,NB_subject_341,160,Hippocampus,3
+kumasou,HC,NB_subject_341,160,Limbic,16
+kumasou,HC,NB_subject_341,160,Somatomotor,75
+kumasou,HC,NB_subject_341,160,Unlabeled,3
+kumasou,HC,NB_subject_341,160,Ventral Attention,40
+kumasou,HC,NB_subject_341,160,Visual,91
+kumasou,HC,NB_subject_341,200,Default,46
+kumasou,HC,NB_subject_341,200,Dorsal Attention,36
+kumasou,HC,NB_subject_341,200,Frontoparietal,42
+kumasou,HC,NB_subject_341,200,Hippocampus,4
+kumasou,HC,NB_subject_341,200,Limbic,13
+kumasou,HC,NB_subject_341,200,Somatomotor,49
+kumasou,HC,NB_subject_341,200,Unlabeled,2
+kumasou,HC,NB_subject_341,200,Ventral Attention,20
+kumasou,HC,NB_subject_341,200,Visual,39
+kumasou,HC,NB_subject_341,240,Default,23
+kumasou,HC,NB_subject_341,240,Dorsal Attention,13
+kumasou,HC,NB_subject_341,240,Frontoparietal,23
+kumasou,HC,NB_subject_341,240,Hippocampus,3
+kumasou,HC,NB_subject_341,240,Limbic,4
+kumasou,HC,NB_subject_341,240,Somatomotor,21
+kumasou,HC,NB_subject_341,240,Unlabeled,4
+kumasou,HC,NB_subject_341,240,Ventral Attention,13
+kumasou,HC,NB_subject_341,240,Visual,34
+kumasou,SC,NB_subject_325,80,Default,30
+kumasou,SC,NB_subject_325,80,Dorsal Attention,11
+kumasou,SC,NB_subject_325,80,Frontoparietal,20
+kumasou,SC,NB_subject_325,80,Hippocampus,2
+kumasou,SC,NB_subject_325,80,Limbic,8
+kumasou,SC,NB_subject_325,80,Somatomotor,20
+kumasou,SC,NB_subject_325,80,Unlabeled,1
+kumasou,SC,NB_subject_325,80,Ventral Attention,17
+kumasou,SC,NB_subject_325,80,Visual,29
+kumasou,SC,NB_subject_325,120,Default,41
+kumasou,SC,NB_subject_325,120,Dorsal Attention,21
+kumasou,SC,NB_subject_325,120,Frontoparietal,31
+kumasou,SC,NB_subject_325,120,Hippocampus,1
+kumasou,SC,NB_subject_325,120,Limbic,7
+kumasou,SC,NB_subject_325,120,Somatomotor,23
+kumasou,SC,NB_subject_325,120,Unlabeled,5
+kumasou,SC,NB_subject_325,120,Ventral Attention,8
+kumasou,SC,NB_subject_325,120,Visual,53
+kumasou,SC,NB_subject_325,160,Default,23
+kumasou,SC,NB_subject_325,160,Dorsal Attention,19
+kumasou,SC,NB_subject_325,160,Frontoparietal,16
+kumasou,SC,NB_subject_325,160,Hippocampus,1
+kumasou,SC,NB_subject_325,160,Limbic,6
+kumasou,SC,NB_subject_325,160,Somatomotor,18
+kumasou,SC,NB_subject_325,160,Unlabeled,4
+kumasou,SC,NB_subject_325,160,Ventral Attention,13
+kumasou,SC,NB_subject_325,160,Visual,30
+kumasou,SC,NB_subject_325,200,Default,28
+kumasou,SC,NB_subject_325,200,Dorsal Attention,9
+kumasou,SC,NB_subject_325,200,Frontoparietal,16
+kumasou,SC,NB_subject_325,200,Hippocampus,3
+kumasou,SC,NB_subject_325,200,Limbic,6
+kumasou,SC,NB_subject_325,200,Somatomotor,16
+kumasou,SC,NB_subject_325,200,Unlabeled,4
+kumasou,SC,NB_subject_325,200,Ventral Attention,8
+kumasou,SC,NB_subject_325,200,Visual,31
+kumasou,SC,NB_subject_325,240,Default,14
+kumasou,SC,NB_subject_325,240,Dorsal Attention,12
+kumasou,SC,NB_subject_325,240,Frontoparietal,11
+kumasou,SC,NB_subject_325,240,Hippocampus,6
+kumasou,SC,NB_subject_325,240,Limbic,2
+kumasou,SC,NB_subject_325,240,Somatomotor,10
+kumasou,SC,NB_subject_325,240,Ventral Attention,7
+kumasou,SC,NB_subject_325,240,Visual,8
+kumasou,HC,NB_subject_317,80,Default,151
+kumasou,HC,NB_subject_317,80,Dorsal Attention,75
+kumasou,HC,NB_subject_317,80,Frontoparietal,142
+kumasou,HC,NB_subject_317,80,Hippocampus,4
+kumasou,HC,NB_subject_317,80,Limbic,38
+kumasou,HC,NB_subject_317,80,Somatomotor,140
+kumasou,HC,NB_subject_317,80,Unlabeled,15
+kumasou,HC,NB_subject_317,80,Ventral Attention,108
+kumasou,HC,NB_subject_317,80,Visual,128
+kumasou,HC,NB_subject_317,120,Default,134
+kumasou,HC,NB_subject_317,120,Dorsal Attention,85
+kumasou,HC,NB_subject_317,120,Frontoparietal,139
+kumasou,HC,NB_subject_317,120,Hippocampus,5
+kumasou,HC,NB_subject_317,120,Limbic,26
+kumasou,HC,NB_subject_317,120,Somatomotor,121
+kumasou,HC,NB_subject_317,120,Unlabeled,37
+kumasou,HC,NB_subject_317,120,Ventral Attention,86
+kumasou,HC,NB_subject_317,120,Visual,127
+kumasou,HC,NB_subject_317,160,Default,92
+kumasou,HC,NB_subject_317,160,Dorsal Attention,56
+kumasou,HC,NB_subject_317,160,Frontoparietal,74
+kumasou,HC,NB_subject_317,160,Hippocampus,7
+kumasou,HC,NB_subject_317,160,Limbic,16
+kumasou,HC,NB_subject_317,160,Somatomotor,95
+kumasou,HC,NB_subject_317,160,Unlabeled,13
+kumasou,HC,NB_subject_317,160,Ventral Attention,52
+kumasou,HC,NB_subject_317,160,Visual,91
+kumasou,HC,NB_subject_317,200,Default,76
+kumasou,HC,NB_subject_317,200,Dorsal Attention,31
+kumasou,HC,NB_subject_317,200,Frontoparietal,37
+kumasou,HC,NB_subject_317,200,Hippocampus,3
+kumasou,HC,NB_subject_317,200,Limbic,8
+kumasou,HC,NB_subject_317,200,Somatomotor,59
+kumasou,HC,NB_subject_317,200,Unlabeled,5
+kumasou,HC,NB_subject_317,200,Ventral Attention,41
+kumasou,HC,NB_subject_317,200,Visual,43
+kumasou,HC,NB_subject_317,240,Default,37
+kumasou,HC,NB_subject_317,240,Dorsal Attention,18
+kumasou,HC,NB_subject_317,240,Frontoparietal,26
+kumasou,HC,NB_subject_317,240,Hippocampus,1
+kumasou,HC,NB_subject_317,240,Limbic,12
+kumasou,HC,NB_subject_317,240,Somatomotor,24
+kumasou,HC,NB_subject_317,240,Unlabeled,3
+kumasou,HC,NB_subject_317,240,Ventral Attention,19
+kumasou,HC,NB_subject_317,240,Visual,30
+kumasou,SC,NB_subject_330,80,Default,258
+kumasou,SC,NB_subject_330,80,Dorsal Attention,206
+kumasou,SC,NB_subject_330,80,Frontoparietal,226
+kumasou,SC,NB_subject_330,80,Hippocampus,5
+kumasou,SC,NB_subject_330,80,Limbic,68
+kumasou,SC,NB_subject_330,80,Somatomotor,250
+kumasou,SC,NB_subject_330,80,Unlabeled,24
+kumasou,SC,NB_subject_330,80,Ventral Attention,151
+kumasou,SC,NB_subject_330,80,Visual,367
+kumasou,SC,NB_subject_330,120,Default,287
+kumasou,SC,NB_subject_330,120,Dorsal Attention,173
+kumasou,SC,NB_subject_330,120,Frontoparietal,203
+kumasou,SC,NB_subject_330,120,Hippocampus,9
+kumasou,SC,NB_subject_330,120,Limbic,89
+kumasou,SC,NB_subject_330,120,Somatomotor,266
+kumasou,SC,NB_subject_330,120,Unlabeled,39
+kumasou,SC,NB_subject_330,120,Ventral Attention,134
+kumasou,SC,NB_subject_330,120,Visual,388
+kumasou,SC,NB_subject_330,160,Default,186
+kumasou,SC,NB_subject_330,160,Dorsal Attention,134
+kumasou,SC,NB_subject_330,160,Frontoparietal,164
+kumasou,SC,NB_subject_330,160,Hippocampus,10
+kumasou,SC,NB_subject_330,160,Limbic,62
+kumasou,SC,NB_subject_330,160,Somatomotor,162
+kumasou,SC,NB_subject_330,160,Unlabeled,3
+kumasou,SC,NB_subject_330,160,Ventral Attention,91
+kumasou,SC,NB_subject_330,160,Visual,295
+kumasou,SC,NB_subject_330,200,Default,142
+kumasou,SC,NB_subject_330,200,Dorsal Attention,71
+kumasou,SC,NB_subject_330,200,Frontoparietal,87
+kumasou,SC,NB_subject_330,200,Hippocampus,7
+kumasou,SC,NB_subject_330,200,Limbic,19
+kumasou,SC,NB_subject_330,200,Somatomotor,82
+kumasou,SC,NB_subject_330,200,Unlabeled,6
+kumasou,SC,NB_subject_330,200,Ventral Attention,40
+kumasou,SC,NB_subject_330,200,Visual,152
+kumasou,SC,NB_subject_330,240,Default,46
+kumasou,SC,NB_subject_330,240,Dorsal Attention,24
+kumasou,SC,NB_subject_330,240,Frontoparietal,35
+kumasou,SC,NB_subject_330,240,Hippocampus,8
+kumasou,SC,NB_subject_330,240,Limbic,30
+kumasou,SC,NB_subject_330,240,Somatomotor,37
+kumasou,SC,NB_subject_330,240,Unlabeled,1
+kumasou,SC,NB_subject_330,240,Ventral Attention,24
+kumasou,SC,NB_subject_330,240,Visual,78
+kumasou,SC,NB_subject_329,80,Default,52
+kumasou,SC,NB_subject_329,80,Dorsal Attention,32
+kumasou,SC,NB_subject_329,80,Frontoparietal,59
+kumasou,SC,NB_subject_329,80,Hippocampus,4
+kumasou,SC,NB_subject_329,80,Limbic,12
+kumasou,SC,NB_subject_329,80,Somatomotor,43
+kumasou,SC,NB_subject_329,80,Unlabeled,2
+kumasou,SC,NB_subject_329,80,Ventral Attention,31
+kumasou,SC,NB_subject_329,80,Visual,77
+kumasou,SC,NB_subject_329,120,Default,37
+kumasou,SC,NB_subject_329,120,Dorsal Attention,16
+kumasou,SC,NB_subject_329,120,Frontoparietal,26
+kumasou,SC,NB_subject_329,120,Hippocampus,6
+kumasou,SC,NB_subject_329,120,Limbic,11
+kumasou,SC,NB_subject_329,120,Somatomotor,42
+kumasou,SC,NB_subject_329,120,Unlabeled,1
+kumasou,SC,NB_subject_329,120,Ventral Attention,32
+kumasou,SC,NB_subject_329,120,Visual,62
+kumasou,SC,NB_subject_329,160,Default,15
+kumasou,SC,NB_subject_329,160,Dorsal Attention,10
+kumasou,SC,NB_subject_329,160,Frontoparietal,19
+kumasou,SC,NB_subject_329,160,Hippocampus,3
+kumasou,SC,NB_subject_329,160,Limbic,12
+kumasou,SC,NB_subject_329,160,Somatomotor,13
+kumasou,SC,NB_subject_329,160,Unlabeled,3
+kumasou,SC,NB_subject_329,160,Ventral Attention,8
+kumasou,SC,NB_subject_329,160,Visual,26
+kumasou,SC,NB_subject_329,200,Default,16
+kumasou,SC,NB_subject_329,200,Dorsal Attention,5
+kumasou,SC,NB_subject_329,200,Frontoparietal,9
+kumasou,SC,NB_subject_329,200,Hippocampus,5
+kumasou,SC,NB_subject_329,200,Limbic,3
+kumasou,SC,NB_subject_329,200,Somatomotor,6
+kumasou,SC,NB_subject_329,200,Unlabeled,2
+kumasou,SC,NB_subject_329,200,Ventral Attention,4
+kumasou,SC,NB_subject_329,200,Visual,19
+kumasou,SC,NB_subject_329,240,Default,11
+kumasou,SC,NB_subject_329,240,Dorsal Attention,5
+kumasou,SC,NB_subject_329,240,Frontoparietal,5
+kumasou,SC,NB_subject_329,240,Hippocampus,4
+kumasou,SC,NB_subject_329,240,Limbic,4
+kumasou,SC,NB_subject_329,240,Somatomotor,2
+kumasou,SC,NB_subject_329,240,Unlabeled,2
+kumasou,SC,NB_subject_329,240,Ventral Attention,3
+kumasou,SC,NB_subject_329,240,Visual,12
+kumasou,SC,NB_subject_339,80,Default,11
+kumasou,SC,NB_subject_339,80,Dorsal Attention,5
+kumasou,SC,NB_subject_339,80,Frontoparietal,5
+kumasou,SC,NB_subject_339,80,Hippocampus,2
+kumasou,SC,NB_subject_339,80,Somatomotor,5
+kumasou,SC,NB_subject_339,80,Ventral Attention,3
+kumasou,SC,NB_subject_339,80,Visual,3
+kumasou,SC,NB_subject_339,120,Default,6
+kumasou,SC,NB_subject_339,120,Dorsal Attention,3
+kumasou,SC,NB_subject_339,120,Frontoparietal,5
+kumasou,SC,NB_subject_339,120,Hippocampus,2
+kumasou,SC,NB_subject_339,120,Limbic,4
+kumasou,SC,NB_subject_339,120,Somatomotor,9
+kumasou,SC,NB_subject_339,120,Ventral Attention,4
+kumasou,SC,NB_subject_339,120,Visual,6
+kumasou,SC,NB_subject_339,160,Default,6
+kumasou,SC,NB_subject_339,160,Dorsal Attention,2
+kumasou,SC,NB_subject_339,160,Frontoparietal,2
+kumasou,SC,NB_subject_339,160,Hippocampus,1
+kumasou,SC,NB_subject_339,160,Limbic,1
+kumasou,SC,NB_subject_339,160,Somatomotor,5
+kumasou,SC,NB_subject_339,160,Ventral Attention,4
+kumasou,SC,NB_subject_339,160,Visual,4
+kumasou,SC,NB_subject_339,200,Default,7
+kumasou,SC,NB_subject_339,200,Dorsal Attention,4
+kumasou,SC,NB_subject_339,200,Frontoparietal,4
+kumasou,SC,NB_subject_339,200,Hippocampus,1
+kumasou,SC,NB_subject_339,200,Limbic,3
+kumasou,SC,NB_subject_339,200,Somatomotor,7
+kumasou,SC,NB_subject_339,200,Ventral Attention,1
+kumasou,SC,NB_subject_339,200,Visual,2
+kumasou,SC,NB_subject_339,240,Default,3
+kumasou,SC,NB_subject_339,240,Frontoparietal,3
+kumasou,SC,NB_subject_339,240,Hippocampus,2
+kumasou,SC,NB_subject_339,240,Limbic,1
+kumasou,SC,NB_subject_339,240,Somatomotor,1
+kumasou,SC,NB_subject_339,240,Ventral Attention,2
